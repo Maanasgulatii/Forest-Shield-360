@@ -3,26 +3,21 @@
 ## Project Overview
 **Forest-Shield-360** is an advanced **forest threat detection, prediction, and alert system** designed to identify potential environmental threats and provide timely alerts. This project integrates **machine learning models, reinforcement learning, and an automated alert system** to enhance early warning mechanisms and improve conservation efforts.
 
-The system performs three key tasks:
-- **Detection:** Identifies and categorizes 12 common forest threats using MATLAB-based simulations.
-- **Prediction:** Forecasts future threats using **Decision Trees, XGBoost, Prophet models, Ensemble Learning, and Reinforcement Learning**.
-- **Alert System:** Uses **Twilio API** to send alerts when predefined thresholds are exceeded.
 
 ## Features
-1. **Identification of 12 common forest threats.**
+1. **Identification of 12 most common forest threats.**
 2. **Simulation-based dataset generation** (3700 rows covering 45 days).
 3. **Machine learning-based threat prediction** with multiple models.
 4. **Reinforcement learning agent** to enhance threat forecasts.
 5. **Automated alert system** using **Twilio API**.
-6. **Forest Health Index calculation** for monitoring overall environmental conditions.
 
 ---
 ## Modules
 ### 1. Detection
-- Identifies **12 common threats**: Deforestation, Drought, Disease, Fire, Flood, Landslide, Lightning, Overgrazing, Poaching, Pollution, Storm, and Earthquake.
+- Identifies **12 most likely to occur threats**: Deforestation, Drought, Disease, Fire, Flood, Landslide, Lightning, Overgrazing, Poaching, Pollution, Storm, and Earthquake.
 - Simulates these threats in **MATLAB** to generate synthetic data.
 - Dataset includes **3700 records spanning 45 days**.
-- Features collected include temperature, precipitation, threat type, and severity.
+- Features collected include date, threat name, temperature, precipitation, wildlife affected, threat type, and severity.
 
 ### 2. Prediction
 - Uses the dataset to train various **machine learning models**:
@@ -44,28 +39,84 @@ The system performs three key tasks:
 
 ### 3. Alert System
 - **Twilio-based alert system** (`twilio_alerts.py`) sends messages when threat severity crosses predefined thresholds.
-- Alerts include details on **threat type, severity, and recommended actions**.
+- Alerts include details on threat name, and its severity, or wildlife affected or forest health index, or all three of them based on the defined thresholds.
 
 ```python
-# twilio_alerts.py (Embed this in README for users to copy)
+import os
 from twilio.rest import Client
 
-def send_threat_alert(threat_info):
-    account_sid = "your_twilio_account_sid"
-    auth_token = "your_twilio_auth_token"
-    client = Client(account_sid, auth_token)
+def send_threat_alert(prediction_result):
+    """
+    Send SMS alert if threat conditions meet critical thresholds:
+    - Severity > 7
+    - Wildlife impact is 'High' or 'Severe'
+    - Forest health index < 60
     
-    message_body = f"ALERT: {threat_info['Most Likely Threat']} detected!\n" \
-                   f"Severity: {threat_info['Predicted Severity (1-10)']}\n" \
-                   f"Recommended Action: {threat_info['Suggested Action']}"
+    Args:
+        prediction_result (dict): The result dictionary from predict_threats()
     
-    message = client.messages.create(
-        body=message_body,
-        from_="your_twilio_phone_number",
-        to="recipient_phone_number"
+    Returns:
+        str or None: The Twilio message SID if sent, None otherwise
+    """
+    # Extract relevant values from prediction result
+    threat_name = prediction_result['Most Likely Threat']
+    date_str = prediction_result['Date']
+    severity = prediction_result['Predicted Severity (1-10)']
+    wildlife_impact = prediction_result['Predicted Wildlife Impact']
+    forest_health_index = prediction_result['Forest Health Index (0-100)']
+    
+    # Check if any threshold is met
+    should_alert = (
+        severity > 7 or 
+        wildlife_impact in ['High', 'Severe'] or 
+        forest_health_index < 60
     )
-    print(f"Alert Sent: {message.sid}")
+    
+    if not should_alert:
+        print("No alert thresholds met. Skipping SMS notification.")
+        return None
+    
+    # Construct alert message
+    alert_reasons = []
+    if severity > 7:
+        alert_reasons.append(f"severity is {severity}/10")
+    if wildlife_impact in ['High', 'Severe']:
+        alert_reasons.append(f"wildlife impact is {wildlife_impact}")
+    if forest_health_index < 60:
+        alert_reasons.append(f"forest health index is {forest_health_index}")
+    
+    alert_reason = " and ".join(alert_reasons)
+    
+    message = (
+        f"ALERT: '{threat_name}' is most likely to pose a threat to the forest on {date_str}. "
+        f"The {alert_reason}. Please take action accordingly."
+    )
+    
+    # Twilio credentials
+    account_sid = 'Your account_sid'
+    auth_token = 'Your auth_token'
+    messaging_service_sid = 'Your messaging SSID'
+    to_number = 'Your phone number' 
+    
+    # Initialize Twilio client and send message
+    try:
+        client = Client(account_sid, auth_token)
+        message_sent = client.messages.create(
+            messaging_service_sid=messaging_service_sid,
+            body=message,
+            to=to_number
+        )
+        print(f"Alert SMS sent! SID: {message_sent.sid}")
+        print(f"Status: {message_sent.status}")
+        return message_sent.sid
+    except Exception as e:
+        print(f"Failed to send SMS alert: {e}")
+        return None
 ```
+
+## Remember: 
+- Make an account on twilio and verify your phone number first.
+- It should contain '+' and the country code.
 
 ---
 ## Installation Guide
@@ -78,6 +129,7 @@ cd Forest-Shield-360
 ```
 
 ### 2. Install Dependencies:
+ Store the requirements in a requirements.txt file. Then:
 ```bash
 pip install -r requirements.txt
 ```
@@ -102,34 +154,14 @@ python scripts/threat_prediction.py
 ```
 
 ---
-## Adding Images to README
-To upload images in your **README.md**:
-1. **Add the image to your GitHub repository** (e.g., inside a `docs/images/` folder).
-2. **Use the following Markdown syntax:**
-   ```markdown
-   ![Description](docs/images/example.png)
-   ```
-3. **If using an external image:**
-   ```markdown
-   ![Description](https://example.com/image.png)
-   ```
-
----
-## Future Enhancements
-1. **Expand dataset** to include real-time environmental data.
-2. **Enhance reinforcement learning** to improve threat mitigation strategies.
-3. **Integrate GIS mapping** for real-time threat visualization.
-4. **Deploy as a web app** for interactive threat monitoring.
+Apart from this, **The Reinforcement Learning (RL)** agent in Forest-Shield-360 continuously learns and improves its threat prediction accuracy over time. It leverages insights from the other models, refining its predictions by dynamically adjusting its Q-values based on past outcomes. The RL agent tracks actual vs. predicted threats in a CSV file, analyzing discrepancies and updating its reward system to enhance accuracy. With each prediction, it fine-tunes its decision-making, ensuring more reliable threat forecasts and mitigation strategies with ongoing learning and adaptation. 
 
 ---
 ## Contribution Guidelines
 - Fork the repository and create a new branch.
 - Commit your changes and submit a pull request.
-- Follow best practices for **code formatting and documentation**.
 
 ---
 ## License
 This project is licensed under the **MIT License**.
-
-*Drop a ⭐ if you found Forest-Shield-360 useful!* 🌲🔥🌍
 
