@@ -1,0 +1,3701 @@
+Date,Threat Name,Temperature (°C),Precipitation (mm),Threat Type,Wildlife Affected,Severity
+08 February,Landslide,32,274,Natural,Low,4
+08 February,Overgrazing,26,280,Human Made,Medium,7
+08 February,Deforestation,27,583,Human Made,Low,9
+08 February,Storm,39,613,Natural,Medium,4
+08 February,Drought,47,327,Natural,Medium,8
+08 February,Landslide,5,672,Natural,High,2
+08 February,Flood,3,553,Natural,Medium,6
+08 February,Flood,13,240,Natural,Low,3
+08 February,Fire,31,232,Natural,Low,9
+08 February,Overgrazing,33,315,Human Made,Medium,5
+08 February,Earthquake,6,513,Natural,Medium,8
+08 February,Fire,40,599,Natural,Medium,3
+08 February,Pollution,11,538,Human Made,Low,9
+08 February,Deforestation,45,452,Human Made,High,8
+08 February,Fire,36,529,Natural,High,8
+08 February,Pollution,10,543,Human Made,High,6
+08 February,Drought,45,340,Natural,Low,2
+08 February,Lightning,11,550,Natural,Medium,5
+08 February,Storm,45,149,Natural,High,2
+08 February,Overgrazing,27,443,Human Made,Medium,7
+08 February,Overgrazing,40,509,Human Made,Medium,5
+08 February,Flood,17,16,Natural,Medium,7
+08 February,Overgrazing,3,157,Human Made,Medium,4
+08 February,Flood,22,361,Natural,High,2
+08 February,Poaching,22,324,Human Made,High,8
+08 February,Deforestation,21,236,Human Made,Medium,10
+08 February,Landslide,30,596,Natural,Medium,6
+08 February,Storm,48,322,Natural,Medium,5
+08 February,Poaching,38,72,Human Made,Medium,6
+08 February,Landslide,25,359,Natural,High,10
+08 February,Overgrazing,22,261,Human Made,Low,4
+08 February,Storm,33,398,Natural,Medium,8
+08 February,Earthquake,24,424,Natural,High,8
+08 February,Storm,12,338,Natural,High,9
+08 February,Disease,14,417,Natural,Medium,9
+08 February,Poaching,44,401,Human Made,High,7
+08 February,Drought,27,457,Natural,Low,7
+08 February,Flood,18,386,Natural,Low,10
+08 February,Storm,41,155,Natural,Low,10
+08 February,Storm,24,57,Natural,Low,4
+08 February,Deforestation,11,552,Human Made,High,4
+08 February,Overgrazing,7,236,Human Made,Medium,8
+08 February,Drought,40,195,Natural,Medium,6
+08 February,Overgrazing,26,262,Human Made,Medium,5
+08 February,Poaching,8,642,Human Made,Low,4
+08 February,Poaching,38,676,Human Made,High,10
+08 February,Pollution,41,271,Human Made,Medium,6
+08 February,Deforestation,34,368,Human Made,Low,8
+08 February,Landslide,8,432,Natural,Low,10
+08 February,Poaching,48,692,Human Made,Medium,2
+08 February,Overgrazing,17,650,Human Made,High,5
+08 February,Overgrazing,42,314,Human Made,High,3
+08 February,Earthquake,34,683,Natural,High,2
+08 February,Overgrazing,37,320,Human Made,Low,9
+08 February,Fire,41,13,Natural,High,10
+08 February,Drought,5,510,Natural,Low,4
+08 February,Lightning,2,207,Natural,High,2
+08 February,Flood,40,434,Natural,Medium,9
+08 February,Drought,37,417,Natural,Medium,5
+08 February,Earthquake,27,545,Natural,Medium,6
+08 February,Overgrazing,29,244,Human Made,Medium,5
+08 February,Fire,36,506,Natural,Medium,5
+08 February,Earthquake,39,208,Natural,Low,9
+08 February,Deforestation,32,412,Human Made,High,8
+08 February,Flood,25,103,Natural,Medium,6
+08 February,Overgrazing,41,634,Human Made,Medium,6
+08 February,Earthquake,39,573,Natural,High,10
+08 February,Pollution,41,112,Human Made,High,3
+08 February,Drought,2,358,Natural,Low,1
+08 February,Poaching,15,354,Human Made,Low,6
+08 February,Overgrazing,9,93,Human Made,Low,6
+08 February,Deforestation,19,400,Human Made,Medium,7
+08 February,Poaching,20,571,Human Made,Low,9
+08 February,Storm,10,114,Natural,Low,10
+08 February,Landslide,15,379,Natural,Medium,6
+08 February,Overgrazing,33,605,Human Made,High,9
+08 February,Lightning,17,110,Natural,High,6
+08 February,Flood,13,245,Natural,Medium,1
+08 February,Landslide,42,649,Natural,Low,4
+08 February,Deforestation,45,273,Human Made,High,6
+08 February,Pollution,38,352,Human Made,Medium,8
+08 February,Poaching,4,643,Human Made,Medium,1
+09 February,Overgrazing,22,152,Human Made,Low,7
+09 February,Overgrazing,32,396,Human Made,Medium,10
+09 February,Overgrazing,5,597,Human Made,High,3
+09 February,Overgrazing,3,626,Human Made,High,9
+09 February,Disease,2,39,Natural,High,5
+09 February,Pollution,2,317,Human Made,Medium,6
+09 February,Storm,7,449,Natural,Low,6
+09 February,Storm,47,451,Natural,Low,4
+09 February,Earthquake,30,673,Natural,Medium,1
+09 February,Storm,35,340,Natural,High,3
+09 February,Lightning,6,209,Natural,Low,1
+09 February,Poaching,31,21,Human Made,Low,2
+09 February,Pollution,48,661,Human Made,High,4
+09 February,Pollution,41,511,Human Made,Medium,3
+09 February,Overgrazing,34,297,Human Made,Medium,4
+09 February,Drought,2,27,Natural,Low,10
+09 February,Poaching,21,239,Human Made,High,7
+09 February,Poaching,23,498,Human Made,Medium,4
+09 February,Overgrazing,16,41,Human Made,Medium,6
+09 February,Drought,47,478,Natural,Medium,1
+09 February,Landslide,48,217,Natural,High,6
+09 February,Pollution,14,567,Human Made,Medium,3
+09 February,Pollution,23,650,Human Made,Medium,8
+09 February,Flood,19,484,Natural,Low,2
+09 February,Landslide,49,576,Natural,Medium,10
+09 February,Overgrazing,17,96,Human Made,Low,3
+09 February,Earthquake,14,10,Natural,High,7
+09 February,Poaching,17,545,Human Made,Low,3
+09 February,Fire,29,108,Natural,High,5
+09 February,Drought,34,430,Natural,Low,5
+09 February,Storm,38,387,Natural,Low,2
+09 February,Poaching,33,688,Human Made,Medium,7
+09 February,Landslide,42,419,Natural,High,1
+09 February,Lightning,8,123,Natural,High,6
+09 February,Flood,37,535,Natural,High,1
+09 February,Poaching,26,42,Human Made,High,6
+09 February,Earthquake,24,489,Natural,Low,3
+09 February,Fire,41,659,Natural,Medium,8
+09 February,Fire,16,325,Natural,Medium,2
+09 February,Overgrazing,49,328,Human Made,Low,4
+09 February,Fire,35,170,Natural,Low,7
+09 February,Landslide,38,174,Natural,High,4
+09 February,Poaching,39,585,Human Made,Low,7
+09 February,Drought,39,627,Natural,Medium,1
+09 February,Landslide,36,404,Natural,Low,5
+09 February,Lightning,20,451,Natural,Low,7
+09 February,Pollution,26,40,Human Made,Low,9
+09 February,Flood,48,566,Natural,Low,8
+09 February,Fire,16,589,Natural,Medium,6
+09 February,Flood,43,412,Natural,High,2
+09 February,Landslide,47,44,Natural,High,5
+09 February,Flood,31,165,Natural,High,6
+09 February,Pollution,38,591,Human Made,Medium,6
+09 February,Deforestation,28,35,Human Made,Low,1
+09 February,Fire,18,657,Natural,Low,4
+09 February,Flood,2,634,Natural,High,3
+09 February,Flood,42,398,Natural,Medium,6
+09 February,Flood,7,561,Natural,Low,9
+09 February,Fire,2,545,Natural,Low,10
+09 February,Flood,37,432,Natural,Medium,5
+09 February,Deforestation,38,213,Human Made,Low,7
+09 February,Earthquake,23,538,Natural,Low,1
+09 February,Poaching,13,398,Human Made,Low,6
+09 February,Disease,31,668,Natural,Low,3
+09 February,Lightning,20,95,Natural,High,7
+09 February,Landslide,38,675,Natural,High,7
+09 February,Flood,25,693,Natural,Medium,6
+09 February,Fire,13,648,Natural,High,5
+09 February,Pollution,19,9,Human Made,Low,6
+09 February,Disease,10,612,Natural,High,4
+09 February,Lightning,15,159,Natural,Low,9
+09 February,Flood,4,443,Natural,High,3
+09 February,Poaching,17,257,Human Made,High,4
+09 February,Overgrazing,24,367,Human Made,High,8
+09 February,Drought,12,635,Natural,High,2
+09 February,Earthquake,14,693,Natural,Medium,9
+09 February,Drought,13,253,Natural,High,4
+09 February,Poaching,20,586,Human Made,Low,6
+09 February,Storm,11,508,Natural,Low,5
+09 February,Fire,2,72,Natural,High,8
+09 February,Deforestation,19,258,Human Made,Low,5
+09 February,Overgrazing,8,63,Human Made,High,10
+10 February,Drought,6,151,Natural,Medium,5
+10 February,Pollution,41,126,Human Made,High,8
+10 February,Overgrazing,21,537,Human Made,Medium,4
+10 February,Drought,26,190,Natural,Low,4
+10 February,Flood,45,660,Natural,High,5
+10 February,Drought,42,135,Natural,High,2
+10 February,Overgrazing,38,252,Human Made,Medium,1
+10 February,Overgrazing,50,544,Human Made,Medium,6
+10 February,Lightning,25,563,Natural,Medium,8
+10 February,Fire,40,606,Natural,Low,10
+10 February,Fire,50,511,Natural,Medium,9
+10 February,Storm,45,538,Natural,Medium,6
+10 February,Disease,32,188,Natural,High,4
+10 February,Overgrazing,18,276,Human Made,High,7
+10 February,Lightning,15,274,Natural,Medium,5
+10 February,Flood,33,603,Natural,Low,10
+10 February,Overgrazing,23,5,Human Made,Low,1
+10 February,Drought,26,452,Natural,Medium,7
+10 February,Overgrazing,39,326,Human Made,Low,3
+10 February,Landslide,11,14,Natural,Medium,4
+10 February,Poaching,27,431,Human Made,High,3
+10 February,Overgrazing,22,497,Human Made,Medium,10
+10 February,Earthquake,43,208,Natural,High,9
+10 February,Flood,24,597,Natural,Medium,6
+10 February,Poaching,33,552,Human Made,Medium,2
+10 February,Flood,13,180,Natural,Low,3
+10 February,Fire,26,45,Natural,Low,5
+10 February,Flood,42,3,Natural,High,2
+10 February,Disease,8,619,Natural,High,7
+10 February,Earthquake,34,599,Natural,Low,8
+10 February,Disease,9,165,Natural,Low,1
+10 February,Lightning,30,545,Natural,Medium,9
+10 February,Earthquake,7,109,Natural,Medium,9
+10 February,Poaching,2,523,Human Made,High,7
+10 February,Earthquake,48,169,Natural,Low,4
+10 February,Earthquake,40,595,Natural,Medium,10
+10 February,Deforestation,34,465,Human Made,Low,4
+10 February,Earthquake,4,551,Natural,Low,10
+10 February,Pollution,39,477,Human Made,High,8
+10 February,Poaching,14,508,Human Made,High,1
+10 February,Overgrazing,25,229,Human Made,Medium,4
+10 February,Poaching,12,2,Human Made,High,10
+10 February,Earthquake,1,373,Natural,Medium,7
+10 February,Flood,21,463,Natural,Medium,6
+10 February,Overgrazing,9,271,Human Made,High,2
+10 February,Fire,8,10,Natural,High,2
+10 February,Earthquake,25,211,Natural,High,8
+10 February,Poaching,28,129,Human Made,High,1
+10 February,Deforestation,1,469,Human Made,Low,5
+10 February,Deforestation,16,303,Human Made,High,1
+10 February,Deforestation,46,94,Human Made,Low,1
+10 February,Fire,38,316,Natural,Medium,4
+10 February,Overgrazing,44,95,Human Made,High,4
+10 February,Pollution,16,68,Human Made,Medium,8
+10 February,Lightning,50,461,Natural,Low,2
+10 February,Landslide,36,427,Natural,High,10
+10 February,Disease,39,584,Natural,High,5
+10 February,Storm,5,44,Natural,High,3
+10 February,Poaching,3,202,Human Made,High,9
+10 February,Storm,45,106,Natural,Medium,7
+10 February,Drought,15,144,Natural,High,10
+10 February,Earthquake,27,206,Natural,Medium,3
+10 February,Pollution,45,573,Human Made,High,6
+10 February,Lightning,3,131,Natural,High,1
+10 February,Drought,5,79,Natural,Low,3
+10 February,Overgrazing,7,53,Human Made,Medium,9
+10 February,Storm,16,48,Natural,Medium,3
+10 February,Overgrazing,11,324,Human Made,High,2
+10 February,Deforestation,29,445,Human Made,Medium,2
+10 February,Storm,7,533,Natural,High,5
+10 February,Flood,10,390,Natural,High,1
+10 February,Disease,41,700,Natural,High,4
+10 February,Overgrazing,18,698,Human Made,Low,3
+10 February,Earthquake,28,342,Natural,Medium,2
+10 February,Flood,18,396,Natural,Medium,6
+10 February,Fire,42,323,Natural,Low,10
+10 February,Disease,25,556,Natural,High,2
+10 February,Landslide,43,327,Natural,High,4
+10 February,Earthquake,18,609,Natural,Medium,2
+10 February,Fire,5,615,Natural,Medium,2
+10 February,Pollution,28,593,Human Made,Medium,4
+10 February,Lightning,47,510,Natural,High,2
+11 February,Lightning,43,593,Natural,High,10
+11 February,Drought,20,204,Natural,Medium,7
+11 February,Overgrazing,18,358,Human Made,Medium,6
+11 February,Storm,50,688,Natural,Medium,2
+11 February,Pollution,28,327,Human Made,High,7
+11 February,Poaching,13,29,Human Made,High,6
+11 February,Earthquake,14,237,Natural,Medium,1
+11 February,Earthquake,48,246,Natural,Medium,7
+11 February,Landslide,16,621,Natural,High,5
+11 February,Earthquake,6,119,Natural,Medium,1
+11 February,Poaching,23,376,Human Made,Low,8
+11 February,Earthquake,38,230,Natural,High,8
+11 February,Lightning,12,431,Natural,Medium,9
+11 February,Pollution,21,92,Human Made,Low,1
+11 February,Overgrazing,17,358,Human Made,Medium,8
+11 February,Poaching,4,488,Human Made,High,9
+11 February,Landslide,29,287,Natural,High,6
+11 February,Flood,30,425,Natural,Medium,8
+11 February,Earthquake,41,538,Natural,Medium,9
+11 February,Pollution,50,464,Human Made,High,3
+11 February,Pollution,42,692,Human Made,Low,10
+11 February,Flood,22,31,Natural,Medium,2
+11 February,Fire,28,326,Natural,High,5
+11 February,Fire,1,190,Natural,Medium,8
+11 February,Flood,15,474,Natural,Medium,3
+11 February,Landslide,31,67,Natural,Low,4
+11 February,Storm,29,224,Natural,Low,3
+11 February,Landslide,1,137,Natural,Medium,4
+11 February,Flood,4,213,Natural,High,3
+11 February,Pollution,43,304,Human Made,Low,8
+11 February,Overgrazing,3,648,Human Made,Medium,10
+11 February,Storm,4,622,Natural,High,6
+11 February,Fire,12,491,Natural,Low,1
+11 February,Pollution,25,104,Human Made,High,5
+11 February,Earthquake,28,175,Natural,Low,4
+11 February,Earthquake,18,314,Natural,Low,7
+11 February,Earthquake,20,225,Natural,Medium,9
+11 February,Earthquake,30,504,Natural,Medium,1
+11 February,Poaching,19,302,Human Made,Medium,10
+11 February,Drought,49,547,Natural,Low,6
+11 February,Pollution,11,435,Human Made,Medium,2
+11 February,Deforestation,35,21,Human Made,High,6
+11 February,Storm,4,51,Natural,Low,1
+11 February,Lightning,42,457,Natural,Low,1
+11 February,Lightning,16,522,Natural,High,5
+11 February,Storm,4,91,Natural,Low,2
+11 February,Drought,18,251,Natural,Low,9
+11 February,Deforestation,43,606,Human Made,Low,5
+11 February,Overgrazing,33,510,Human Made,Low,9
+11 February,Storm,28,345,Natural,Medium,4
+11 February,Earthquake,10,667,Natural,High,7
+11 February,Disease,40,106,Natural,Low,5
+11 February,Deforestation,26,413,Human Made,Low,4
+11 February,Deforestation,41,37,Human Made,High,6
+11 February,Earthquake,1,491,Natural,High,1
+11 February,Storm,37,547,Natural,High,1
+11 February,Pollution,4,360,Human Made,High,1
+11 February,Poaching,9,565,Human Made,High,7
+11 February,Lightning,12,138,Natural,Medium,4
+11 February,Drought,10,49,Natural,High,1
+11 February,Storm,39,184,Natural,Low,7
+11 February,Lightning,36,241,Natural,Medium,5
+11 February,Earthquake,34,71,Natural,Low,5
+11 February,Fire,28,58,Natural,Low,7
+11 February,Lightning,39,290,Natural,Low,6
+11 February,Earthquake,22,56,Natural,Low,2
+11 February,Poaching,34,267,Human Made,Low,10
+11 February,Overgrazing,5,341,Human Made,High,3
+11 February,Overgrazing,33,208,Human Made,Low,1
+11 February,Drought,37,128,Natural,Medium,6
+11 February,Drought,44,191,Natural,High,3
+11 February,Poaching,23,182,Human Made,Low,6
+11 February,Deforestation,33,311,Human Made,Low,9
+11 February,Disease,7,471,Natural,Low,3
+11 February,Overgrazing,27,494,Human Made,High,8
+11 February,Disease,13,281,Natural,Medium,3
+11 February,Storm,16,136,Natural,Medium,3
+11 February,Pollution,12,300,Human Made,Low,2
+11 February,Overgrazing,34,279,Human Made,Medium,6
+11 February,Overgrazing,13,557,Human Made,High,8
+11 February,Poaching,40,677,Human Made,Medium,8
+11 February,Fire,3,30,Natural,Medium,9
+12 February,Flood,6,534,Natural,Low,3
+12 February,Storm,17,579,Natural,Low,10
+12 February,Earthquake,28,695,Natural,Low,7
+12 February,Landslide,50,90,Natural,Low,7
+12 February,Landslide,26,396,Natural,Low,9
+12 February,Deforestation,14,646,Human Made,Low,6
+12 February,Disease,17,359,Natural,Medium,9
+12 February,Earthquake,35,186,Natural,Medium,7
+12 February,Fire,41,209,Natural,Low,2
+12 February,Storm,12,348,Natural,Medium,5
+12 February,Landslide,7,255,Natural,High,3
+12 February,Overgrazing,39,100,Human Made,Low,7
+12 February,Overgrazing,3,473,Human Made,Low,9
+12 February,Lightning,7,289,Natural,Low,9
+12 February,Overgrazing,12,370,Human Made,Medium,5
+12 February,Lightning,16,404,Natural,Low,2
+12 February,Landslide,34,342,Natural,Low,2
+12 February,Lightning,25,639,Natural,Medium,2
+12 February,Storm,15,154,Natural,High,10
+12 February,Storm,3,76,Natural,Medium,7
+12 February,Pollution,13,698,Human Made,Low,5
+12 February,Drought,4,106,Natural,Medium,6
+12 February,Overgrazing,27,675,Human Made,Low,2
+12 February,Landslide,21,164,Natural,High,3
+12 February,Disease,16,589,Natural,High,4
+12 February,Poaching,14,436,Human Made,High,7
+12 February,Earthquake,22,431,Natural,Low,6
+12 February,Lightning,6,612,Natural,Medium,7
+12 February,Poaching,26,160,Human Made,High,7
+12 February,Flood,17,29,Natural,Low,2
+12 February,Flood,19,212,Natural,Low,3
+12 February,Overgrazing,32,0,Human Made,High,6
+12 February,Earthquake,19,459,Natural,High,5
+12 February,Lightning,46,426,Natural,Medium,8
+12 February,Drought,29,500,Natural,Medium,5
+12 February,Earthquake,41,603,Natural,High,9
+12 February,Fire,34,424,Natural,High,3
+12 February,Poaching,37,106,Human Made,Medium,6
+12 February,Deforestation,21,18,Human Made,High,5
+12 February,Earthquake,11,51,Natural,High,5
+12 February,Flood,13,41,Natural,High,10
+12 February,Overgrazing,21,85,Human Made,Low,6
+12 February,Overgrazing,47,371,Human Made,Low,8
+12 February,Flood,46,86,Natural,High,10
+12 February,Pollution,10,293,Human Made,High,6
+12 February,Pollution,13,544,Human Made,High,1
+12 February,Drought,10,610,Natural,High,7
+12 February,Fire,2,544,Natural,Medium,8
+12 February,Landslide,38,553,Natural,Medium,5
+12 February,Drought,23,642,Natural,Medium,8
+12 February,Storm,11,397,Natural,Low,4
+12 February,Pollution,30,614,Human Made,Medium,2
+12 February,Landslide,50,98,Natural,High,9
+12 February,Disease,49,573,Natural,Low,9
+12 February,Earthquake,26,0,Natural,Low,9
+12 February,Landslide,38,493,Natural,High,9
+12 February,Pollution,28,319,Human Made,Medium,3
+12 February,Overgrazing,34,278,Human Made,Medium,8
+12 February,Fire,22,499,Natural,High,8
+12 February,Earthquake,2,371,Natural,High,5
+12 February,Disease,50,684,Natural,Low,3
+12 February,Lightning,13,57,Natural,High,8
+12 February,Deforestation,25,70,Human Made,Low,9
+12 February,Deforestation,13,295,Human Made,Medium,4
+12 February,Overgrazing,14,39,Human Made,Low,4
+12 February,Lightning,17,317,Natural,Medium,1
+12 February,Drought,12,257,Natural,Low,7
+12 February,Earthquake,42,51,Natural,Medium,6
+12 February,Poaching,31,34,Human Made,High,10
+12 February,Pollution,1,234,Human Made,Low,6
+12 February,Lightning,7,55,Natural,Medium,6
+12 February,Poaching,5,45,Human Made,Medium,1
+12 February,Fire,39,430,Natural,High,3
+12 February,Deforestation,12,382,Human Made,Low,4
+12 February,Pollution,28,601,Human Made,High,10
+12 February,Flood,39,37,Natural,Low,5
+12 February,Drought,8,698,Natural,High,1
+12 February,Poaching,10,572,Human Made,Medium,5
+12 February,Storm,5,545,Natural,Medium,3
+12 February,Poaching,17,594,Human Made,Medium,1
+12 February,Pollution,20,37,Human Made,Medium,6
+12 February,Pollution,42,351,Human Made,High,5
+13 February,Lightning,47,607,Natural,Low,8
+13 February,Lightning,16,506,Natural,Low,2
+13 February,Fire,50,590,Natural,High,3
+13 February,Earthquake,47,653,Natural,Low,10
+13 February,Storm,17,18,Natural,High,4
+13 February,Poaching,28,9,Human Made,High,3
+13 February,Fire,29,292,Natural,Medium,8
+13 February,Disease,15,572,Natural,Low,4
+13 February,Storm,35,51,Natural,Low,4
+13 February,Disease,47,498,Natural,Low,4
+13 February,Deforestation,4,317,Human Made,Medium,10
+13 February,Poaching,16,400,Human Made,Low,10
+13 February,Lightning,33,203,Natural,Medium,3
+13 February,Pollution,15,511,Human Made,Medium,10
+13 February,Pollution,25,100,Human Made,High,3
+13 February,Poaching,5,5,Human Made,High,3
+13 February,Disease,2,231,Natural,High,6
+13 February,Overgrazing,34,548,Human Made,Medium,5
+13 February,Deforestation,27,115,Human Made,Medium,5
+13 February,Deforestation,11,651,Human Made,High,3
+13 February,Fire,11,100,Natural,Low,10
+13 February,Overgrazing,10,386,Human Made,High,5
+13 February,Drought,28,653,Natural,Low,9
+13 February,Drought,10,392,Natural,Medium,5
+13 February,Pollution,49,639,Human Made,Low,8
+13 February,Overgrazing,20,555,Human Made,High,5
+13 February,Flood,32,1,Natural,Low,7
+13 February,Disease,50,237,Natural,Medium,6
+13 February,Poaching,9,317,Human Made,Low,6
+13 February,Fire,47,508,Natural,Medium,1
+13 February,Drought,16,668,Natural,Low,5
+13 February,Lightning,33,86,Natural,Medium,1
+13 February,Flood,48,685,Natural,High,3
+13 February,Earthquake,5,5,Natural,Low,10
+13 February,Deforestation,29,228,Human Made,High,4
+13 February,Poaching,6,65,Human Made,Low,3
+13 February,Overgrazing,19,681,Human Made,High,3
+13 February,Pollution,11,442,Human Made,High,7
+13 February,Overgrazing,7,164,Human Made,High,2
+13 February,Earthquake,38,392,Natural,High,7
+13 February,Lightning,26,572,Natural,Low,8
+13 February,Flood,15,208,Natural,Low,10
+13 February,Deforestation,2,60,Human Made,Medium,6
+13 February,Landslide,3,520,Natural,Low,7
+13 February,Flood,21,211,Natural,Low,9
+13 February,Overgrazing,13,467,Human Made,High,8
+13 February,Poaching,41,357,Human Made,Low,10
+13 February,Flood,25,694,Natural,Low,7
+13 February,Disease,38,469,Natural,Low,7
+13 February,Drought,39,144,Natural,High,6
+13 February,Deforestation,3,491,Human Made,High,1
+13 February,Landslide,11,661,Natural,Medium,6
+13 February,Lightning,21,489,Natural,Low,6
+13 February,Pollution,6,220,Human Made,High,6
+13 February,Drought,9,575,Natural,Medium,2
+13 February,Flood,3,96,Natural,Medium,6
+13 February,Landslide,43,349,Natural,Low,2
+13 February,Landslide,18,262,Natural,Medium,6
+13 February,Deforestation,21,19,Human Made,High,5
+13 February,Landslide,5,3,Natural,Low,4
+13 February,Flood,45,398,Natural,High,6
+13 February,Lightning,21,149,Natural,Medium,4
+13 February,Overgrazing,39,127,Human Made,High,4
+13 February,Deforestation,38,531,Human Made,High,5
+13 February,Pollution,41,76,Human Made,High,8
+13 February,Poaching,34,108,Human Made,High,10
+13 February,Overgrazing,35,55,Human Made,High,2
+13 February,Storm,10,41,Natural,Medium,1
+13 February,Flood,21,192,Natural,Medium,10
+13 February,Overgrazing,29,406,Human Made,Low,9
+13 February,Fire,7,514,Natural,Medium,3
+13 February,Drought,37,111,Natural,Low,10
+13 February,Deforestation,6,540,Human Made,Medium,6
+13 February,Overgrazing,48,362,Human Made,Medium,8
+13 February,Overgrazing,39,514,Human Made,Medium,6
+13 February,Drought,25,191,Natural,Low,4
+13 February,Disease,33,501,Natural,High,7
+13 February,Poaching,24,124,Human Made,High,9
+13 February,Pollution,14,557,Human Made,Medium,7
+13 February,Storm,8,488,Natural,High,7
+13 February,Overgrazing,42,409,Human Made,Low,10
+13 February,Lightning,34,392,Natural,High,5
+14 February,Disease,46,698,Natural,Medium,2
+14 February,Disease,35,233,Natural,Medium,8
+14 February,Pollution,50,333,Human Made,Low,2
+14 February,Storm,2,171,Natural,High,4
+14 February,Overgrazing,29,407,Human Made,Medium,1
+14 February,Overgrazing,27,341,Human Made,Low,10
+14 February,Lightning,20,501,Natural,Low,4
+14 February,Pollution,4,467,Human Made,High,10
+14 February,Fire,18,241,Natural,Low,3
+14 February,Lightning,12,661,Natural,Medium,8
+14 February,Drought,8,213,Natural,Low,6
+14 February,Earthquake,15,634,Natural,High,2
+14 February,Overgrazing,35,103,Human Made,Low,4
+14 February,Overgrazing,40,171,Human Made,Medium,7
+14 February,Poaching,35,425,Human Made,Medium,1
+14 February,Fire,12,71,Natural,High,10
+14 February,Disease,49,656,Natural,Low,4
+14 February,Fire,25,676,Natural,High,5
+14 February,Deforestation,50,500,Human Made,High,7
+14 February,Deforestation,27,631,Human Made,High,10
+14 February,Disease,27,529,Natural,Low,7
+14 February,Pollution,44,148,Human Made,Medium,7
+14 February,Drought,34,209,Natural,High,3
+14 February,Poaching,2,496,Human Made,Low,10
+14 February,Pollution,15,90,Human Made,High,8
+14 February,Earthquake,7,374,Natural,High,1
+14 February,Flood,19,258,Natural,High,1
+14 February,Pollution,22,384,Human Made,Medium,1
+14 February,Disease,23,252,Natural,High,10
+14 February,Overgrazing,43,381,Human Made,Medium,2
+14 February,Fire,19,123,Natural,High,4
+14 February,Storm,32,185,Natural,Medium,7
+14 February,Pollution,1,556,Human Made,Medium,3
+14 February,Earthquake,9,396,Natural,High,8
+14 February,Pollution,6,409,Human Made,Low,9
+14 February,Landslide,25,639,Natural,High,9
+14 February,Storm,18,182,Natural,Low,7
+14 February,Disease,48,130,Natural,Medium,7
+14 February,Flood,40,342,Natural,Medium,8
+14 February,Drought,18,534,Natural,Medium,3
+14 February,Storm,19,404,Natural,High,9
+14 February,Storm,46,468,Natural,High,10
+14 February,Overgrazing,45,441,Human Made,High,9
+14 February,Earthquake,15,632,Natural,High,5
+14 February,Fire,44,243,Natural,Low,4
+14 February,Pollution,28,680,Human Made,Low,1
+14 February,Drought,2,165,Natural,Low,2
+14 February,Storm,25,401,Natural,High,8
+14 February,Poaching,33,328,Human Made,High,3
+14 February,Landslide,48,88,Natural,Medium,6
+14 February,Earthquake,46,117,Natural,Low,6
+14 February,Drought,3,37,Natural,Low,6
+14 February,Deforestation,20,324,Human Made,High,1
+14 February,Poaching,25,8,Human Made,Low,7
+14 February,Flood,43,212,Natural,Low,1
+14 February,Flood,43,150,Natural,Medium,5
+14 February,Overgrazing,19,416,Human Made,Low,8
+14 February,Overgrazing,7,29,Human Made,High,4
+14 February,Landslide,22,160,Natural,Low,3
+14 February,Drought,17,143,Natural,Low,10
+14 February,Earthquake,4,516,Natural,High,8
+14 February,Flood,47,533,Natural,High,5
+14 February,Storm,44,210,Natural,Low,5
+14 February,Disease,3,199,Natural,Low,8
+14 February,Overgrazing,17,247,Human Made,Low,3
+14 February,Fire,49,439,Natural,High,5
+14 February,Fire,44,362,Natural,High,4
+14 February,Lightning,18,417,Natural,Low,7
+14 February,Pollution,1,57,Human Made,High,7
+14 February,Landslide,26,180,Natural,Medium,9
+14 February,Flood,26,385,Natural,High,1
+14 February,Storm,19,100,Natural,High,5
+14 February,Earthquake,15,283,Natural,High,5
+14 February,Disease,1,415,Natural,High,3
+14 February,Overgrazing,2,68,Human Made,Medium,6
+14 February,Disease,3,387,Natural,Low,3
+14 February,Poaching,38,118,Human Made,Low,10
+14 February,Fire,44,312,Natural,Low,1
+14 February,Disease,10,608,Natural,High,4
+14 February,Disease,45,689,Natural,Low,9
+14 February,Lightning,3,523,Natural,Medium,6
+14 February,Overgrazing,4,637,Human Made,High,3
+15 February,Disease,28,203,Natural,Low,3
+15 February,Pollution,27,496,Human Made,Medium,9
+15 February,Storm,18,604,Natural,High,6
+15 February,Lightning,27,646,Natural,High,2
+15 February,Fire,19,546,Natural,High,2
+15 February,Pollution,12,630,Human Made,Medium,1
+15 February,Fire,43,411,Natural,High,9
+15 February,Pollution,31,181,Human Made,Low,10
+15 February,Poaching,13,188,Human Made,High,6
+15 February,Drought,6,679,Natural,High,2
+15 February,Fire,32,39,Natural,Medium,8
+15 February,Pollution,5,418,Human Made,Medium,9
+15 February,Fire,12,189,Natural,Medium,1
+15 February,Pollution,19,247,Human Made,Low,2
+15 February,Landslide,13,607,Natural,High,1
+15 February,Drought,4,377,Natural,High,9
+15 February,Deforestation,35,580,Human Made,Low,4
+15 February,Landslide,12,163,Natural,High,1
+15 February,Overgrazing,2,411,Human Made,Low,9
+15 February,Landslide,30,526,Natural,High,9
+15 February,Disease,46,39,Natural,Medium,10
+15 February,Landslide,33,159,Natural,Low,3
+15 February,Landslide,42,662,Natural,Low,8
+15 February,Storm,23,13,Natural,High,2
+15 February,Fire,20,446,Natural,Low,9
+15 February,Poaching,48,103,Human Made,Medium,6
+15 February,Deforestation,13,650,Human Made,Low,3
+15 February,Earthquake,50,28,Natural,High,1
+15 February,Drought,28,88,Natural,Low,7
+15 February,Disease,16,354,Natural,High,8
+15 February,Lightning,30,302,Natural,High,4
+15 February,Landslide,47,16,Natural,Medium,5
+15 February,Storm,11,365,Natural,High,4
+15 February,Pollution,29,593,Human Made,Low,4
+15 February,Storm,49,338,Natural,Low,1
+15 February,Pollution,40,435,Human Made,High,3
+15 February,Flood,1,642,Natural,Medium,10
+15 February,Drought,14,57,Natural,High,3
+15 February,Overgrazing,44,133,Human Made,Medium,1
+15 February,Fire,35,282,Natural,Low,8
+15 February,Fire,33,357,Natural,Medium,1
+15 February,Fire,47,231,Natural,Medium,10
+15 February,Pollution,32,565,Human Made,Medium,1
+15 February,Overgrazing,49,655,Human Made,High,1
+15 February,Landslide,11,672,Natural,High,7
+15 February,Poaching,41,201,Human Made,Medium,4
+15 February,Poaching,49,125,Human Made,Low,1
+15 February,Poaching,34,513,Human Made,Low,3
+15 February,Landslide,18,546,Natural,Low,5
+15 February,Poaching,3,25,Human Made,High,7
+15 February,Flood,9,507,Natural,Low,10
+15 February,Fire,35,628,Natural,High,8
+15 February,Fire,27,90,Natural,High,5
+15 February,Flood,7,10,Natural,Low,3
+15 February,Poaching,37,558,Human Made,Medium,9
+15 February,Flood,42,394,Natural,Medium,10
+15 February,Earthquake,5,188,Natural,Low,1
+15 February,Pollution,39,218,Human Made,Medium,1
+15 February,Drought,45,446,Natural,High,9
+15 February,Disease,12,493,Natural,Medium,6
+15 February,Fire,36,135,Natural,Medium,7
+15 February,Drought,12,4,Natural,Low,3
+15 February,Poaching,14,667,Human Made,High,3
+15 February,Deforestation,21,208,Human Made,Low,5
+15 February,Lightning,33,572,Natural,High,5
+15 February,Drought,12,67,Natural,High,2
+15 February,Poaching,23,61,Human Made,High,7
+15 February,Drought,44,533,Natural,High,5
+15 February,Poaching,4,297,Human Made,Low,6
+15 February,Poaching,39,511,Human Made,High,5
+15 February,Fire,45,70,Natural,Medium,1
+15 February,Fire,43,1,Natural,Low,6
+15 February,Lightning,11,565,Natural,High,7
+15 February,Deforestation,8,223,Human Made,Medium,8
+15 February,Storm,21,495,Natural,High,8
+15 February,Disease,44,104,Natural,Low,3
+15 February,Drought,3,144,Natural,Medium,7
+15 February,Storm,11,185,Natural,Medium,4
+15 February,Overgrazing,40,58,Human Made,Low,2
+15 February,Drought,6,354,Natural,Medium,2
+15 February,Poaching,21,27,Human Made,High,8
+15 February,Landslide,19,92,Natural,High,4
+16 February,Flood,9,512,Natural,Low,5
+16 February,Disease,3,79,Natural,High,9
+16 February,Fire,16,504,Natural,Medium,5
+16 February,Overgrazing,46,111,Human Made,Low,5
+16 February,Flood,3,435,Natural,High,1
+16 February,Disease,8,83,Natural,Low,6
+16 February,Disease,48,102,Natural,High,7
+16 February,Storm,33,482,Natural,High,3
+16 February,Pollution,38,413,Human Made,Low,6
+16 February,Poaching,2,548,Human Made,Medium,3
+16 February,Earthquake,7,162,Natural,Medium,6
+16 February,Fire,14,37,Natural,Medium,5
+16 February,Flood,26,593,Natural,Low,5
+16 February,Disease,17,508,Natural,Low,6
+16 February,Deforestation,28,643,Human Made,High,9
+16 February,Poaching,6,256,Human Made,Medium,9
+16 February,Lightning,17,209,Natural,Low,3
+16 February,Pollution,14,408,Human Made,High,10
+16 February,Poaching,6,293,Human Made,Low,3
+16 February,Disease,34,398,Natural,Medium,7
+16 February,Deforestation,46,583,Human Made,Low,10
+16 February,Earthquake,2,297,Natural,High,1
+16 February,Storm,49,129,Natural,Low,10
+16 February,Poaching,18,395,Human Made,High,3
+16 February,Lightning,26,215,Natural,High,2
+16 February,Landslide,20,654,Natural,Low,8
+16 February,Fire,20,691,Natural,Low,10
+16 February,Fire,23,598,Natural,High,3
+16 February,Fire,35,36,Natural,Low,5
+16 February,Deforestation,2,587,Human Made,Medium,6
+16 February,Disease,21,416,Natural,High,9
+16 February,Fire,19,480,Natural,Medium,3
+16 February,Pollution,28,294,Human Made,Medium,7
+16 February,Drought,11,334,Natural,Medium,5
+16 February,Fire,23,12,Natural,Medium,2
+16 February,Storm,45,331,Natural,Low,4
+16 February,Drought,16,103,Natural,Low,6
+16 February,Drought,22,119,Natural,High,4
+16 February,Drought,41,169,Natural,Low,10
+16 February,Fire,13,608,Natural,High,6
+16 February,Storm,24,111,Natural,Low,9
+16 February,Poaching,41,90,Human Made,Low,10
+16 February,Deforestation,49,128,Human Made,High,5
+16 February,Drought,38,373,Natural,Medium,8
+16 February,Disease,41,357,Natural,Medium,2
+16 February,Flood,1,410,Natural,High,8
+16 February,Lightning,6,92,Natural,Low,7
+16 February,Disease,32,696,Natural,Low,7
+16 February,Deforestation,39,523,Human Made,High,8
+16 February,Landslide,41,625,Natural,Low,2
+16 February,Overgrazing,1,519,Human Made,Medium,1
+16 February,Fire,2,667,Natural,High,8
+16 February,Disease,7,96,Natural,Low,4
+16 February,Poaching,13,498,Human Made,High,5
+16 February,Fire,3,33,Natural,Low,1
+16 February,Flood,24,690,Natural,Low,6
+16 February,Pollution,8,662,Human Made,Low,9
+16 February,Landslide,18,606,Natural,High,4
+16 February,Earthquake,45,152,Natural,Medium,2
+16 February,Drought,34,450,Natural,Medium,1
+16 February,Fire,31,522,Natural,Low,6
+16 February,Disease,31,628,Natural,Medium,2
+16 February,Flood,29,553,Natural,Medium,2
+16 February,Flood,4,306,Natural,Medium,1
+16 February,Flood,13,545,Natural,Medium,7
+16 February,Deforestation,38,421,Human Made,Medium,5
+16 February,Disease,17,538,Natural,Medium,7
+16 February,Overgrazing,9,223,Human Made,High,3
+16 February,Deforestation,40,600,Human Made,Low,1
+16 February,Poaching,39,16,Human Made,High,1
+16 February,Deforestation,35,101,Human Made,Low,6
+16 February,Drought,42,153,Natural,Medium,7
+16 February,Disease,49,445,Natural,Low,4
+16 February,Flood,40,646,Natural,High,3
+16 February,Deforestation,24,75,Human Made,High,1
+16 February,Landslide,19,516,Natural,Low,1
+16 February,Disease,18,330,Natural,High,7
+16 February,Fire,21,517,Natural,Medium,8
+16 February,Pollution,29,321,Human Made,Medium,2
+16 February,Overgrazing,32,470,Human Made,Low,5
+16 February,Storm,10,0,Natural,High,6
+16 February,Poaching,16,578,Human Made,Medium,3
+17 February,Flood,47,385,Natural,Medium,6
+17 February,Flood,40,424,Natural,Low,10
+17 February,Earthquake,14,433,Natural,Medium,2
+17 February,Pollution,32,270,Human Made,Medium,6
+17 February,Lightning,36,253,Natural,Low,10
+17 February,Disease,2,657,Natural,High,9
+17 February,Pollution,37,559,Human Made,Medium,4
+17 February,Disease,17,501,Natural,Low,4
+17 February,Deforestation,42,169,Human Made,Low,7
+17 February,Storm,28,200,Natural,High,4
+17 February,Flood,43,465,Natural,Medium,1
+17 February,Lightning,11,642,Natural,Low,9
+17 February,Drought,13,336,Natural,High,6
+17 February,Deforestation,27,501,Human Made,High,8
+17 February,Storm,28,277,Natural,Low,4
+17 February,Disease,44,437,Natural,High,6
+17 February,Lightning,8,622,Natural,High,7
+17 February,Landslide,28,394,Natural,Medium,8
+17 February,Pollution,7,263,Human Made,Low,8
+17 February,Flood,14,275,Natural,Medium,4
+17 February,Drought,12,239,Natural,High,6
+17 February,Poaching,31,407,Human Made,High,4
+17 February,Earthquake,45,536,Natural,Low,6
+17 February,Disease,49,618,Natural,Medium,4
+17 February,Lightning,28,602,Natural,Low,2
+17 February,Poaching,10,650,Human Made,High,6
+17 February,Deforestation,36,467,Human Made,High,7
+17 February,Landslide,41,276,Natural,High,10
+17 February,Overgrazing,22,402,Human Made,Low,4
+17 February,Lightning,6,203,Natural,Low,2
+17 February,Fire,16,559,Natural,High,7
+17 February,Drought,11,561,Natural,Medium,2
+17 February,Poaching,37,23,Human Made,Low,8
+17 February,Disease,40,160,Natural,Low,3
+17 February,Disease,24,672,Natural,High,8
+17 February,Overgrazing,36,611,Human Made,Medium,1
+17 February,Overgrazing,35,17,Human Made,Low,5
+17 February,Earthquake,23,246,Natural,Medium,1
+17 February,Disease,36,64,Natural,Medium,8
+17 February,Deforestation,35,173,Human Made,High,8
+17 February,Overgrazing,39,693,Human Made,Low,9
+17 February,Flood,17,645,Natural,High,7
+17 February,Landslide,31,185,Natural,High,3
+17 February,Fire,27,506,Natural,Medium,1
+17 February,Overgrazing,31,554,Human Made,Medium,1
+17 February,Pollution,9,62,Human Made,Medium,3
+17 February,Flood,1,644,Natural,High,2
+17 February,Landslide,33,635,Natural,Medium,9
+17 February,Disease,1,238,Natural,High,10
+17 February,Fire,23,90,Natural,Medium,10
+17 February,Drought,33,324,Natural,High,10
+17 February,Drought,47,310,Natural,High,9
+17 February,Deforestation,41,90,Human Made,Low,5
+17 February,Fire,19,47,Natural,Low,1
+17 February,Lightning,17,332,Natural,Medium,1
+17 February,Deforestation,6,249,Human Made,Medium,6
+17 February,Landslide,2,239,Natural,Low,7
+17 February,Disease,19,633,Natural,High,2
+17 February,Drought,47,421,Natural,Medium,6
+17 February,Deforestation,31,137,Human Made,High,10
+17 February,Pollution,7,216,Human Made,High,7
+17 February,Drought,20,143,Natural,Low,6
+17 February,Storm,17,430,Natural,Medium,2
+17 February,Disease,1,97,Natural,Low,7
+17 February,Storm,37,64,Natural,High,3
+17 February,Flood,29,426,Natural,High,2
+17 February,Deforestation,40,179,Human Made,Low,9
+17 February,Fire,35,645,Natural,High,9
+17 February,Lightning,20,285,Natural,Low,5
+17 February,Disease,24,375,Natural,Medium,3
+17 February,Pollution,44,572,Human Made,Medium,3
+17 February,Disease,32,175,Natural,High,10
+17 February,Storm,48,569,Natural,High,7
+17 February,Overgrazing,50,475,Human Made,High,3
+17 February,Fire,9,3,Natural,Medium,7
+17 February,Drought,19,196,Natural,High,10
+17 February,Disease,46,629,Natural,High,8
+17 February,Earthquake,14,169,Natural,Low,8
+17 February,Overgrazing,48,369,Human Made,High,10
+17 February,Fire,17,262,Natural,Medium,9
+17 February,Lightning,45,506,Natural,High,7
+17 February,Storm,23,66,Natural,Medium,7
+18 February,Storm,36,416,Natural,Medium,7
+18 February,Overgrazing,23,273,Human Made,Low,8
+18 February,Landslide,25,180,Natural,High,7
+18 February,Landslide,7,435,Natural,Medium,6
+18 February,Deforestation,48,562,Human Made,High,1
+18 February,Earthquake,30,202,Natural,Medium,8
+18 February,Disease,33,550,Natural,Low,7
+18 February,Flood,17,521,Natural,Low,8
+18 February,Lightning,48,547,Natural,Medium,10
+18 February,Deforestation,24,332,Human Made,Medium,7
+18 February,Flood,7,78,Natural,Medium,6
+18 February,Deforestation,45,149,Human Made,High,4
+18 February,Deforestation,4,417,Human Made,High,9
+18 February,Storm,7,214,Natural,Low,6
+18 February,Storm,48,683,Natural,High,2
+18 February,Earthquake,1,274,Natural,Medium,4
+18 February,Deforestation,30,365,Human Made,Medium,3
+18 February,Lightning,26,165,Natural,Low,5
+18 February,Deforestation,2,360,Human Made,Medium,9
+18 February,Fire,45,33,Natural,High,9
+18 February,Storm,3,440,Natural,High,3
+18 February,Poaching,43,8,Human Made,Low,7
+18 February,Overgrazing,19,385,Human Made,High,7
+18 February,Storm,39,11,Natural,Medium,1
+18 February,Pollution,14,199,Human Made,High,2
+18 February,Earthquake,49,32,Natural,Low,10
+18 February,Overgrazing,17,128,Human Made,Low,2
+18 February,Poaching,48,309,Human Made,High,1
+18 February,Overgrazing,5,270,Human Made,Medium,4
+18 February,Overgrazing,36,437,Human Made,Medium,4
+18 February,Pollution,16,289,Human Made,High,3
+18 February,Lightning,28,628,Natural,Low,8
+18 February,Fire,11,253,Natural,Medium,2
+18 February,Landslide,3,51,Natural,High,5
+18 February,Landslide,50,370,Natural,High,4
+18 February,Drought,38,507,Natural,Medium,9
+18 February,Fire,30,36,Natural,Low,4
+18 February,Storm,4,251,Natural,High,8
+18 February,Earthquake,11,578,Natural,High,4
+18 February,Storm,16,543,Natural,High,10
+18 February,Poaching,28,173,Human Made,Low,4
+18 February,Disease,16,646,Natural,Low,8
+18 February,Landslide,45,580,Natural,Medium,1
+18 February,Fire,1,464,Natural,Low,3
+18 February,Pollution,3,55,Human Made,Medium,8
+18 February,Flood,15,482,Natural,High,2
+18 February,Pollution,12,391,Human Made,High,8
+18 February,Disease,25,166,Natural,High,1
+18 February,Disease,42,623,Natural,Medium,5
+18 February,Drought,9,312,Natural,Medium,4
+18 February,Disease,42,186,Natural,Medium,8
+18 February,Lightning,2,697,Natural,Medium,6
+18 February,Deforestation,47,157,Human Made,High,7
+18 February,Flood,30,39,Natural,Low,8
+18 February,Landslide,5,41,Natural,Medium,3
+18 February,Lightning,14,422,Natural,Low,6
+18 February,Storm,32,209,Natural,Medium,2
+18 February,Flood,4,692,Natural,High,2
+18 February,Disease,11,585,Natural,High,10
+18 February,Overgrazing,6,587,Human Made,Medium,1
+18 February,Fire,44,449,Natural,Low,2
+18 February,Deforestation,48,116,Human Made,Low,2
+18 February,Fire,17,131,Natural,High,6
+18 February,Fire,23,483,Natural,Medium,6
+18 February,Pollution,41,166,Human Made,Medium,2
+18 February,Drought,32,481,Natural,Low,7
+18 February,Drought,12,618,Natural,Medium,4
+18 February,Disease,39,219,Natural,High,9
+18 February,Flood,19,207,Natural,High,5
+18 February,Pollution,46,325,Human Made,Low,5
+18 February,Deforestation,33,301,Human Made,Medium,7
+18 February,Earthquake,6,672,Natural,Low,7
+18 February,Overgrazing,50,184,Human Made,High,8
+18 February,Landslide,8,213,Natural,Low,10
+18 February,Earthquake,15,584,Natural,Low,2
+18 February,Storm,43,574,Natural,Low,3
+18 February,Pollution,30,125,Human Made,High,1
+18 February,Fire,14,8,Natural,Low,3
+18 February,Overgrazing,1,284,Human Made,Low,10
+18 February,Earthquake,36,292,Natural,Low,2
+18 February,Deforestation,19,22,Human Made,Medium,6
+18 February,Drought,45,644,Natural,Medium,8
+19 February,Deforestation,48,138,Human Made,Low,10
+19 February,Deforestation,20,200,Human Made,Medium,2
+19 February,Flood,25,96,Natural,Medium,4
+19 February,Lightning,34,290,Natural,High,5
+19 February,Disease,27,142,Natural,High,8
+19 February,Disease,33,679,Natural,Medium,9
+19 February,Flood,28,99,Natural,Medium,1
+19 February,Landslide,31,203,Natural,High,6
+19 February,Overgrazing,32,120,Human Made,Medium,5
+19 February,Fire,25,502,Natural,High,4
+19 February,Lightning,48,199,Natural,Medium,10
+19 February,Overgrazing,8,501,Human Made,Low,9
+19 February,Deforestation,6,468,Human Made,Medium,7
+19 February,Poaching,37,495,Human Made,High,1
+19 February,Landslide,19,621,Natural,Medium,3
+19 February,Storm,10,38,Natural,Low,5
+19 February,Overgrazing,26,255,Human Made,Medium,6
+19 February,Overgrazing,39,280,Human Made,Medium,4
+19 February,Overgrazing,36,425,Human Made,High,3
+19 February,Poaching,23,293,Human Made,Low,3
+19 February,Deforestation,16,666,Human Made,Low,2
+19 February,Storm,29,175,Natural,High,5
+19 February,Drought,38,5,Natural,Medium,3
+19 February,Storm,3,584,Natural,High,4
+19 February,Flood,21,275,Natural,Medium,1
+19 February,Lightning,49,575,Natural,Low,9
+19 February,Earthquake,35,278,Natural,Low,2
+19 February,Landslide,21,118,Natural,Low,9
+19 February,Disease,6,632,Natural,Medium,3
+19 February,Flood,42,631,Natural,Medium,3
+19 February,Landslide,43,662,Natural,Medium,7
+19 February,Poaching,3,45,Human Made,Medium,10
+19 February,Flood,37,510,Natural,Low,2
+19 February,Earthquake,27,320,Natural,Low,8
+19 February,Poaching,20,127,Human Made,Medium,10
+19 February,Flood,12,516,Natural,High,6
+19 February,Earthquake,35,465,Natural,Low,2
+19 February,Earthquake,45,102,Natural,High,5
+19 February,Overgrazing,7,485,Human Made,Medium,8
+19 February,Earthquake,12,17,Natural,Medium,9
+19 February,Earthquake,47,23,Natural,Low,9
+19 February,Fire,5,662,Natural,Low,2
+19 February,Disease,2,546,Natural,Medium,1
+19 February,Landslide,10,220,Natural,Medium,4
+19 February,Overgrazing,50,490,Human Made,Low,7
+19 February,Drought,13,365,Natural,Medium,1
+19 February,Lightning,30,570,Natural,Medium,10
+19 February,Poaching,21,94,Human Made,Low,2
+19 February,Storm,46,553,Natural,Low,1
+19 February,Storm,37,4,Natural,High,10
+19 February,Flood,18,360,Natural,Medium,5
+19 February,Fire,8,433,Natural,High,1
+19 February,Flood,41,508,Natural,Medium,1
+19 February,Lightning,14,663,Natural,Low,2
+19 February,Flood,2,602,Natural,Low,10
+19 February,Storm,23,627,Natural,High,10
+19 February,Poaching,5,490,Human Made,Medium,3
+19 February,Flood,18,517,Natural,Low,5
+19 February,Poaching,3,494,Human Made,Medium,10
+19 February,Fire,32,447,Natural,Low,8
+19 February,Drought,49,258,Natural,Medium,10
+19 February,Landslide,26,384,Natural,High,7
+19 February,Pollution,4,25,Human Made,Medium,1
+19 February,Lightning,14,408,Natural,Low,4
+19 February,Fire,5,264,Natural,Medium,1
+19 February,Disease,30,430,Natural,Medium,9
+19 February,Fire,34,436,Natural,Low,8
+19 February,Drought,39,592,Natural,Medium,3
+19 February,Lightning,43,212,Natural,High,9
+19 February,Storm,8,164,Natural,Medium,4
+19 February,Poaching,1,662,Human Made,High,5
+19 February,Deforestation,3,629,Human Made,Medium,9
+19 February,Pollution,14,401,Human Made,High,3
+19 February,Earthquake,45,265,Natural,Medium,3
+19 February,Poaching,23,29,Human Made,High,4
+19 February,Deforestation,7,208,Human Made,Low,8
+19 February,Overgrazing,30,51,Human Made,Medium,8
+19 February,Earthquake,10,332,Natural,High,5
+19 February,Flood,27,667,Natural,Low,5
+19 February,Disease,17,655,Natural,Medium,3
+19 February,Earthquake,12,118,Natural,Low,1
+19 February,Drought,44,28,Natural,Medium,10
+20 February,Disease,50,550,Natural,Medium,3
+20 February,Pollution,34,260,Human Made,High,4
+20 February,Earthquake,34,285,Natural,Low,1
+20 February,Disease,35,139,Natural,Medium,5
+20 February,Poaching,24,305,Human Made,Low,4
+20 February,Deforestation,32,504,Human Made,Low,9
+20 February,Disease,19,43,Natural,Medium,9
+20 February,Flood,44,563,Natural,Low,9
+20 February,Overgrazing,10,424,Human Made,High,3
+20 February,Storm,45,306,Natural,Low,5
+20 February,Drought,20,382,Natural,Low,3
+20 February,Overgrazing,37,24,Human Made,High,9
+20 February,Landslide,35,362,Natural,Low,8
+20 February,Pollution,46,276,Human Made,Low,2
+20 February,Lightning,37,668,Natural,High,5
+20 February,Earthquake,9,492,Natural,Low,1
+20 February,Landslide,11,409,Natural,Medium,10
+20 February,Poaching,12,180,Human Made,Low,4
+20 February,Landslide,12,458,Natural,Medium,9
+20 February,Overgrazing,44,269,Human Made,High,7
+20 February,Pollution,29,430,Human Made,High,6
+20 February,Deforestation,48,108,Human Made,Low,1
+20 February,Pollution,4,161,Human Made,Low,7
+20 February,Disease,33,533,Natural,Low,7
+20 February,Poaching,25,214,Human Made,Medium,4
+20 February,Deforestation,46,647,Human Made,Medium,5
+20 February,Earthquake,1,119,Natural,High,4
+20 February,Pollution,28,305,Human Made,Medium,9
+20 February,Flood,17,142,Natural,High,4
+20 February,Drought,26,17,Natural,Low,6
+20 February,Disease,30,370,Natural,Medium,1
+20 February,Earthquake,16,33,Natural,Low,3
+20 February,Disease,22,691,Natural,Low,8
+20 February,Drought,26,581,Natural,Medium,4
+20 February,Landslide,33,81,Natural,High,3
+20 February,Drought,24,188,Natural,High,8
+20 February,Pollution,42,514,Human Made,High,8
+20 February,Deforestation,43,357,Human Made,Low,8
+20 February,Storm,21,292,Natural,Low,5
+20 February,Lightning,10,521,Natural,Low,5
+20 February,Overgrazing,1,636,Human Made,Medium,2
+20 February,Pollution,27,312,Human Made,Low,2
+20 February,Drought,47,580,Natural,Medium,8
+20 February,Disease,34,59,Natural,High,6
+20 February,Landslide,43,408,Natural,Low,2
+20 February,Poaching,40,504,Human Made,High,9
+20 February,Flood,29,452,Natural,Low,5
+20 February,Flood,24,667,Natural,Medium,8
+20 February,Flood,43,179,Natural,Low,6
+20 February,Overgrazing,26,160,Human Made,High,2
+20 February,Disease,14,293,Natural,Medium,4
+20 February,Poaching,24,575,Human Made,Low,8
+20 February,Disease,39,130,Natural,Low,4
+20 February,Pollution,26,346,Human Made,Medium,6
+20 February,Deforestation,38,293,Human Made,Low,5
+20 February,Disease,25,358,Natural,High,2
+20 February,Earthquake,7,381,Natural,High,1
+20 February,Storm,17,89,Natural,Medium,5
+20 February,Deforestation,47,650,Human Made,High,7
+20 February,Deforestation,29,299,Human Made,High,2
+20 February,Pollution,44,179,Human Made,Low,4
+20 February,Landslide,1,120,Natural,High,8
+20 February,Earthquake,28,140,Natural,High,9
+20 February,Flood,20,350,Natural,Medium,10
+20 February,Poaching,7,312,Human Made,Medium,7
+20 February,Deforestation,17,70,Human Made,Low,8
+20 February,Lightning,39,403,Natural,High,1
+20 February,Pollution,11,351,Human Made,Low,3
+20 February,Disease,31,544,Natural,Medium,9
+20 February,Disease,19,453,Natural,High,9
+20 February,Landslide,22,456,Natural,Medium,9
+20 February,Pollution,31,21,Human Made,Low,8
+20 February,Deforestation,7,436,Human Made,Low,7
+20 February,Fire,19,652,Natural,Low,2
+20 February,Overgrazing,16,443,Human Made,Low,9
+20 February,Earthquake,38,85,Natural,Medium,9
+20 February,Storm,50,62,Natural,High,9
+20 February,Drought,15,232,Natural,Medium,1
+20 February,Landslide,7,390,Natural,Medium,8
+20 February,Disease,16,579,Natural,Low,3
+20 February,Poaching,35,115,Human Made,Low,3
+20 February,Landslide,20,656,Natural,High,10
+21 February,Pollution,22,236,Human Made,Low,3
+21 February,Earthquake,2,442,Natural,High,5
+21 February,Landslide,12,296,Natural,Low,1
+21 February,Landslide,5,523,Natural,Low,10
+21 February,Storm,21,694,Natural,Low,2
+21 February,Pollution,7,161,Human Made,Medium,8
+21 February,Landslide,34,309,Natural,Medium,8
+21 February,Disease,47,595,Natural,Medium,7
+21 February,Storm,48,689,Natural,Medium,2
+21 February,Overgrazing,6,60,Human Made,Low,6
+21 February,Overgrazing,4,246,Human Made,Low,3
+21 February,Landslide,20,303,Natural,Medium,1
+21 February,Earthquake,35,458,Natural,Low,2
+21 February,Earthquake,23,262,Natural,Low,9
+21 February,Flood,29,477,Natural,Low,4
+21 February,Poaching,18,149,Human Made,Low,5
+21 February,Deforestation,29,245,Human Made,Low,2
+21 February,Drought,2,165,Natural,Medium,3
+21 February,Poaching,14,472,Human Made,Medium,2
+21 February,Fire,5,230,Natural,Medium,2
+21 February,Poaching,3,460,Human Made,Medium,7
+21 February,Lightning,13,98,Natural,High,6
+21 February,Flood,29,10,Natural,Low,5
+21 February,Drought,30,476,Natural,Medium,8
+21 February,Drought,22,387,Natural,Low,10
+21 February,Earthquake,17,595,Natural,High,4
+21 February,Fire,10,261,Natural,Medium,9
+21 February,Landslide,1,325,Natural,High,1
+21 February,Poaching,11,560,Human Made,High,3
+21 February,Storm,48,93,Natural,Low,10
+21 February,Deforestation,42,41,Human Made,Low,8
+21 February,Storm,42,296,Natural,Medium,2
+21 February,Drought,30,333,Natural,High,6
+21 February,Flood,40,454,Natural,Low,9
+21 February,Flood,23,196,Natural,Medium,4
+21 February,Deforestation,32,311,Human Made,Low,2
+21 February,Flood,5,525,Natural,Medium,9
+21 February,Drought,20,302,Natural,Medium,8
+21 February,Fire,4,33,Natural,Low,5
+21 February,Flood,10,182,Natural,Medium,5
+21 February,Overgrazing,36,259,Human Made,High,8
+21 February,Overgrazing,44,601,Human Made,Low,7
+21 February,Lightning,2,225,Natural,Low,7
+21 February,Flood,27,227,Natural,Low,9
+21 February,Earthquake,27,487,Natural,Medium,2
+21 February,Pollution,41,631,Human Made,Low,6
+21 February,Flood,26,336,Natural,Medium,2
+21 February,Deforestation,33,94,Human Made,Low,6
+21 February,Poaching,43,102,Human Made,High,8
+21 February,Earthquake,34,396,Natural,High,1
+21 February,Poaching,5,575,Human Made,High,6
+21 February,Drought,14,134,Natural,Medium,5
+21 February,Storm,33,36,Natural,Medium,1
+21 February,Storm,26,357,Natural,Low,10
+21 February,Storm,26,23,Natural,Low,4
+21 February,Poaching,24,520,Human Made,Low,7
+21 February,Lightning,5,377,Natural,Low,10
+21 February,Lightning,12,381,Natural,High,8
+21 February,Flood,18,390,Natural,Low,4
+21 February,Earthquake,38,563,Natural,High,2
+21 February,Earthquake,16,552,Natural,Medium,4
+21 February,Fire,42,677,Natural,High,7
+21 February,Poaching,50,437,Human Made,High,6
+21 February,Pollution,39,650,Human Made,Medium,5
+21 February,Disease,32,425,Natural,Medium,8
+21 February,Poaching,25,120,Human Made,High,8
+21 February,Earthquake,30,8,Natural,Low,1
+21 February,Poaching,28,94,Human Made,Medium,5
+21 February,Deforestation,34,451,Human Made,High,1
+21 February,Pollution,10,332,Human Made,Low,6
+21 February,Lightning,34,30,Natural,Medium,2
+21 February,Landslide,22,131,Natural,Medium,7
+21 February,Fire,17,39,Natural,High,1
+21 February,Landslide,23,618,Natural,Low,3
+21 February,Pollution,12,612,Human Made,High,2
+21 February,Disease,12,26,Natural,High,9
+21 February,Drought,18,545,Natural,Medium,8
+21 February,Overgrazing,50,44,Human Made,Low,10
+21 February,Disease,22,203,Natural,Low,6
+21 February,Storm,8,280,Natural,High,4
+21 February,Flood,39,167,Natural,Medium,10
+21 February,Lightning,14,572,Natural,Low,6
+22 February,Earthquake,6,173,Natural,Medium,6
+22 February,Earthquake,34,504,Natural,Medium,3
+22 February,Storm,22,486,Natural,High,3
+22 February,Storm,44,179,Natural,High,7
+22 February,Flood,6,472,Natural,Medium,10
+22 February,Flood,3,418,Natural,High,5
+22 February,Lightning,31,23,Natural,Medium,10
+22 February,Deforestation,1,131,Human Made,Medium,7
+22 February,Poaching,20,22,Human Made,Medium,7
+22 February,Pollution,43,293,Human Made,Low,10
+22 February,Earthquake,31,339,Natural,High,2
+22 February,Earthquake,18,50,Natural,Medium,6
+22 February,Deforestation,41,294,Human Made,Medium,6
+22 February,Pollution,17,228,Human Made,Low,6
+22 February,Deforestation,28,339,Human Made,Low,2
+22 February,Flood,3,219,Natural,Low,6
+22 February,Disease,36,312,Natural,Medium,3
+22 February,Fire,14,132,Natural,High,7
+22 February,Disease,7,653,Natural,Low,10
+22 February,Overgrazing,8,611,Human Made,High,4
+22 February,Poaching,28,37,Human Made,Low,10
+22 February,Flood,25,675,Natural,Low,6
+22 February,Storm,25,111,Natural,Low,7
+22 February,Poaching,5,647,Human Made,High,4
+22 February,Disease,40,525,Natural,Medium,4
+22 February,Landslide,48,207,Natural,High,7
+22 February,Fire,44,435,Natural,Low,10
+22 February,Deforestation,20,344,Human Made,High,3
+22 February,Lightning,6,415,Natural,Low,9
+22 February,Flood,35,265,Natural,Medium,10
+22 February,Lightning,29,77,Natural,Medium,2
+22 February,Drought,38,322,Natural,Medium,8
+22 February,Drought,8,36,Natural,Medium,5
+22 February,Deforestation,18,333,Human Made,High,1
+22 February,Drought,40,253,Natural,Medium,7
+22 February,Lightning,18,445,Natural,Low,4
+22 February,Deforestation,28,164,Human Made,Low,9
+22 February,Earthquake,18,108,Natural,Medium,4
+22 February,Drought,36,217,Natural,Medium,8
+22 February,Lightning,31,374,Natural,High,8
+22 February,Fire,13,389,Natural,Medium,3
+22 February,Storm,39,515,Natural,High,3
+22 February,Poaching,26,282,Human Made,Low,8
+22 February,Poaching,18,190,Human Made,Low,1
+22 February,Landslide,26,78,Natural,High,5
+22 February,Landslide,45,549,Natural,Medium,4
+22 February,Earthquake,47,426,Natural,Medium,7
+22 February,Storm,30,646,Natural,Low,6
+22 February,Lightning,44,315,Natural,Low,6
+22 February,Earthquake,33,459,Natural,Medium,4
+22 February,Deforestation,39,240,Human Made,Medium,2
+22 February,Poaching,50,39,Human Made,Medium,8
+22 February,Drought,40,482,Natural,Medium,2
+22 February,Pollution,43,244,Human Made,Medium,10
+22 February,Disease,6,383,Natural,Low,7
+22 February,Landslide,17,212,Natural,Medium,8
+22 February,Fire,32,488,Natural,Medium,8
+22 February,Landslide,41,692,Natural,High,2
+22 February,Poaching,6,9,Human Made,High,8
+22 February,Drought,7,251,Natural,High,6
+22 February,Pollution,20,634,Human Made,Medium,8
+22 February,Drought,11,366,Natural,Low,1
+22 February,Earthquake,41,662,Natural,Medium,4
+22 February,Poaching,9,636,Human Made,Low,8
+22 February,Poaching,12,668,Human Made,Medium,5
+22 February,Pollution,47,213,Human Made,Low,6
+22 February,Poaching,50,559,Human Made,High,4
+22 February,Fire,20,673,Natural,High,10
+22 February,Flood,4,470,Natural,High,10
+22 February,Poaching,22,507,Human Made,High,4
+22 February,Drought,12,471,Natural,Low,5
+22 February,Fire,11,42,Natural,Low,2
+22 February,Storm,5,3,Natural,Medium,2
+22 February,Landslide,31,254,Natural,Low,1
+22 February,Landslide,34,177,Natural,Low,3
+22 February,Pollution,1,550,Human Made,Medium,8
+22 February,Drought,33,101,Natural,Medium,5
+22 February,Earthquake,7,681,Natural,Medium,10
+22 February,Storm,46,531,Natural,Medium,3
+22 February,Earthquake,29,318,Natural,Medium,1
+22 February,Disease,49,122,Natural,Low,4
+22 February,Pollution,24,486,Human Made,High,6
+23 February,Deforestation,31,631,Human Made,Low,4
+23 February,Flood,7,538,Natural,Low,1
+23 February,Deforestation,35,369,Human Made,Low,9
+23 February,Fire,37,20,Natural,Medium,10
+23 February,Lightning,25,700,Natural,Low,2
+23 February,Fire,47,185,Natural,Low,10
+23 February,Pollution,9,214,Human Made,High,9
+23 February,Disease,40,59,Natural,High,6
+23 February,Storm,38,373,Natural,High,9
+23 February,Earthquake,4,153,Natural,Medium,1
+23 February,Drought,21,620,Natural,High,8
+23 February,Earthquake,4,441,Natural,Low,3
+23 February,Landslide,2,285,Natural,Medium,5
+23 February,Disease,22,429,Natural,Medium,9
+23 February,Pollution,8,316,Human Made,High,3
+23 February,Landslide,24,225,Natural,Medium,8
+23 February,Poaching,13,143,Human Made,Low,8
+23 February,Fire,20,94,Natural,Low,10
+23 February,Deforestation,7,596,Human Made,Medium,10
+23 February,Overgrazing,25,674,Human Made,High,1
+23 February,Fire,15,500,Natural,Medium,6
+23 February,Storm,5,502,Natural,Low,9
+23 February,Lightning,37,97,Natural,Low,10
+23 February,Disease,8,548,Natural,Medium,3
+23 February,Lightning,47,700,Natural,Low,10
+23 February,Poaching,12,372,Human Made,High,10
+23 February,Drought,29,189,Natural,Medium,3
+23 February,Deforestation,34,613,Human Made,Medium,5
+23 February,Deforestation,6,565,Human Made,Medium,2
+23 February,Flood,10,248,Natural,Medium,10
+23 February,Pollution,32,625,Human Made,High,8
+23 February,Poaching,37,370,Human Made,Low,6
+23 February,Earthquake,30,663,Natural,High,4
+23 February,Disease,15,91,Natural,High,1
+23 February,Deforestation,15,327,Human Made,High,7
+23 February,Landslide,2,674,Natural,Low,6
+23 February,Fire,43,35,Natural,High,6
+23 February,Flood,29,78,Natural,Low,8
+23 February,Storm,37,677,Natural,High,8
+23 February,Earthquake,50,562,Natural,Low,8
+23 February,Earthquake,35,591,Natural,High,6
+23 February,Poaching,17,459,Human Made,High,7
+23 February,Fire,24,27,Natural,High,8
+23 February,Deforestation,26,542,Human Made,Medium,6
+23 February,Fire,1,359,Natural,High,3
+23 February,Disease,35,49,Natural,High,4
+23 February,Earthquake,10,661,Natural,Low,1
+23 February,Landslide,27,191,Natural,High,9
+23 February,Poaching,23,553,Human Made,High,8
+23 February,Overgrazing,35,481,Human Made,High,3
+23 February,Flood,42,553,Natural,Low,4
+23 February,Overgrazing,23,176,Human Made,Medium,2
+23 February,Fire,12,241,Natural,High,7
+23 February,Earthquake,8,283,Natural,High,8
+23 February,Overgrazing,34,616,Human Made,Low,2
+23 February,Fire,49,80,Natural,High,9
+23 February,Pollution,39,133,Human Made,Medium,7
+23 February,Drought,37,101,Natural,Low,3
+23 February,Pollution,39,120,Human Made,Low,3
+23 February,Overgrazing,1,16,Human Made,High,8
+23 February,Earthquake,46,387,Natural,High,1
+23 February,Landslide,29,85,Natural,High,1
+23 February,Drought,25,567,Natural,Low,4
+23 February,Storm,49,331,Natural,Low,7
+23 February,Deforestation,29,321,Human Made,Low,3
+23 February,Disease,45,615,Natural,Medium,5
+23 February,Poaching,32,400,Human Made,Medium,5
+23 February,Earthquake,21,86,Natural,High,5
+23 February,Lightning,8,147,Natural,High,9
+23 February,Disease,6,34,Natural,Low,5
+23 February,Overgrazing,13,327,Human Made,Low,5
+23 February,Lightning,15,4,Natural,Low,5
+23 February,Landslide,45,601,Natural,Low,4
+23 February,Overgrazing,30,417,Human Made,Medium,3
+23 February,Disease,10,91,Natural,High,7
+23 February,Drought,28,500,Natural,Low,3
+23 February,Earthquake,41,182,Natural,Low,7
+23 February,Drought,12,487,Natural,High,10
+23 February,Disease,33,136,Natural,Medium,7
+23 February,Drought,1,271,Natural,Medium,9
+23 February,Poaching,5,36,Human Made,High,1
+23 February,Fire,48,467,Natural,Low,1
+24 February,Deforestation,26,153,Human Made,Low,6
+24 February,Pollution,12,160,Human Made,Medium,1
+24 February,Earthquake,14,280,Natural,High,7
+24 February,Earthquake,40,199,Natural,Low,10
+24 February,Poaching,10,59,Human Made,High,8
+24 February,Pollution,37,330,Human Made,High,5
+24 February,Pollution,45,350,Human Made,Low,5
+24 February,Landslide,5,699,Natural,High,1
+24 February,Overgrazing,22,650,Human Made,Low,4
+24 February,Deforestation,42,425,Human Made,Medium,1
+24 February,Overgrazing,37,407,Human Made,High,3
+24 February,Overgrazing,32,168,Human Made,Low,10
+24 February,Pollution,19,496,Human Made,Low,5
+24 February,Poaching,4,447,Human Made,Low,5
+24 February,Fire,35,526,Natural,High,1
+24 February,Deforestation,1,335,Human Made,High,2
+24 February,Fire,13,127,Natural,Low,8
+24 February,Drought,5,83,Natural,High,6
+24 February,Drought,25,406,Natural,Low,9
+24 February,Landslide,21,544,Natural,Medium,5
+24 February,Fire,45,415,Natural,Low,3
+24 February,Storm,30,543,Natural,Medium,8
+24 February,Overgrazing,22,666,Human Made,High,5
+24 February,Deforestation,32,636,Human Made,High,7
+24 February,Lightning,25,7,Natural,Medium,5
+24 February,Deforestation,36,1,Human Made,Low,8
+24 February,Fire,35,656,Natural,Low,4
+24 February,Pollution,7,698,Human Made,Low,6
+24 February,Disease,47,252,Natural,Low,8
+24 February,Lightning,32,69,Natural,High,9
+24 February,Poaching,24,411,Human Made,Medium,9
+24 February,Lightning,15,91,Natural,Medium,6
+24 February,Disease,8,386,Natural,High,1
+24 February,Poaching,11,146,Human Made,Medium,8
+24 February,Disease,8,634,Natural,High,2
+24 February,Overgrazing,16,464,Human Made,Medium,6
+24 February,Overgrazing,6,654,Human Made,Low,4
+24 February,Landslide,35,374,Natural,Low,4
+24 February,Disease,39,664,Natural,Medium,10
+24 February,Pollution,27,627,Human Made,Medium,9
+24 February,Landslide,5,75,Natural,High,10
+24 February,Overgrazing,32,441,Human Made,Low,2
+24 February,Flood,10,198,Natural,High,4
+24 February,Overgrazing,21,34,Human Made,High,3
+24 February,Disease,32,389,Natural,Low,5
+24 February,Poaching,20,83,Human Made,Low,8
+24 February,Storm,9,89,Natural,Medium,5
+24 February,Overgrazing,6,539,Human Made,Medium,9
+24 February,Fire,48,554,Natural,High,1
+24 February,Earthquake,14,593,Natural,Low,6
+24 February,Drought,10,6,Natural,Medium,7
+24 February,Poaching,30,498,Human Made,Low,6
+24 February,Storm,31,75,Natural,Medium,6
+24 February,Landslide,37,610,Natural,High,10
+24 February,Landslide,26,461,Natural,High,7
+24 February,Earthquake,50,51,Natural,Medium,9
+24 February,Flood,1,64,Natural,High,6
+24 February,Fire,19,354,Natural,Medium,1
+24 February,Flood,30,347,Natural,High,8
+24 February,Lightning,47,317,Natural,Medium,6
+24 February,Landslide,21,569,Natural,High,7
+24 February,Poaching,18,605,Human Made,High,1
+24 February,Overgrazing,17,411,Human Made,Low,2
+24 February,Pollution,13,650,Human Made,Medium,3
+24 February,Fire,46,424,Natural,Medium,7
+24 February,Pollution,17,473,Human Made,Low,5
+24 February,Poaching,41,432,Human Made,Low,5
+24 February,Fire,27,433,Natural,Low,8
+24 February,Pollution,4,564,Human Made,Low,5
+24 February,Disease,3,690,Natural,Medium,8
+24 February,Flood,15,216,Natural,High,1
+24 February,Disease,41,68,Natural,Low,1
+24 February,Pollution,20,86,Human Made,Medium,8
+24 February,Poaching,47,282,Human Made,Medium,3
+24 February,Drought,11,221,Natural,High,1
+24 February,Disease,22,104,Natural,Medium,5
+24 February,Storm,40,235,Natural,High,4
+24 February,Overgrazing,14,145,Human Made,Low,1
+24 February,Landslide,48,539,Natural,High,1
+24 February,Flood,15,214,Natural,Medium,10
+24 February,Overgrazing,25,436,Human Made,Low,9
+24 February,Deforestation,47,162,Human Made,High,3
+25 February,Pollution,28,575,Human Made,Medium,8
+25 February,Poaching,7,333,Human Made,Low,2
+25 February,Landslide,46,336,Natural,Low,10
+25 February,Earthquake,18,471,Natural,Medium,9
+25 February,Pollution,39,266,Human Made,Low,7
+25 February,Lightning,29,513,Natural,Low,2
+25 February,Landslide,1,630,Natural,High,10
+25 February,Drought,32,47,Natural,Low,8
+25 February,Lightning,20,638,Natural,Low,4
+25 February,Landslide,43,22,Natural,Low,6
+25 February,Pollution,13,30,Human Made,Low,8
+25 February,Earthquake,27,627,Natural,Medium,8
+25 February,Landslide,25,144,Natural,High,5
+25 February,Poaching,13,166,Human Made,High,1
+25 February,Disease,47,177,Natural,High,3
+25 February,Landslide,37,402,Natural,High,10
+25 February,Flood,12,407,Natural,Low,8
+25 February,Flood,21,69,Natural,Medium,4
+25 February,Storm,34,584,Natural,Medium,10
+25 February,Deforestation,17,240,Human Made,Low,10
+25 February,Disease,12,561,Natural,High,10
+25 February,Flood,30,20,Natural,High,10
+25 February,Disease,17,611,Natural,Low,6
+25 February,Landslide,12,510,Natural,Medium,2
+25 February,Disease,38,36,Natural,Low,5
+25 February,Disease,42,11,Natural,Low,7
+25 February,Drought,33,36,Natural,Low,2
+25 February,Flood,37,306,Natural,High,6
+25 February,Flood,28,597,Natural,High,10
+25 February,Disease,42,160,Natural,Medium,3
+25 February,Overgrazing,34,323,Human Made,Low,8
+25 February,Pollution,26,526,Human Made,Medium,1
+25 February,Deforestation,42,700,Human Made,Medium,4
+25 February,Overgrazing,23,11,Human Made,High,1
+25 February,Landslide,34,177,Natural,High,7
+25 February,Disease,46,147,Natural,Low,4
+25 February,Disease,47,211,Natural,Medium,3
+25 February,Fire,47,287,Natural,Low,10
+25 February,Lightning,44,641,Natural,High,7
+25 February,Flood,38,569,Natural,High,9
+25 February,Overgrazing,17,276,Human Made,Low,8
+25 February,Disease,4,644,Natural,High,3
+25 February,Pollution,2,150,Human Made,Low,9
+25 February,Earthquake,42,201,Natural,Low,8
+25 February,Drought,34,673,Natural,Medium,2
+25 February,Poaching,4,508,Human Made,Low,7
+25 February,Fire,19,434,Natural,High,3
+25 February,Flood,44,51,Natural,High,9
+25 February,Earthquake,17,84,Natural,Medium,1
+25 February,Disease,24,328,Natural,Medium,9
+25 February,Drought,10,459,Natural,High,3
+25 February,Earthquake,14,89,Natural,High,10
+25 February,Disease,47,31,Natural,Low,6
+25 February,Storm,12,662,Natural,Medium,5
+25 February,Disease,37,53,Natural,High,9
+25 February,Earthquake,28,143,Natural,Low,7
+25 February,Fire,14,313,Natural,Low,2
+25 February,Landslide,19,697,Natural,High,1
+25 February,Overgrazing,45,335,Human Made,Medium,4
+25 February,Disease,6,280,Natural,High,4
+25 February,Poaching,20,293,Human Made,High,2
+25 February,Disease,18,516,Natural,Low,8
+25 February,Fire,27,239,Natural,Low,2
+25 February,Landslide,16,476,Natural,Low,5
+25 February,Pollution,26,49,Human Made,Low,2
+25 February,Deforestation,9,594,Human Made,Medium,9
+25 February,Poaching,36,253,Human Made,High,3
+25 February,Drought,21,357,Natural,High,9
+25 February,Deforestation,8,355,Human Made,High,3
+25 February,Disease,11,562,Natural,High,5
+25 February,Disease,38,57,Natural,High,7
+25 February,Disease,33,567,Natural,Medium,7
+25 February,Poaching,3,532,Human Made,High,9
+25 February,Pollution,36,405,Human Made,Low,10
+25 February,Landslide,32,328,Natural,Low,2
+25 February,Overgrazing,1,409,Human Made,Medium,9
+25 February,Deforestation,36,205,Human Made,Medium,8
+25 February,Fire,31,416,Natural,High,3
+25 February,Poaching,33,327,Human Made,Low,5
+25 February,Poaching,46,539,Human Made,Medium,7
+25 February,Storm,29,573,Natural,Medium,7
+25 February,Earthquake,47,300,Natural,Low,5
+26 February,Fire,45,64,Natural,Low,10
+26 February,Landslide,48,185,Natural,High,3
+26 February,Pollution,43,502,Human Made,Low,7
+26 February,Earthquake,17,158,Natural,Low,1
+26 February,Earthquake,36,48,Natural,Low,4
+26 February,Earthquake,47,91,Natural,High,8
+26 February,Pollution,17,218,Human Made,Medium,9
+26 February,Pollution,18,24,Human Made,High,3
+26 February,Poaching,35,582,Human Made,Low,7
+26 February,Disease,47,165,Natural,Medium,1
+26 February,Deforestation,6,166,Human Made,High,10
+26 February,Lightning,41,175,Natural,Medium,5
+26 February,Storm,27,30,Natural,High,8
+26 February,Flood,12,128,Natural,Medium,10
+26 February,Drought,12,647,Natural,High,4
+26 February,Earthquake,26,371,Natural,Low,7
+26 February,Drought,24,478,Natural,High,8
+26 February,Drought,47,597,Natural,Medium,10
+26 February,Drought,17,577,Natural,High,10
+26 February,Lightning,42,660,Natural,Medium,8
+26 February,Fire,30,607,Natural,Medium,6
+26 February,Deforestation,15,157,Human Made,Medium,7
+26 February,Earthquake,20,449,Natural,High,9
+26 February,Landslide,21,521,Natural,High,9
+26 February,Storm,12,658,Natural,Medium,6
+26 February,Storm,19,498,Natural,Medium,8
+26 February,Deforestation,47,527,Human Made,Medium,8
+26 February,Lightning,32,496,Natural,Medium,3
+26 February,Drought,43,155,Natural,Medium,1
+26 February,Pollution,8,539,Human Made,Low,2
+26 February,Flood,12,105,Natural,Medium,3
+26 February,Fire,23,619,Natural,High,5
+26 February,Landslide,26,299,Natural,High,8
+26 February,Flood,47,552,Natural,Low,8
+26 February,Overgrazing,8,254,Human Made,Medium,3
+26 February,Deforestation,24,389,Human Made,Low,6
+26 February,Flood,10,210,Natural,Medium,3
+26 February,Overgrazing,16,246,Human Made,Medium,6
+26 February,Earthquake,42,445,Natural,Low,5
+26 February,Earthquake,13,530,Natural,Low,7
+26 February,Fire,35,339,Natural,High,2
+26 February,Poaching,47,418,Human Made,High,1
+26 February,Storm,5,449,Natural,Low,8
+26 February,Disease,27,496,Natural,Medium,1
+26 February,Flood,34,35,Natural,High,4
+26 February,Poaching,41,593,Human Made,Low,5
+26 February,Earthquake,5,294,Natural,Medium,9
+26 February,Pollution,17,550,Human Made,Low,10
+26 February,Disease,42,553,Natural,High,9
+26 February,Earthquake,15,80,Natural,High,1
+26 February,Storm,14,559,Natural,Low,4
+26 February,Overgrazing,18,164,Human Made,High,6
+26 February,Deforestation,4,66,Human Made,High,4
+26 February,Disease,38,396,Natural,Medium,8
+26 February,Lightning,14,110,Natural,High,5
+26 February,Flood,36,549,Natural,Medium,3
+26 February,Landslide,39,383,Natural,Low,1
+26 February,Storm,36,210,Natural,Low,3
+26 February,Storm,29,339,Natural,Low,5
+26 February,Landslide,37,627,Natural,Low,5
+26 February,Storm,22,0,Natural,High,3
+26 February,Disease,12,559,Natural,High,2
+26 February,Deforestation,28,412,Human Made,Low,2
+26 February,Storm,35,597,Natural,Medium,5
+26 February,Landslide,5,667,Natural,Medium,4
+26 February,Drought,16,124,Natural,High,8
+26 February,Poaching,8,83,Human Made,High,2
+26 February,Landslide,47,586,Natural,High,3
+26 February,Deforestation,38,473,Human Made,Low,1
+26 February,Fire,11,475,Natural,High,1
+26 February,Fire,28,581,Natural,High,8
+26 February,Overgrazing,15,475,Human Made,Medium,2
+26 February,Poaching,15,178,Human Made,Low,4
+26 February,Flood,48,27,Natural,Medium,5
+26 February,Pollution,14,639,Human Made,Medium,1
+26 February,Disease,25,400,Natural,Low,3
+26 February,Fire,41,534,Natural,High,6
+26 February,Fire,1,238,Natural,Medium,10
+26 February,Overgrazing,39,161,Human Made,High,5
+26 February,Poaching,32,579,Human Made,Medium,6
+26 February,Flood,40,171,Natural,Low,6
+26 February,Storm,24,645,Natural,Low,3
+27 February,Earthquake,27,77,Natural,Low,10
+27 February,Deforestation,13,572,Human Made,High,6
+27 February,Fire,30,460,Natural,High,9
+27 February,Fire,37,362,Natural,High,5
+27 February,Landslide,6,278,Natural,Medium,8
+27 February,Storm,44,26,Natural,Low,2
+27 February,Pollution,25,591,Human Made,High,6
+27 February,Storm,14,562,Natural,High,4
+27 February,Drought,7,208,Natural,Low,3
+27 February,Pollution,16,493,Human Made,High,2
+27 February,Deforestation,43,521,Human Made,Low,7
+27 February,Overgrazing,4,557,Human Made,High,1
+27 February,Drought,12,454,Natural,Medium,3
+27 February,Poaching,40,136,Human Made,Medium,5
+27 February,Earthquake,48,138,Natural,Medium,9
+27 February,Lightning,8,437,Natural,Medium,3
+27 February,Deforestation,5,91,Human Made,High,9
+27 February,Storm,10,472,Natural,Low,10
+27 February,Landslide,1,150,Natural,Low,10
+27 February,Poaching,4,531,Human Made,High,8
+27 February,Landslide,29,330,Natural,High,4
+27 February,Fire,49,33,Natural,Low,7
+27 February,Deforestation,28,583,Human Made,Low,6
+27 February,Deforestation,38,621,Human Made,High,7
+27 February,Disease,20,473,Natural,Medium,6
+27 February,Lightning,31,197,Natural,High,1
+27 February,Storm,25,507,Natural,Medium,1
+27 February,Drought,11,352,Natural,Medium,9
+27 February,Poaching,37,382,Human Made,Medium,10
+27 February,Flood,28,489,Natural,High,4
+27 February,Earthquake,20,396,Natural,High,8
+27 February,Deforestation,20,439,Human Made,Low,3
+27 February,Overgrazing,42,696,Human Made,Medium,7
+27 February,Pollution,48,442,Human Made,Low,4
+27 February,Lightning,19,97,Natural,High,2
+27 February,Deforestation,29,44,Human Made,Medium,5
+27 February,Overgrazing,50,622,Human Made,High,6
+27 February,Poaching,8,171,Human Made,High,1
+27 February,Deforestation,8,566,Human Made,Medium,10
+27 February,Fire,42,329,Natural,Medium,10
+27 February,Flood,18,166,Natural,High,2
+27 February,Pollution,27,199,Human Made,Medium,8
+27 February,Deforestation,14,697,Human Made,Medium,8
+27 February,Drought,21,619,Natural,Medium,3
+27 February,Fire,49,445,Natural,Low,1
+27 February,Overgrazing,45,183,Human Made,Low,6
+27 February,Lightning,1,454,Natural,Medium,1
+27 February,Fire,39,241,Natural,Medium,4
+27 February,Lightning,42,163,Natural,Medium,3
+27 February,Fire,27,328,Natural,Low,5
+27 February,Earthquake,35,278,Natural,High,7
+27 February,Poaching,21,629,Human Made,Low,2
+27 February,Lightning,13,342,Natural,Low,5
+27 February,Deforestation,18,502,Human Made,High,7
+27 February,Flood,44,307,Natural,Medium,10
+27 February,Lightning,29,373,Natural,Medium,9
+27 February,Pollution,8,646,Human Made,Medium,9
+27 February,Drought,7,278,Natural,Medium,9
+27 February,Fire,32,432,Natural,Low,2
+27 February,Landslide,13,372,Natural,Low,1
+27 February,Poaching,23,309,Human Made,Low,7
+27 February,Deforestation,15,490,Human Made,Low,3
+27 February,Flood,20,549,Natural,High,9
+27 February,Landslide,32,302,Natural,High,10
+27 February,Drought,45,592,Natural,Low,1
+27 February,Fire,22,324,Natural,Low,10
+27 February,Drought,14,411,Natural,High,10
+27 February,Lightning,12,442,Natural,Medium,2
+27 February,Pollution,38,40,Human Made,Low,3
+27 February,Poaching,5,229,Human Made,High,4
+27 February,Deforestation,8,270,Human Made,Low,7
+27 February,Lightning,44,98,Natural,High,10
+27 February,Flood,50,540,Natural,High,6
+27 February,Overgrazing,9,635,Human Made,High,6
+27 February,Disease,37,282,Natural,Medium,3
+27 February,Poaching,39,438,Human Made,Medium,3
+27 February,Earthquake,25,217,Natural,High,8
+27 February,Flood,5,454,Natural,High,6
+27 February,Pollution,33,18,Human Made,High,9
+27 February,Disease,4,361,Natural,Low,9
+27 February,Overgrazing,50,380,Human Made,High,6
+27 February,Poaching,33,479,Human Made,High,4
+28 February,Storm,21,575,Natural,Low,5
+28 February,Drought,3,600,Natural,Medium,4
+28 February,Disease,11,667,Natural,Low,5
+28 February,Fire,45,66,Natural,Medium,6
+28 February,Earthquake,45,665,Natural,Medium,6
+28 February,Flood,44,308,Natural,Low,5
+28 February,Deforestation,7,416,Human Made,High,3
+28 February,Disease,42,513,Natural,High,1
+28 February,Poaching,17,137,Human Made,High,1
+28 February,Deforestation,1,676,Human Made,High,9
+28 February,Disease,20,679,Natural,Low,1
+28 February,Fire,26,617,Natural,Low,3
+28 February,Poaching,50,86,Human Made,High,6
+28 February,Landslide,16,562,Natural,Low,3
+28 February,Fire,25,631,Natural,High,4
+28 February,Flood,44,161,Natural,High,10
+28 February,Poaching,37,290,Human Made,Low,6
+28 February,Flood,15,489,Natural,Low,10
+28 February,Poaching,5,228,Human Made,Low,1
+28 February,Earthquake,50,670,Natural,Low,3
+28 February,Landslide,12,67,Natural,Medium,10
+28 February,Fire,49,596,Natural,High,4
+28 February,Pollution,21,541,Human Made,High,10
+28 February,Deforestation,9,296,Human Made,High,2
+28 February,Flood,27,293,Natural,High,2
+28 February,Disease,49,482,Natural,Low,10
+28 February,Deforestation,43,427,Human Made,Medium,6
+28 February,Pollution,38,610,Human Made,Medium,1
+28 February,Disease,26,700,Natural,High,3
+28 February,Disease,29,258,Natural,Medium,7
+28 February,Storm,7,38,Natural,Low,5
+28 February,Overgrazing,11,623,Human Made,High,8
+28 February,Lightning,12,334,Natural,High,1
+28 February,Lightning,9,668,Natural,High,9
+28 February,Deforestation,49,114,Human Made,Low,3
+28 February,Lightning,37,475,Natural,Medium,7
+28 February,Earthquake,30,523,Natural,Medium,1
+28 February,Flood,45,455,Natural,Low,3
+28 February,Landslide,5,238,Natural,High,2
+28 February,Flood,10,106,Natural,High,1
+28 February,Pollution,25,480,Human Made,Medium,4
+28 February,Fire,48,692,Natural,Medium,5
+28 February,Storm,12,203,Natural,Medium,5
+28 February,Overgrazing,45,667,Human Made,Low,10
+28 February,Disease,5,53,Natural,Medium,3
+28 February,Overgrazing,21,4,Human Made,Low,9
+28 February,Disease,39,486,Natural,Medium,8
+28 February,Storm,45,462,Natural,Medium,9
+28 February,Disease,8,523,Natural,High,1
+28 February,Pollution,2,554,Human Made,Medium,4
+28 February,Fire,6,294,Natural,Low,2
+28 February,Overgrazing,2,134,Human Made,Medium,3
+28 February,Deforestation,32,372,Human Made,High,7
+28 February,Drought,14,65,Natural,Medium,3
+28 February,Poaching,24,402,Human Made,High,9
+28 February,Fire,39,587,Natural,Medium,7
+28 February,Drought,49,54,Natural,Low,4
+28 February,Pollution,3,612,Human Made,Low,2
+28 February,Drought,11,339,Natural,Low,5
+28 February,Overgrazing,19,513,Human Made,Low,1
+28 February,Flood,23,420,Natural,Medium,10
+28 February,Earthquake,38,199,Natural,Medium,5
+28 February,Earthquake,21,283,Natural,Medium,7
+28 February,Earthquake,31,372,Natural,Medium,7
+28 February,Fire,2,684,Natural,Medium,6
+28 February,Disease,2,524,Natural,Low,1
+28 February,Disease,13,164,Natural,High,2
+28 February,Overgrazing,15,68,Human Made,High,4
+28 February,Storm,5,561,Natural,High,7
+28 February,Overgrazing,38,57,Human Made,Low,5
+28 February,Drought,13,251,Natural,Low,3
+28 February,Flood,31,666,Natural,High,8
+28 February,Lightning,5,367,Natural,High,10
+28 February,Pollution,7,331,Human Made,Low,2
+28 February,Fire,14,110,Natural,High,5
+28 February,Flood,38,545,Natural,Medium,2
+28 February,Earthquake,20,574,Natural,High,3
+28 February,Poaching,26,514,Human Made,High,8
+28 February,Poaching,30,466,Human Made,Low,7
+28 February,Drought,45,530,Natural,High,6
+28 February,Landslide,10,673,Natural,Low,2
+28 February,Drought,21,647,Natural,Medium,7
+01 March,Deforestation,3,260,Human Made,High,7
+01 March,Earthquake,38,421,Natural,High,10
+01 March,Landslide,26,560,Natural,High,3
+01 March,Pollution,11,299,Human Made,Medium,9
+01 March,Landslide,46,500,Natural,Medium,2
+01 March,Disease,37,174,Natural,High,10
+01 March,Deforestation,30,619,Human Made,High,6
+01 March,Overgrazing,3,651,Human Made,Medium,10
+01 March,Lightning,30,482,Natural,Medium,5
+01 March,Lightning,42,684,Natural,Medium,5
+01 March,Overgrazing,12,303,Human Made,Low,8
+01 March,Fire,12,257,Natural,Medium,10
+01 March,Storm,9,320,Natural,High,4
+01 March,Earthquake,16,239,Natural,High,8
+01 March,Drought,25,42,Natural,Low,3
+01 March,Drought,42,538,Natural,Medium,9
+01 March,Drought,35,566,Natural,High,10
+01 March,Storm,18,584,Natural,High,5
+01 March,Earthquake,27,127,Natural,Medium,3
+01 March,Poaching,3,52,Human Made,Medium,2
+01 March,Drought,36,34,Natural,Low,3
+01 March,Poaching,33,492,Human Made,Medium,7
+01 March,Earthquake,9,617,Natural,High,3
+01 March,Disease,5,575,Natural,Low,4
+01 March,Flood,50,439,Natural,High,4
+01 March,Pollution,27,228,Human Made,Low,3
+01 March,Flood,33,579,Natural,Medium,5
+01 March,Storm,33,632,Natural,Medium,8
+01 March,Drought,25,624,Natural,High,3
+01 March,Storm,30,124,Natural,Medium,4
+01 March,Poaching,38,196,Human Made,Medium,6
+01 March,Landslide,5,335,Natural,Low,2
+01 March,Storm,46,41,Natural,Low,4
+01 March,Poaching,9,96,Human Made,High,3
+01 March,Drought,23,587,Natural,Low,8
+01 March,Fire,18,451,Natural,Low,2
+01 March,Lightning,23,369,Natural,Low,9
+01 March,Flood,32,23,Natural,High,10
+01 March,Pollution,31,490,Human Made,Medium,10
+01 March,Overgrazing,37,77,Human Made,High,2
+01 March,Fire,17,46,Natural,High,6
+01 March,Drought,30,434,Natural,Low,4
+01 March,Drought,45,192,Natural,Medium,7
+01 March,Disease,4,246,Natural,Medium,9
+01 March,Lightning,19,648,Natural,Medium,6
+01 March,Poaching,48,541,Human Made,High,6
+01 March,Storm,8,287,Natural,Low,7
+01 March,Landslide,41,342,Natural,Low,3
+01 March,Pollution,5,479,Human Made,Low,10
+01 March,Earthquake,38,136,Natural,Low,5
+01 March,Deforestation,11,291,Human Made,Low,1
+01 March,Pollution,13,189,Human Made,Medium,6
+01 March,Deforestation,41,196,Human Made,Medium,2
+01 March,Deforestation,13,141,Human Made,Low,10
+01 March,Flood,18,66,Natural,Medium,7
+01 March,Drought,10,32,Natural,High,1
+01 March,Flood,8,116,Natural,High,5
+01 March,Poaching,3,335,Human Made,High,6
+01 March,Flood,8,351,Natural,Medium,3
+01 March,Flood,42,442,Natural,Low,1
+01 March,Flood,17,316,Natural,Low,7
+01 March,Storm,49,697,Natural,Medium,9
+01 March,Deforestation,48,153,Human Made,Medium,1
+01 March,Lightning,48,339,Natural,Low,10
+01 March,Overgrazing,18,406,Human Made,Medium,5
+01 March,Earthquake,18,327,Natural,High,6
+01 March,Lightning,41,3,Natural,Low,9
+01 March,Drought,40,271,Natural,High,4
+01 March,Deforestation,46,316,Human Made,Medium,9
+01 March,Storm,7,484,Natural,Low,3
+01 March,Poaching,4,575,Human Made,Low,6
+01 March,Flood,30,107,Natural,Medium,10
+01 March,Deforestation,29,642,Human Made,Low,4
+01 March,Fire,34,519,Natural,High,6
+01 March,Lightning,9,648,Natural,High,4
+01 March,Disease,8,618,Natural,Medium,3
+01 March,Deforestation,14,622,Human Made,High,5
+01 March,Lightning,30,583,Natural,Low,6
+01 March,Earthquake,6,53,Natural,High,10
+01 March,Fire,35,516,Natural,Medium,2
+01 March,Fire,15,223,Natural,High,3
+01 March,Storm,5,240,Natural,High,10
+02 March,Drought,4,624,Natural,Medium,2
+02 March,Fire,13,373,Natural,Low,7
+02 March,Poaching,2,425,Human Made,Medium,9
+02 March,Poaching,43,338,Human Made,High,5
+02 March,Flood,15,165,Natural,High,5
+02 March,Drought,27,572,Natural,Low,10
+02 March,Deforestation,46,686,Human Made,Medium,5
+02 March,Lightning,9,61,Natural,Low,1
+02 March,Flood,2,201,Natural,Low,3
+02 March,Earthquake,40,582,Natural,Medium,4
+02 March,Lightning,1,124,Natural,Medium,9
+02 March,Deforestation,2,0,Human Made,Low,9
+02 March,Overgrazing,39,251,Human Made,Medium,1
+02 March,Storm,39,502,Natural,Medium,4
+02 March,Storm,21,152,Natural,Low,4
+02 March,Pollution,37,424,Human Made,Medium,10
+02 March,Storm,17,487,Natural,Low,8
+02 March,Storm,25,612,Natural,High,5
+02 March,Disease,2,103,Natural,Low,10
+02 March,Deforestation,36,683,Human Made,Low,1
+02 March,Landslide,24,14,Natural,Low,6
+02 March,Storm,7,495,Natural,Medium,1
+02 March,Lightning,31,249,Natural,High,7
+02 March,Flood,10,244,Natural,High,7
+02 March,Poaching,34,495,Human Made,Medium,8
+02 March,Pollution,47,603,Human Made,High,5
+02 March,Fire,27,159,Natural,Medium,8
+02 March,Landslide,11,445,Natural,Medium,2
+02 March,Fire,31,135,Natural,High,8
+02 March,Fire,9,151,Natural,Medium,4
+02 March,Deforestation,13,643,Human Made,Low,1
+02 March,Poaching,9,335,Human Made,Medium,8
+02 March,Poaching,24,629,Human Made,Low,10
+02 March,Fire,6,415,Natural,High,7
+02 March,Earthquake,30,640,Natural,Medium,5
+02 March,Flood,47,387,Natural,Low,1
+02 March,Fire,2,482,Natural,Low,3
+02 March,Landslide,12,643,Natural,High,6
+02 March,Fire,10,645,Natural,Low,2
+02 March,Pollution,16,338,Human Made,Low,5
+02 March,Disease,33,203,Natural,Medium,8
+02 March,Disease,22,16,Natural,Medium,1
+02 March,Fire,12,349,Natural,Medium,2
+02 March,Lightning,13,71,Natural,High,1
+02 March,Earthquake,29,74,Natural,High,6
+02 March,Fire,49,521,Natural,Medium,2
+02 March,Landslide,29,398,Natural,Medium,9
+02 March,Overgrazing,49,603,Human Made,Low,9
+02 March,Drought,36,529,Natural,High,8
+02 March,Drought,26,31,Natural,High,8
+02 March,Storm,12,217,Natural,Low,9
+02 March,Disease,35,334,Natural,High,8
+02 March,Earthquake,14,383,Natural,Low,7
+02 March,Lightning,44,115,Natural,High,6
+02 March,Storm,50,26,Natural,High,3
+02 March,Drought,1,660,Natural,Low,3
+02 March,Disease,27,386,Natural,Low,7
+02 March,Overgrazing,34,346,Human Made,Medium,1
+02 March,Landslide,28,314,Natural,Low,4
+02 March,Deforestation,12,397,Human Made,Medium,5
+02 March,Fire,22,290,Natural,Low,2
+02 March,Lightning,48,67,Natural,Medium,7
+02 March,Fire,48,369,Natural,Medium,6
+02 March,Pollution,48,96,Human Made,Low,10
+02 March,Earthquake,46,377,Natural,High,9
+02 March,Fire,30,678,Natural,Low,5
+02 March,Landslide,36,176,Natural,High,4
+02 March,Flood,41,109,Natural,Low,5
+02 March,Earthquake,49,556,Natural,Medium,7
+02 March,Drought,12,109,Natural,High,10
+02 March,Earthquake,49,315,Natural,High,1
+02 March,Pollution,3,455,Human Made,High,5
+02 March,Earthquake,26,361,Natural,High,4
+02 March,Storm,36,346,Natural,Low,7
+02 March,Poaching,40,540,Human Made,Low,4
+02 March,Overgrazing,24,220,Human Made,Low,3
+02 March,Overgrazing,49,446,Human Made,Low,8
+02 March,Drought,34,138,Natural,Low,8
+02 March,Fire,34,673,Natural,Medium,4
+02 March,Landslide,45,197,Natural,High,3
+02 March,Poaching,30,80,Human Made,High,6
+02 March,Earthquake,2,451,Natural,High,10
+03 March,Lightning,17,626,Natural,High,2
+03 March,Landslide,23,168,Natural,Low,4
+03 March,Overgrazing,35,160,Human Made,High,7
+03 March,Lightning,34,500,Natural,Low,2
+03 March,Earthquake,1,362,Natural,Low,10
+03 March,Pollution,26,431,Human Made,Low,3
+03 March,Deforestation,4,184,Human Made,Medium,7
+03 March,Earthquake,13,483,Natural,High,10
+03 March,Pollution,13,100,Human Made,High,9
+03 March,Deforestation,5,49,Human Made,Low,2
+03 March,Deforestation,13,191,Human Made,High,4
+03 March,Deforestation,18,422,Human Made,Low,7
+03 March,Drought,11,207,Natural,Medium,10
+03 March,Deforestation,47,143,Human Made,Low,1
+03 March,Landslide,32,293,Natural,High,10
+03 March,Earthquake,43,264,Natural,Medium,2
+03 March,Overgrazing,16,401,Human Made,Low,5
+03 March,Storm,32,469,Natural,High,3
+03 March,Disease,11,451,Natural,Medium,3
+03 March,Overgrazing,26,164,Human Made,Medium,8
+03 March,Pollution,17,473,Human Made,Medium,2
+03 March,Pollution,4,369,Human Made,High,8
+03 March,Deforestation,12,550,Human Made,High,8
+03 March,Deforestation,43,36,Human Made,Medium,1
+03 March,Earthquake,42,460,Natural,Low,10
+03 March,Storm,35,633,Natural,High,4
+03 March,Flood,41,443,Natural,Medium,9
+03 March,Drought,34,635,Natural,High,5
+03 March,Storm,11,174,Natural,Low,4
+03 March,Deforestation,14,514,Human Made,High,6
+03 March,Poaching,8,343,Human Made,High,9
+03 March,Earthquake,32,442,Natural,Medium,10
+03 March,Pollution,3,387,Human Made,Low,9
+03 March,Flood,46,691,Natural,Low,3
+03 March,Pollution,39,255,Human Made,Medium,5
+03 March,Disease,34,299,Natural,High,9
+03 March,Poaching,50,511,Human Made,Low,6
+03 March,Lightning,27,181,Natural,Medium,8
+03 March,Pollution,35,173,Human Made,Medium,2
+03 March,Deforestation,24,574,Human Made,Medium,3
+03 March,Flood,6,326,Natural,Medium,5
+03 March,Pollution,42,552,Human Made,Medium,3
+03 March,Landslide,5,357,Natural,Medium,9
+03 March,Fire,27,238,Natural,High,3
+03 March,Drought,43,21,Natural,Low,8
+03 March,Poaching,25,337,Human Made,Medium,5
+03 March,Overgrazing,6,332,Human Made,Low,2
+03 March,Overgrazing,38,397,Human Made,Medium,6
+03 March,Poaching,12,220,Human Made,Medium,10
+03 March,Poaching,11,646,Human Made,Medium,9
+03 March,Poaching,23,306,Human Made,High,3
+03 March,Earthquake,36,440,Natural,High,10
+03 March,Storm,35,486,Natural,High,1
+03 March,Poaching,36,198,Human Made,Low,10
+03 March,Flood,50,204,Natural,Low,10
+03 March,Overgrazing,34,471,Human Made,High,4
+03 March,Deforestation,44,132,Human Made,Low,5
+03 March,Lightning,37,50,Natural,High,10
+03 March,Drought,41,251,Natural,Low,5
+03 March,Pollution,14,216,Human Made,High,8
+03 March,Pollution,14,460,Human Made,Medium,10
+03 March,Storm,21,187,Natural,High,8
+03 March,Lightning,7,18,Natural,Low,7
+03 March,Earthquake,8,82,Natural,Medium,6
+03 March,Flood,14,546,Natural,Medium,9
+03 March,Poaching,26,588,Human Made,Medium,3
+03 March,Flood,38,179,Natural,Low,4
+03 March,Poaching,36,308,Human Made,High,5
+03 March,Fire,42,579,Natural,Medium,5
+03 March,Drought,39,621,Natural,High,9
+03 March,Deforestation,25,624,Human Made,Low,10
+03 March,Overgrazing,36,633,Human Made,Medium,8
+03 March,Fire,46,223,Natural,Medium,6
+03 March,Deforestation,21,399,Human Made,Medium,4
+03 March,Storm,32,211,Natural,Low,9
+03 March,Drought,25,381,Natural,High,7
+03 March,Deforestation,49,272,Human Made,High,4
+03 March,Overgrazing,14,564,Human Made,Low,7
+03 March,Fire,30,416,Natural,Medium,3
+03 March,Disease,25,37,Natural,High,4
+03 March,Fire,2,1,Natural,Medium,6
+03 March,Pollution,5,278,Human Made,Medium,4
+04 March,Landslide,28,193,Natural,High,3
+04 March,Earthquake,18,382,Natural,High,3
+04 March,Lightning,3,290,Natural,High,5
+04 March,Earthquake,22,253,Natural,Medium,9
+04 March,Pollution,18,663,Human Made,Medium,6
+04 March,Earthquake,17,572,Natural,Low,7
+04 March,Lightning,23,549,Natural,High,9
+04 March,Pollution,44,272,Human Made,High,8
+04 March,Flood,38,468,Natural,High,9
+04 March,Earthquake,20,650,Natural,Medium,8
+04 March,Storm,10,78,Natural,Low,10
+04 March,Poaching,31,200,Human Made,Medium,9
+04 March,Landslide,1,239,Natural,High,6
+04 March,Pollution,30,644,Human Made,Low,7
+04 March,Pollution,20,398,Human Made,High,3
+04 March,Landslide,45,173,Natural,Medium,7
+04 March,Storm,13,187,Natural,Low,5
+04 March,Drought,28,253,Natural,Medium,9
+04 March,Pollution,49,348,Human Made,Medium,8
+04 March,Deforestation,31,390,Human Made,Medium,8
+04 March,Earthquake,47,62,Natural,Medium,7
+04 March,Overgrazing,7,108,Human Made,Low,3
+04 March,Lightning,40,667,Natural,Medium,10
+04 March,Earthquake,36,304,Natural,Low,8
+04 March,Landslide,15,267,Natural,Low,1
+04 March,Lightning,13,301,Natural,High,2
+04 March,Poaching,1,13,Human Made,Medium,9
+04 March,Landslide,29,40,Natural,High,8
+04 March,Flood,43,59,Natural,Medium,10
+04 March,Storm,2,289,Natural,Medium,1
+04 March,Disease,41,629,Natural,High,9
+04 March,Disease,45,698,Natural,Low,6
+04 March,Drought,26,313,Natural,Medium,9
+04 March,Pollution,50,183,Human Made,Medium,6
+04 March,Landslide,38,544,Natural,Low,2
+04 March,Poaching,47,371,Human Made,High,2
+04 March,Deforestation,47,426,Human Made,Low,6
+04 March,Pollution,42,13,Human Made,High,1
+04 March,Poaching,38,449,Human Made,Low,10
+04 March,Fire,16,476,Natural,High,3
+04 March,Flood,10,588,Natural,Medium,3
+04 March,Disease,39,322,Natural,Medium,5
+04 March,Pollution,38,14,Human Made,High,5
+04 March,Lightning,7,664,Natural,Low,10
+04 March,Storm,41,440,Natural,High,3
+04 March,Disease,33,34,Natural,High,4
+04 March,Fire,46,616,Natural,Medium,1
+04 March,Landslide,34,410,Natural,High,9
+04 March,Pollution,19,17,Human Made,Medium,1
+04 March,Storm,5,485,Natural,High,2
+04 March,Overgrazing,20,100,Human Made,High,8
+04 March,Lightning,43,578,Natural,High,8
+04 March,Earthquake,47,34,Natural,Medium,6
+04 March,Lightning,23,340,Natural,High,6
+04 March,Disease,7,415,Natural,High,6
+04 March,Disease,38,58,Natural,Medium,4
+04 March,Lightning,5,507,Natural,Medium,8
+04 March,Overgrazing,14,305,Human Made,High,9
+04 March,Disease,3,164,Natural,Medium,3
+04 March,Fire,4,584,Natural,High,6
+04 March,Storm,12,179,Natural,Medium,2
+04 March,Flood,21,592,Natural,Low,6
+04 March,Flood,25,284,Natural,Medium,1
+04 March,Fire,18,637,Natural,High,8
+04 March,Storm,42,261,Natural,Low,8
+04 March,Pollution,37,589,Human Made,Medium,6
+04 March,Poaching,13,209,Human Made,Medium,10
+04 March,Lightning,23,131,Natural,High,4
+04 March,Deforestation,43,606,Human Made,Medium,5
+04 March,Earthquake,14,166,Natural,Medium,6
+04 March,Flood,33,496,Natural,Medium,4
+04 March,Deforestation,15,492,Human Made,Medium,1
+04 March,Disease,37,264,Natural,Medium,10
+04 March,Poaching,23,73,Human Made,High,8
+04 March,Fire,9,664,Natural,Medium,9
+04 March,Disease,10,636,Natural,Medium,7
+04 March,Drought,44,140,Natural,Low,2
+04 March,Landslide,33,694,Natural,Low,2
+04 March,Disease,43,639,Natural,Medium,9
+04 March,Pollution,46,193,Human Made,High,1
+04 March,Disease,18,403,Natural,Low,6
+04 March,Overgrazing,14,67,Human Made,High,7
+05 March,Deforestation,32,662,Human Made,High,4
+05 March,Drought,25,11,Natural,Low,9
+05 March,Pollution,46,621,Human Made,Low,7
+05 March,Deforestation,21,642,Human Made,High,7
+05 March,Lightning,36,477,Natural,High,5
+05 March,Fire,35,2,Natural,High,1
+05 March,Landslide,9,566,Natural,High,9
+05 March,Disease,21,609,Natural,Low,6
+05 March,Earthquake,19,191,Natural,Medium,2
+05 March,Poaching,29,455,Human Made,High,4
+05 March,Deforestation,24,280,Human Made,Medium,7
+05 March,Poaching,36,374,Human Made,High,7
+05 March,Poaching,10,445,Human Made,Low,6
+05 March,Poaching,17,389,Human Made,High,8
+05 March,Pollution,34,421,Human Made,High,8
+05 March,Pollution,18,79,Human Made,Medium,7
+05 March,Storm,37,511,Natural,Low,10
+05 March,Pollution,41,511,Human Made,Low,4
+05 March,Storm,34,51,Natural,Low,3
+05 March,Overgrazing,40,305,Human Made,Low,5
+05 March,Pollution,50,326,Human Made,Medium,1
+05 March,Landslide,33,182,Natural,Low,1
+05 March,Overgrazing,15,427,Human Made,Medium,9
+05 March,Flood,7,410,Natural,Medium,2
+05 March,Flood,41,582,Natural,Medium,6
+05 March,Overgrazing,46,432,Human Made,High,5
+05 March,Flood,42,593,Natural,High,8
+05 March,Storm,28,210,Natural,Medium,7
+05 March,Drought,16,656,Natural,Low,2
+05 March,Fire,48,212,Natural,High,9
+05 March,Overgrazing,40,445,Human Made,Low,1
+05 March,Storm,30,380,Natural,Low,10
+05 March,Flood,32,433,Natural,High,9
+05 March,Earthquake,31,296,Natural,Medium,4
+05 March,Disease,9,299,Natural,High,8
+05 March,Landslide,28,550,Natural,Low,2
+05 March,Deforestation,26,639,Human Made,Low,6
+05 March,Pollution,42,285,Human Made,Low,1
+05 March,Drought,27,389,Natural,Low,8
+05 March,Pollution,12,301,Human Made,Low,7
+05 March,Overgrazing,19,585,Human Made,Medium,8
+05 March,Pollution,5,509,Human Made,Medium,9
+05 March,Storm,13,71,Natural,High,8
+05 March,Poaching,34,234,Human Made,Low,1
+05 March,Storm,15,181,Natural,Low,5
+05 March,Overgrazing,5,562,Human Made,Low,2
+05 March,Fire,45,206,Natural,High,9
+05 March,Disease,30,390,Natural,High,2
+05 March,Drought,14,370,Natural,Low,6
+05 March,Disease,21,161,Natural,High,7
+05 March,Earthquake,12,432,Natural,High,5
+05 March,Fire,27,534,Natural,Low,8
+05 March,Pollution,29,530,Human Made,Medium,4
+05 March,Pollution,10,90,Human Made,High,5
+05 March,Landslide,13,16,Natural,Low,3
+05 March,Storm,5,343,Natural,Low,1
+05 March,Fire,10,185,Natural,High,1
+05 March,Landslide,27,393,Natural,High,5
+05 March,Disease,34,464,Natural,Low,8
+05 March,Flood,22,383,Natural,High,1
+05 March,Poaching,37,258,Human Made,Low,5
+05 March,Drought,18,272,Natural,High,8
+05 March,Pollution,34,423,Human Made,Low,2
+05 March,Lightning,43,307,Natural,Medium,2
+05 March,Pollution,19,154,Human Made,High,3
+05 March,Drought,39,133,Natural,High,2
+05 March,Pollution,41,189,Human Made,Low,8
+05 March,Deforestation,38,291,Human Made,Low,3
+05 March,Pollution,3,210,Human Made,High,7
+05 March,Earthquake,23,492,Natural,High,2
+05 March,Fire,9,608,Natural,Low,5
+05 March,Flood,19,208,Natural,Medium,10
+05 March,Deforestation,41,263,Human Made,Low,1
+05 March,Landslide,35,651,Natural,Low,8
+05 March,Flood,49,294,Natural,Medium,1
+05 March,Pollution,27,471,Human Made,High,10
+05 March,Drought,35,469,Natural,High,4
+05 March,Earthquake,49,545,Natural,Low,10
+05 March,Earthquake,6,361,Natural,High,1
+05 March,Overgrazing,19,592,Human Made,High,3
+05 March,Disease,45,699,Natural,High,10
+05 March,Drought,45,164,Natural,Medium,1
+06 March,Flood,7,164,Natural,High,3
+06 March,Pollution,26,216,Human Made,High,6
+06 March,Earthquake,48,576,Natural,Low,3
+06 March,Overgrazing,26,591,Human Made,Medium,2
+06 March,Poaching,45,335,Human Made,Low,10
+06 March,Poaching,48,504,Human Made,Low,2
+06 March,Deforestation,25,375,Human Made,Low,6
+06 March,Deforestation,1,222,Human Made,High,8
+06 March,Overgrazing,18,254,Human Made,High,4
+06 March,Pollution,6,359,Human Made,Low,3
+06 March,Pollution,49,228,Human Made,Low,10
+06 March,Deforestation,22,317,Human Made,Low,5
+06 March,Earthquake,11,12,Natural,Medium,1
+06 March,Landslide,4,366,Natural,Low,3
+06 March,Pollution,1,334,Human Made,Medium,1
+06 March,Disease,39,511,Natural,Medium,1
+06 March,Overgrazing,27,111,Human Made,Low,10
+06 March,Disease,47,508,Natural,High,3
+06 March,Landslide,19,500,Natural,High,10
+06 March,Pollution,33,689,Human Made,Medium,6
+06 March,Fire,10,21,Natural,Medium,5
+06 March,Storm,45,124,Natural,Low,10
+06 March,Drought,44,271,Natural,Low,8
+06 March,Pollution,1,335,Human Made,Medium,8
+06 March,Landslide,17,277,Natural,High,7
+06 March,Flood,31,287,Natural,High,5
+06 March,Disease,6,20,Natural,Low,3
+06 March,Storm,21,374,Natural,Medium,1
+06 March,Lightning,13,507,Natural,Low,4
+06 March,Landslide,24,454,Natural,Low,8
+06 March,Deforestation,50,162,Human Made,High,4
+06 March,Pollution,26,102,Human Made,Medium,9
+06 March,Deforestation,21,210,Human Made,Medium,7
+06 March,Pollution,34,352,Human Made,Medium,1
+06 March,Pollution,19,344,Human Made,High,2
+06 March,Drought,47,480,Natural,Medium,3
+06 March,Earthquake,38,47,Natural,Medium,8
+06 March,Landslide,1,355,Natural,Medium,8
+06 March,Earthquake,21,383,Natural,Low,10
+06 March,Overgrazing,21,209,Human Made,High,10
+06 March,Flood,42,330,Natural,Medium,2
+06 March,Overgrazing,50,312,Human Made,Medium,4
+06 March,Flood,19,587,Natural,High,4
+06 March,Pollution,31,384,Human Made,Medium,8
+06 March,Landslide,13,119,Natural,High,9
+06 March,Disease,10,360,Natural,Low,6
+06 March,Overgrazing,9,502,Human Made,High,7
+06 March,Landslide,44,146,Natural,High,4
+06 March,Earthquake,36,614,Natural,High,2
+06 March,Disease,30,219,Natural,Low,3
+06 March,Overgrazing,36,30,Human Made,Medium,3
+06 March,Deforestation,10,667,Human Made,Low,10
+06 March,Deforestation,46,606,Human Made,High,7
+06 March,Fire,35,543,Natural,Medium,1
+06 March,Deforestation,29,539,Human Made,Medium,2
+06 March,Drought,48,662,Natural,High,7
+06 March,Disease,22,598,Natural,Medium,10
+06 March,Fire,50,91,Natural,Medium,6
+06 March,Drought,39,622,Natural,Low,2
+06 March,Poaching,39,506,Human Made,Medium,3
+06 March,Poaching,1,30,Human Made,High,3
+06 March,Storm,19,340,Natural,High,3
+06 March,Overgrazing,19,149,Human Made,Low,9
+06 March,Drought,12,673,Natural,High,4
+06 March,Disease,46,404,Natural,Low,9
+06 March,Lightning,39,131,Natural,Medium,6
+06 March,Storm,13,173,Natural,Medium,2
+06 March,Landslide,11,124,Natural,High,6
+06 March,Landslide,8,299,Natural,Low,3
+06 March,Poaching,12,426,Human Made,Medium,7
+06 March,Landslide,28,224,Natural,High,4
+06 March,Disease,4,114,Natural,Low,9
+06 March,Pollution,28,141,Human Made,Medium,1
+06 March,Drought,19,202,Natural,High,8
+06 March,Overgrazing,38,624,Human Made,Medium,7
+06 March,Poaching,27,30,Human Made,Medium,5
+06 March,Pollution,5,67,Human Made,High,7
+06 March,Disease,7,350,Natural,High,10
+06 March,Flood,46,79,Natural,Low,4
+06 March,Storm,32,531,Natural,Medium,8
+06 March,Deforestation,21,375,Human Made,High,7
+06 March,Storm,20,139,Natural,Medium,4
+07 March,Poaching,44,557,Human Made,Low,4
+07 March,Storm,47,341,Natural,Medium,4
+07 March,Earthquake,44,617,Natural,High,2
+07 March,Disease,40,548,Natural,High,7
+07 March,Deforestation,18,624,Human Made,High,5
+07 March,Deforestation,33,379,Human Made,High,4
+07 March,Pollution,13,599,Human Made,Medium,3
+07 March,Fire,38,471,Natural,High,2
+07 March,Landslide,36,540,Natural,Low,2
+07 March,Fire,41,514,Natural,Medium,7
+07 March,Deforestation,2,231,Human Made,Medium,8
+07 March,Earthquake,19,113,Natural,Medium,4
+07 March,Storm,44,137,Natural,Low,4
+07 March,Earthquake,45,34,Natural,Low,3
+07 March,Landslide,42,135,Natural,High,6
+07 March,Lightning,23,101,Natural,High,1
+07 March,Landslide,45,54,Natural,Low,5
+07 March,Overgrazing,15,484,Human Made,Low,3
+07 March,Deforestation,32,597,Human Made,High,7
+07 March,Flood,32,124,Natural,High,1
+07 March,Poaching,5,642,Human Made,Medium,10
+07 March,Disease,25,107,Natural,Low,6
+07 March,Flood,1,365,Natural,Low,2
+07 March,Flood,19,63,Natural,Low,4
+07 March,Lightning,5,0,Natural,High,3
+07 March,Lightning,29,412,Natural,Low,9
+07 March,Pollution,44,201,Human Made,Low,8
+07 March,Fire,27,132,Natural,Medium,5
+07 March,Earthquake,43,47,Natural,Low,4
+07 March,Poaching,22,607,Human Made,Low,4
+07 March,Disease,40,245,Natural,Low,2
+07 March,Poaching,30,187,Human Made,Low,4
+07 March,Storm,49,309,Natural,Low,9
+07 March,Lightning,25,25,Natural,Medium,7
+07 March,Poaching,45,73,Human Made,High,9
+07 March,Fire,18,266,Natural,Medium,7
+07 March,Landslide,35,21,Natural,High,1
+07 March,Deforestation,49,484,Human Made,Medium,7
+07 March,Storm,8,415,Natural,High,3
+07 March,Drought,32,333,Natural,Low,9
+07 March,Deforestation,46,530,Human Made,Low,6
+07 March,Pollution,31,212,Human Made,Low,4
+07 March,Poaching,32,699,Human Made,Medium,8
+07 March,Drought,23,434,Natural,Low,10
+07 March,Disease,3,334,Natural,Medium,6
+07 March,Lightning,45,451,Natural,High,8
+07 March,Drought,36,80,Natural,Low,10
+07 March,Overgrazing,49,133,Human Made,Medium,2
+07 March,Deforestation,28,396,Human Made,High,1
+07 March,Overgrazing,45,147,Human Made,Low,8
+07 March,Lightning,14,681,Natural,Medium,5
+07 March,Landslide,19,508,Natural,Low,5
+07 March,Drought,13,247,Natural,High,6
+07 March,Disease,32,557,Natural,Low,10
+07 March,Flood,44,126,Natural,Medium,1
+07 March,Pollution,19,606,Human Made,Medium,4
+07 March,Drought,27,335,Natural,Medium,6
+07 March,Pollution,17,380,Human Made,Medium,8
+07 March,Earthquake,7,117,Natural,High,9
+07 March,Poaching,13,630,Human Made,High,6
+07 March,Poaching,29,501,Human Made,High,6
+07 March,Overgrazing,8,408,Human Made,Medium,2
+07 March,Disease,20,178,Natural,Low,1
+07 March,Overgrazing,9,591,Human Made,Medium,4
+07 March,Overgrazing,38,604,Human Made,High,6
+07 March,Poaching,47,575,Human Made,Medium,4
+07 March,Drought,10,234,Natural,Medium,10
+07 March,Overgrazing,12,273,Human Made,Medium,3
+07 March,Drought,42,253,Natural,High,9
+07 March,Landslide,1,572,Natural,Low,3
+07 March,Earthquake,26,685,Natural,Low,3
+07 March,Deforestation,18,13,Human Made,Low,8
+07 March,Fire,6,527,Natural,High,5
+07 March,Disease,24,485,Natural,High,1
+07 March,Poaching,49,613,Human Made,Low,5
+07 March,Fire,44,698,Natural,High,5
+07 March,Earthquake,21,351,Natural,Medium,6
+07 March,Storm,24,186,Natural,Low,1
+07 March,Overgrazing,16,670,Human Made,High,2
+07 March,Disease,27,331,Natural,Low,1
+07 March,Drought,23,465,Natural,High,5
+07 March,Fire,31,595,Natural,Low,2
+08 March,Lightning,2,174,Natural,Low,5
+08 March,Disease,42,680,Natural,High,4
+08 March,Storm,42,426,Natural,Medium,8
+08 March,Flood,25,684,Natural,Medium,2
+08 March,Poaching,31,60,Human Made,Low,2
+08 March,Fire,44,640,Natural,High,5
+08 March,Disease,50,24,Natural,Low,10
+08 March,Poaching,13,418,Human Made,Medium,5
+08 March,Fire,32,459,Natural,Low,10
+08 March,Fire,37,364,Natural,Low,4
+08 March,Earthquake,29,483,Natural,High,1
+08 March,Fire,38,339,Natural,Low,3
+08 March,Flood,8,557,Natural,Medium,10
+08 March,Pollution,17,73,Human Made,Medium,7
+08 March,Storm,20,45,Natural,Medium,1
+08 March,Disease,49,679,Natural,High,8
+08 March,Flood,1,550,Natural,Low,1
+08 March,Storm,32,185,Natural,Low,7
+08 March,Earthquake,2,224,Natural,High,7
+08 March,Flood,1,269,Natural,Low,4
+08 March,Drought,48,355,Natural,Medium,3
+08 March,Earthquake,36,593,Natural,Low,2
+08 March,Fire,42,469,Natural,Medium,5
+08 March,Poaching,30,207,Human Made,Low,7
+08 March,Earthquake,5,168,Natural,High,2
+08 March,Storm,48,30,Natural,Medium,7
+08 March,Drought,13,390,Natural,High,1
+08 March,Overgrazing,30,60,Human Made,Low,4
+08 March,Overgrazing,8,143,Human Made,Low,8
+08 March,Overgrazing,46,47,Human Made,Medium,5
+08 March,Drought,50,394,Natural,Low,10
+08 March,Drought,3,397,Natural,Low,6
+08 March,Storm,13,238,Natural,Medium,6
+08 March,Fire,49,334,Natural,Low,5
+08 March,Drought,36,287,Natural,Low,7
+08 March,Fire,10,52,Natural,High,7
+08 March,Flood,6,475,Natural,Low,3
+08 March,Overgrazing,42,674,Human Made,Low,4
+08 March,Drought,41,649,Natural,High,8
+08 March,Lightning,31,379,Natural,High,7
+08 March,Landslide,44,543,Natural,High,4
+08 March,Earthquake,19,250,Natural,Medium,9
+08 March,Poaching,13,31,Human Made,Low,10
+08 March,Drought,20,127,Natural,High,2
+08 March,Drought,29,381,Natural,Low,3
+08 March,Pollution,28,572,Human Made,High,7
+08 March,Drought,25,563,Natural,High,7
+08 March,Drought,40,342,Natural,Medium,2
+08 March,Overgrazing,37,393,Human Made,Low,7
+08 March,Fire,39,207,Natural,Low,10
+08 March,Disease,24,148,Natural,Medium,3
+08 March,Deforestation,47,449,Human Made,Low,6
+08 March,Storm,9,209,Natural,Medium,7
+08 March,Landslide,16,591,Natural,Medium,4
+08 March,Poaching,36,370,Human Made,Medium,7
+08 March,Storm,11,260,Natural,High,4
+08 March,Poaching,14,284,Human Made,High,9
+08 March,Lightning,42,680,Natural,High,10
+08 March,Landslide,6,239,Natural,Low,4
+08 March,Earthquake,37,286,Natural,Medium,3
+08 March,Disease,18,599,Natural,Low,1
+08 March,Pollution,44,490,Human Made,Low,4
+08 March,Overgrazing,9,512,Human Made,High,10
+08 March,Poaching,35,469,Human Made,Low,5
+08 March,Lightning,40,664,Natural,Medium,8
+08 March,Overgrazing,18,408,Human Made,High,10
+08 March,Flood,48,484,Natural,Medium,8
+08 March,Lightning,26,32,Natural,Medium,7
+08 March,Landslide,16,290,Natural,High,3
+08 March,Drought,1,503,Natural,Low,8
+08 March,Landslide,30,258,Natural,High,7
+08 March,Flood,23,148,Natural,High,6
+08 March,Overgrazing,42,169,Human Made,Low,5
+08 March,Disease,16,539,Natural,Low,7
+08 March,Drought,34,29,Natural,Medium,2
+08 March,Poaching,37,158,Human Made,Medium,7
+08 March,Poaching,39,359,Human Made,Low,10
+08 March,Storm,21,228,Natural,High,8
+08 March,Deforestation,8,344,Human Made,Low,6
+08 March,Pollution,44,629,Human Made,High,5
+08 March,Deforestation,33,262,Human Made,Low,2
+08 March,Overgrazing,24,345,Human Made,Medium,2
+09 March,Fire,19,179,Natural,Low,7
+09 March,Pollution,45,257,Human Made,Low,8
+09 March,Disease,29,15,Natural,Medium,4
+09 March,Fire,39,136,Natural,Low,6
+09 March,Fire,32,131,Natural,Medium,6
+09 March,Storm,24,62,Natural,High,8
+09 March,Pollution,19,151,Human Made,Low,1
+09 March,Poaching,13,568,Human Made,High,2
+09 March,Overgrazing,32,612,Human Made,Low,8
+09 March,Storm,9,24,Natural,Low,4
+09 March,Pollution,3,452,Human Made,Medium,4
+09 March,Flood,13,560,Natural,Medium,3
+09 March,Flood,12,629,Natural,High,4
+09 March,Pollution,28,37,Human Made,High,8
+09 March,Drought,29,454,Natural,Low,8
+09 March,Earthquake,1,242,Natural,High,7
+09 March,Overgrazing,8,33,Human Made,High,3
+09 March,Lightning,26,280,Natural,Low,8
+09 March,Fire,8,603,Natural,Medium,1
+09 March,Disease,29,689,Natural,Medium,2
+09 March,Poaching,17,215,Human Made,High,8
+09 March,Flood,30,432,Natural,Low,8
+09 March,Storm,2,566,Natural,High,5
+09 March,Earthquake,42,628,Natural,Low,4
+09 March,Flood,17,107,Natural,High,1
+09 March,Flood,47,557,Natural,Medium,9
+09 March,Earthquake,1,498,Natural,High,9
+09 March,Poaching,47,239,Human Made,High,10
+09 March,Lightning,38,687,Natural,High,3
+09 March,Overgrazing,49,484,Human Made,Low,3
+09 March,Storm,19,130,Natural,High,9
+09 March,Deforestation,17,590,Human Made,Low,10
+09 March,Lightning,11,39,Natural,High,10
+09 March,Drought,11,566,Natural,Low,6
+09 March,Flood,40,256,Natural,Medium,3
+09 March,Disease,29,205,Natural,Low,10
+09 March,Drought,39,677,Natural,Low,8
+09 March,Storm,38,222,Natural,Low,7
+09 March,Poaching,29,597,Human Made,Medium,2
+09 March,Disease,33,636,Natural,High,9
+09 March,Poaching,39,44,Human Made,High,1
+09 March,Overgrazing,44,399,Human Made,Low,1
+09 March,Deforestation,2,281,Human Made,High,9
+09 March,Poaching,15,543,Human Made,Medium,8
+09 March,Deforestation,42,650,Human Made,High,8
+09 March,Disease,20,176,Natural,High,5
+09 March,Disease,37,183,Natural,Low,4
+09 March,Landslide,5,329,Natural,Low,3
+09 March,Deforestation,10,257,Human Made,Low,7
+09 March,Drought,8,278,Natural,Low,6
+09 March,Disease,29,411,Natural,High,1
+09 March,Pollution,41,372,Human Made,Medium,6
+09 March,Pollution,33,459,Human Made,High,10
+09 March,Fire,17,618,Natural,High,4
+09 March,Deforestation,8,439,Human Made,Low,3
+09 March,Overgrazing,50,1,Human Made,High,2
+09 March,Disease,36,561,Natural,Low,9
+09 March,Fire,22,626,Natural,Low,7
+09 March,Overgrazing,47,601,Human Made,High,2
+09 March,Poaching,11,227,Human Made,Medium,3
+09 March,Overgrazing,8,192,Human Made,High,5
+09 March,Flood,12,136,Natural,Medium,6
+09 March,Poaching,30,464,Human Made,High,7
+09 March,Storm,6,648,Natural,High,1
+09 March,Disease,11,527,Natural,High,10
+09 March,Disease,26,577,Natural,Medium,3
+09 March,Disease,18,543,Natural,High,9
+09 March,Drought,2,490,Natural,Low,1
+09 March,Fire,22,538,Natural,Medium,9
+09 March,Storm,25,563,Natural,High,7
+09 March,Drought,26,533,Natural,High,4
+09 March,Flood,50,451,Natural,Medium,8
+09 March,Landslide,34,561,Natural,Low,1
+09 March,Disease,48,354,Natural,High,9
+09 March,Poaching,43,201,Human Made,Medium,5
+09 March,Storm,23,299,Natural,High,7
+09 March,Drought,43,7,Natural,High,3
+09 March,Fire,27,151,Natural,Medium,6
+09 March,Fire,40,68,Natural,High,1
+09 March,Storm,26,294,Natural,High,8
+09 March,Disease,23,518,Natural,Medium,10
+09 March,Pollution,8,674,Human Made,High,9
+10 March,Earthquake,14,653,Natural,Low,2
+10 March,Deforestation,2,458,Human Made,Low,4
+10 March,Poaching,44,498,Human Made,Low,1
+10 March,Disease,12,599,Natural,Low,9
+10 March,Poaching,17,557,Human Made,Low,9
+10 March,Deforestation,33,331,Human Made,High,5
+10 March,Lightning,10,449,Natural,Medium,3
+10 March,Landslide,47,208,Natural,High,4
+10 March,Storm,46,70,Natural,High,9
+10 March,Fire,44,600,Natural,High,3
+10 March,Fire,32,146,Natural,Low,8
+10 March,Disease,3,104,Natural,High,8
+10 March,Fire,27,441,Natural,Low,7
+10 March,Disease,18,440,Natural,Low,9
+10 March,Deforestation,40,477,Human Made,Low,2
+10 March,Earthquake,27,582,Natural,Low,6
+10 March,Lightning,18,241,Natural,Medium,4
+10 March,Disease,8,356,Natural,Low,3
+10 March,Earthquake,26,284,Natural,Low,7
+10 March,Landslide,33,391,Natural,High,2
+10 March,Landslide,44,469,Natural,Medium,8
+10 March,Storm,1,434,Natural,Medium,5
+10 March,Overgrazing,30,567,Human Made,Medium,2
+10 March,Pollution,13,7,Human Made,High,6
+10 March,Storm,14,71,Natural,Medium,1
+10 March,Drought,23,598,Natural,Low,9
+10 March,Drought,19,118,Natural,High,4
+10 March,Overgrazing,7,264,Human Made,Low,3
+10 March,Drought,33,354,Natural,Medium,5
+10 March,Flood,26,668,Natural,Low,5
+10 March,Storm,40,420,Natural,Low,2
+10 March,Pollution,32,178,Human Made,High,1
+10 March,Pollution,30,502,Human Made,Low,1
+10 March,Fire,9,570,Natural,Medium,1
+10 March,Drought,42,381,Natural,High,4
+10 March,Poaching,14,392,Human Made,High,4
+10 March,Overgrazing,32,615,Human Made,High,4
+10 March,Lightning,7,15,Natural,Medium,5
+10 March,Poaching,44,408,Human Made,Medium,3
+10 March,Drought,24,308,Natural,Low,8
+10 March,Pollution,12,360,Human Made,High,8
+10 March,Poaching,5,49,Human Made,Medium,7
+10 March,Poaching,37,326,Human Made,High,1
+10 March,Overgrazing,16,242,Human Made,Low,9
+10 March,Poaching,12,256,Human Made,Medium,2
+10 March,Flood,33,556,Natural,High,9
+10 March,Lightning,33,603,Natural,High,4
+10 March,Lightning,45,690,Natural,Low,9
+10 March,Overgrazing,45,68,Human Made,Medium,1
+10 March,Fire,9,586,Natural,High,2
+10 March,Earthquake,41,434,Natural,Low,9
+10 March,Flood,12,210,Natural,Medium,5
+10 March,Deforestation,12,499,Human Made,Low,7
+10 March,Flood,21,321,Natural,High,6
+10 March,Drought,44,188,Natural,Medium,2
+10 March,Disease,1,473,Natural,High,1
+10 March,Drought,38,80,Natural,High,5
+10 March,Earthquake,34,251,Natural,Medium,6
+10 March,Poaching,27,230,Human Made,Medium,3
+10 March,Earthquake,35,134,Natural,High,6
+10 March,Pollution,41,66,Human Made,Low,4
+10 March,Disease,9,398,Natural,High,9
+10 March,Storm,2,291,Natural,Low,4
+10 March,Disease,19,48,Natural,High,4
+10 March,Poaching,44,494,Human Made,Low,4
+10 March,Landslide,15,223,Natural,High,7
+10 March,Disease,43,418,Natural,Medium,10
+10 March,Drought,18,214,Natural,High,5
+10 March,Fire,24,381,Natural,High,4
+10 March,Earthquake,37,521,Natural,High,10
+10 March,Storm,34,573,Natural,Medium,3
+10 March,Storm,4,679,Natural,High,9
+10 March,Fire,17,135,Natural,Medium,5
+10 March,Overgrazing,26,555,Human Made,Low,6
+10 March,Drought,22,596,Natural,Medium,9
+10 March,Earthquake,13,205,Natural,Low,5
+10 March,Storm,35,183,Natural,Medium,7
+10 March,Earthquake,25,36,Natural,Medium,5
+10 March,Poaching,23,122,Human Made,Medium,10
+10 March,Landslide,18,477,Natural,Medium,8
+10 March,Storm,46,525,Natural,Medium,2
+10 March,Landslide,28,124,Natural,High,5
+11 March,Overgrazing,6,663,Human Made,Medium,8
+11 March,Disease,9,188,Natural,Medium,2
+11 March,Disease,22,605,Natural,High,8
+11 March,Storm,32,325,Natural,High,4
+11 March,Pollution,49,512,Human Made,High,7
+11 March,Overgrazing,10,165,Human Made,High,9
+11 March,Storm,21,279,Natural,Medium,3
+11 March,Fire,4,417,Natural,Low,10
+11 March,Flood,15,445,Natural,Medium,5
+11 March,Pollution,13,334,Human Made,Medium,10
+11 March,Lightning,42,513,Natural,High,8
+11 March,Fire,43,175,Natural,High,7
+11 March,Lightning,50,539,Natural,Low,4
+11 March,Drought,29,504,Natural,Low,4
+11 March,Deforestation,44,573,Human Made,Medium,9
+11 March,Deforestation,25,411,Human Made,High,2
+11 March,Storm,30,374,Natural,High,7
+11 March,Drought,1,289,Natural,Low,5
+11 March,Disease,9,298,Natural,Low,2
+11 March,Deforestation,33,349,Human Made,Medium,7
+11 March,Fire,32,674,Natural,High,2
+11 March,Landslide,45,345,Natural,Medium,5
+11 March,Flood,26,584,Natural,Medium,5
+11 March,Deforestation,36,22,Human Made,High,5
+11 March,Flood,29,458,Natural,High,6
+11 March,Poaching,5,461,Human Made,Low,3
+11 March,Pollution,36,304,Human Made,Low,4
+11 March,Earthquake,2,461,Natural,Low,7
+11 March,Storm,44,679,Natural,Medium,7
+11 March,Lightning,5,593,Natural,Medium,4
+11 March,Disease,15,459,Natural,High,10
+11 March,Storm,6,263,Natural,High,1
+11 March,Disease,28,93,Natural,Low,5
+11 March,Storm,39,524,Natural,Medium,9
+11 March,Fire,2,656,Natural,Low,3
+11 March,Overgrazing,3,244,Human Made,Low,9
+11 March,Disease,17,370,Natural,Medium,5
+11 March,Deforestation,5,564,Human Made,Medium,8
+11 March,Landslide,23,541,Natural,Low,6
+11 March,Disease,26,329,Natural,Low,1
+11 March,Storm,48,509,Natural,Low,1
+11 March,Overgrazing,12,404,Human Made,Low,8
+11 March,Disease,45,489,Natural,Medium,7
+11 March,Disease,34,178,Natural,Medium,7
+11 March,Landslide,42,213,Natural,Low,5
+11 March,Drought,21,278,Natural,Low,4
+11 March,Drought,46,85,Natural,Medium,8
+11 March,Poaching,39,582,Human Made,Low,10
+11 March,Earthquake,23,563,Natural,High,8
+11 March,Drought,17,13,Natural,Medium,3
+11 March,Lightning,24,111,Natural,Low,6
+11 March,Lightning,39,607,Natural,High,1
+11 March,Disease,10,58,Natural,Low,8
+11 March,Overgrazing,32,337,Human Made,Medium,3
+11 March,Poaching,24,250,Human Made,Low,4
+11 March,Lightning,39,256,Natural,Medium,9
+11 March,Drought,20,532,Natural,High,7
+11 March,Storm,10,691,Natural,High,1
+11 March,Drought,27,208,Natural,High,5
+11 March,Overgrazing,45,453,Human Made,Low,8
+11 March,Fire,40,341,Natural,Medium,8
+11 March,Overgrazing,33,19,Human Made,High,3
+11 March,Storm,14,239,Natural,Low,7
+11 March,Earthquake,36,333,Natural,Low,3
+11 March,Deforestation,48,392,Human Made,Low,8
+11 March,Deforestation,43,90,Human Made,Low,5
+11 March,Storm,14,372,Natural,High,5
+11 March,Storm,44,260,Natural,Medium,4
+11 March,Landslide,35,541,Natural,High,10
+11 March,Flood,10,87,Natural,Low,8
+11 March,Disease,20,75,Natural,High,1
+11 March,Disease,36,198,Natural,High,5
+11 March,Disease,32,75,Natural,Low,1
+11 March,Landslide,7,348,Natural,Medium,1
+11 March,Deforestation,7,471,Human Made,High,10
+11 March,Pollution,18,656,Human Made,High,2
+11 March,Pollution,37,473,Human Made,Low,7
+11 March,Overgrazing,18,92,Human Made,Low,8
+11 March,Landslide,33,442,Natural,Medium,9
+11 March,Flood,18,550,Natural,High,9
+11 March,Fire,19,146,Natural,Medium,9
+11 March,Overgrazing,29,511,Human Made,Medium,7
+12 March,Pollution,46,547,Human Made,High,8
+12 March,Flood,4,272,Natural,Medium,6
+12 March,Deforestation,6,167,Human Made,Medium,6
+12 March,Landslide,36,685,Natural,High,10
+12 March,Poaching,18,183,Human Made,High,5
+12 March,Disease,45,2,Natural,Medium,6
+12 March,Lightning,2,688,Natural,High,4
+12 March,Deforestation,7,127,Human Made,Medium,6
+12 March,Overgrazing,1,433,Human Made,Medium,9
+12 March,Flood,2,665,Natural,Medium,8
+12 March,Overgrazing,23,600,Human Made,Low,9
+12 March,Deforestation,32,653,Human Made,Medium,6
+12 March,Overgrazing,44,39,Human Made,High,9
+12 March,Pollution,32,109,Human Made,Low,3
+12 March,Deforestation,31,514,Human Made,Medium,2
+12 March,Fire,47,419,Natural,Low,3
+12 March,Deforestation,24,397,Human Made,Low,2
+12 March,Storm,24,482,Natural,High,7
+12 March,Overgrazing,45,503,Human Made,High,2
+12 March,Lightning,7,404,Natural,Low,8
+12 March,Disease,25,626,Natural,High,4
+12 March,Earthquake,39,61,Natural,Low,1
+12 March,Lightning,1,541,Natural,Medium,2
+12 March,Drought,15,17,Natural,Low,8
+12 March,Disease,43,146,Natural,Medium,5
+12 March,Disease,31,608,Natural,Medium,6
+12 March,Overgrazing,33,426,Human Made,High,7
+12 March,Storm,44,94,Natural,Medium,3
+12 March,Earthquake,7,177,Natural,Low,5
+12 March,Disease,30,259,Natural,Low,6
+12 March,Deforestation,16,178,Human Made,Low,4
+12 March,Poaching,42,465,Human Made,High,9
+12 March,Storm,5,598,Natural,Low,5
+12 March,Flood,16,346,Natural,Low,9
+12 March,Deforestation,40,560,Human Made,Medium,10
+12 March,Lightning,29,400,Natural,High,9
+12 March,Drought,48,116,Natural,Medium,5
+12 March,Landslide,49,675,Natural,High,4
+12 March,Pollution,31,619,Human Made,Medium,8
+12 March,Fire,41,481,Natural,High,2
+12 March,Overgrazing,42,129,Human Made,Low,1
+12 March,Flood,36,445,Natural,Medium,1
+12 March,Earthquake,27,124,Natural,Medium,8
+12 March,Storm,38,489,Natural,Low,5
+12 March,Earthquake,27,422,Natural,Medium,1
+12 March,Flood,42,636,Natural,Low,3
+12 March,Storm,41,262,Natural,Medium,2
+12 March,Poaching,32,424,Human Made,High,6
+12 March,Drought,19,670,Natural,Medium,10
+12 March,Lightning,5,242,Natural,Low,7
+12 March,Overgrazing,5,468,Human Made,Medium,5
+12 March,Storm,1,522,Natural,High,8
+12 March,Overgrazing,21,294,Human Made,Low,1
+12 March,Poaching,35,659,Human Made,Medium,8
+12 March,Drought,40,308,Natural,Low,8
+12 March,Drought,11,258,Natural,Medium,3
+12 March,Overgrazing,2,223,Human Made,Medium,7
+12 March,Lightning,35,517,Natural,Medium,3
+12 March,Drought,34,503,Natural,Medium,2
+12 March,Disease,48,210,Natural,High,9
+12 March,Poaching,1,137,Human Made,High,7
+12 March,Fire,47,621,Natural,Medium,3
+12 March,Poaching,12,104,Human Made,Medium,5
+12 March,Disease,22,601,Natural,High,1
+12 March,Overgrazing,26,37,Human Made,Low,8
+12 March,Deforestation,42,234,Human Made,High,6
+12 March,Drought,5,81,Natural,Low,9
+12 March,Deforestation,17,549,Human Made,Low,7
+12 March,Fire,39,173,Natural,Low,10
+12 March,Flood,19,356,Natural,High,2
+12 March,Disease,16,643,Natural,High,3
+12 March,Landslide,46,516,Natural,Medium,1
+12 March,Poaching,25,164,Human Made,High,9
+12 March,Pollution,27,46,Human Made,Medium,2
+12 March,Overgrazing,7,55,Human Made,High,8
+12 March,Pollution,22,453,Human Made,High,1
+12 March,Lightning,3,521,Natural,Low,1
+12 March,Poaching,33,406,Human Made,Medium,8
+12 March,Drought,28,197,Natural,Medium,2
+12 March,Landslide,4,699,Natural,Medium,2
+12 March,Pollution,4,1,Human Made,High,7
+12 March,Disease,31,280,Natural,Medium,3
+13 March,Poaching,48,562,Human Made,Medium,6
+13 March,Earthquake,25,178,Natural,Low,8
+13 March,Flood,42,688,Natural,Medium,6
+13 March,Earthquake,43,641,Natural,High,10
+13 March,Earthquake,35,97,Natural,Low,1
+13 March,Earthquake,5,400,Natural,High,9
+13 March,Lightning,4,279,Natural,Medium,9
+13 March,Pollution,29,264,Human Made,Low,8
+13 March,Lightning,30,670,Natural,Low,9
+13 March,Fire,8,325,Natural,Medium,6
+13 March,Earthquake,35,136,Natural,Medium,7
+13 March,Fire,33,274,Natural,Low,1
+13 March,Overgrazing,29,506,Human Made,Low,1
+13 March,Deforestation,39,271,Human Made,Medium,4
+13 March,Disease,35,395,Natural,High,1
+13 March,Drought,47,543,Natural,Low,3
+13 March,Deforestation,46,612,Human Made,Medium,3
+13 March,Storm,8,393,Natural,High,1
+13 March,Pollution,44,359,Human Made,Medium,4
+13 March,Deforestation,2,542,Human Made,High,3
+13 March,Storm,19,2,Natural,High,2
+13 March,Drought,18,601,Natural,Medium,7
+13 March,Flood,20,26,Natural,Medium,10
+13 March,Earthquake,2,277,Natural,High,1
+13 March,Lightning,18,168,Natural,High,9
+13 March,Lightning,37,233,Natural,Medium,5
+13 March,Drought,17,279,Natural,High,7
+13 March,Landslide,10,659,Natural,High,3
+13 March,Fire,34,316,Natural,High,7
+13 March,Overgrazing,37,180,Human Made,Medium,4
+13 March,Fire,6,449,Natural,Medium,9
+13 March,Lightning,31,18,Natural,Medium,10
+13 March,Earthquake,8,249,Natural,Low,4
+13 March,Disease,46,374,Natural,Low,1
+13 March,Poaching,1,165,Human Made,High,10
+13 March,Drought,24,639,Natural,High,2
+13 March,Overgrazing,4,257,Human Made,Medium,8
+13 March,Poaching,42,286,Human Made,Low,9
+13 March,Storm,38,209,Natural,Low,2
+13 March,Lightning,16,623,Natural,Low,7
+13 March,Fire,42,121,Natural,High,9
+13 March,Drought,39,370,Natural,Medium,3
+13 March,Earthquake,50,122,Natural,High,2
+13 March,Flood,39,256,Natural,High,7
+13 March,Lightning,17,159,Natural,High,3
+13 March,Drought,43,344,Natural,Medium,9
+13 March,Storm,26,530,Natural,Medium,10
+13 March,Deforestation,42,272,Human Made,Medium,2
+13 March,Storm,27,644,Natural,Low,9
+13 March,Lightning,21,320,Natural,High,8
+13 March,Poaching,42,677,Human Made,Low,10
+13 March,Fire,33,534,Natural,High,10
+13 March,Fire,17,138,Natural,Medium,10
+13 March,Poaching,14,571,Human Made,Low,1
+13 March,Earthquake,31,502,Natural,High,9
+13 March,Deforestation,26,83,Human Made,Low,10
+13 March,Overgrazing,28,488,Human Made,High,6
+13 March,Fire,19,209,Natural,High,9
+13 March,Poaching,42,258,Human Made,Low,10
+13 March,Lightning,36,341,Natural,Medium,6
+13 March,Disease,44,274,Natural,High,6
+13 March,Disease,20,672,Natural,High,5
+13 March,Pollution,7,649,Human Made,Medium,6
+13 March,Lightning,33,344,Natural,Low,3
+13 March,Earthquake,24,3,Natural,Medium,2
+13 March,Lightning,23,444,Natural,High,7
+13 March,Deforestation,18,262,Human Made,Medium,2
+13 March,Storm,18,532,Natural,High,9
+13 March,Deforestation,9,152,Human Made,High,5
+13 March,Lightning,42,40,Natural,Low,9
+13 March,Storm,21,531,Natural,Low,10
+13 March,Landslide,39,475,Natural,Medium,2
+13 March,Earthquake,20,20,Natural,Low,2
+13 March,Flood,35,339,Natural,Medium,9
+13 March,Fire,21,698,Natural,High,1
+13 March,Drought,22,349,Natural,Medium,8
+13 March,Lightning,9,239,Natural,High,7
+13 March,Landslide,13,471,Natural,Medium,8
+13 March,Flood,1,467,Natural,Medium,2
+13 March,Lightning,11,355,Natural,High,2
+13 March,Earthquake,16,517,Natural,Medium,2
+13 March,Landslide,46,671,Natural,Medium,1
+14 March,Poaching,22,401,Human Made,High,2
+14 March,Disease,11,364,Natural,Low,10
+14 March,Deforestation,2,377,Human Made,High,4
+14 March,Drought,50,348,Natural,Low,9
+14 March,Lightning,9,527,Natural,Medium,5
+14 March,Landslide,4,591,Natural,High,10
+14 March,Disease,2,202,Natural,Medium,3
+14 March,Storm,25,160,Natural,High,5
+14 March,Earthquake,4,272,Natural,Medium,5
+14 March,Drought,50,101,Natural,Medium,1
+14 March,Poaching,24,655,Human Made,High,9
+14 March,Poaching,29,469,Human Made,Low,3
+14 March,Overgrazing,28,362,Human Made,Medium,4
+14 March,Landslide,49,642,Natural,Low,7
+14 March,Pollution,10,669,Human Made,Medium,7
+14 March,Earthquake,27,663,Natural,Low,2
+14 March,Disease,38,597,Natural,Medium,6
+14 March,Drought,7,301,Natural,Medium,8
+14 March,Drought,27,604,Natural,Medium,4
+14 March,Pollution,31,676,Human Made,Low,9
+14 March,Overgrazing,1,261,Human Made,High,3
+14 March,Lightning,15,524,Natural,Medium,2
+14 March,Landslide,18,198,Natural,Low,8
+14 March,Poaching,14,335,Human Made,Medium,7
+14 March,Lightning,30,131,Natural,Low,4
+14 March,Fire,50,542,Natural,Medium,6
+14 March,Storm,13,169,Natural,Medium,1
+14 March,Pollution,20,201,Human Made,Medium,10
+14 March,Earthquake,27,689,Natural,High,2
+14 March,Disease,27,384,Natural,Low,1
+14 March,Fire,16,515,Natural,High,5
+14 March,Landslide,32,344,Natural,Medium,9
+14 March,Pollution,16,409,Human Made,Low,8
+14 March,Poaching,6,226,Human Made,Low,2
+14 March,Landslide,16,186,Natural,Medium,7
+14 March,Overgrazing,9,531,Human Made,Low,9
+14 March,Overgrazing,44,657,Human Made,Low,7
+14 March,Disease,21,341,Natural,Low,10
+14 March,Disease,24,365,Natural,Medium,7
+14 March,Flood,36,245,Natural,Medium,6
+14 March,Drought,35,483,Natural,High,10
+14 March,Landslide,10,405,Natural,Low,3
+14 March,Landslide,21,224,Natural,Medium,4
+14 March,Drought,12,315,Natural,High,2
+14 March,Pollution,18,347,Human Made,High,8
+14 March,Deforestation,11,388,Human Made,Medium,10
+14 March,Landslide,24,412,Natural,High,6
+14 March,Storm,29,223,Natural,Medium,3
+14 March,Lightning,29,407,Natural,High,4
+14 March,Disease,16,366,Natural,Low,5
+14 March,Disease,3,575,Natural,High,4
+14 March,Drought,46,617,Natural,High,1
+14 March,Storm,7,656,Natural,Medium,2
+14 March,Poaching,7,410,Human Made,Medium,1
+14 March,Storm,20,504,Natural,Medium,9
+14 March,Poaching,50,369,Human Made,Low,8
+14 March,Pollution,43,20,Human Made,High,2
+14 March,Drought,10,224,Natural,Medium,7
+14 March,Flood,3,402,Natural,Low,5
+14 March,Storm,13,359,Natural,Low,6
+14 March,Flood,10,553,Natural,Medium,7
+14 March,Disease,44,402,Natural,Low,4
+14 March,Lightning,28,536,Natural,High,9
+14 March,Poaching,38,246,Human Made,Low,10
+14 March,Fire,2,384,Natural,Low,3
+14 March,Poaching,21,475,Human Made,Low,4
+14 March,Deforestation,36,205,Human Made,High,10
+14 March,Fire,50,96,Natural,Medium,4
+14 March,Earthquake,9,213,Natural,Low,7
+14 March,Fire,4,115,Natural,Medium,7
+14 March,Poaching,16,468,Human Made,High,3
+14 March,Earthquake,22,272,Natural,Low,4
+14 March,Flood,50,389,Natural,High,9
+14 March,Disease,28,28,Natural,High,1
+14 March,Disease,38,295,Natural,Low,4
+14 March,Storm,37,151,Natural,High,10
+14 March,Overgrazing,15,247,Human Made,High,10
+14 March,Storm,34,333,Natural,Low,3
+14 March,Drought,6,209,Natural,Medium,9
+14 March,Fire,9,309,Natural,Low,10
+14 March,Storm,14,686,Natural,High,5
+14 March,Landslide,4,142,Natural,Medium,8
+15 March,Poaching,44,224,Human Made,High,4
+15 March,Disease,26,234,Natural,Low,9
+15 March,Fire,23,139,Natural,Medium,8
+15 March,Overgrazing,22,293,Human Made,Medium,3
+15 March,Fire,13,97,Natural,Low,3
+15 March,Deforestation,19,25,Human Made,Low,9
+15 March,Fire,50,508,Natural,Medium,1
+15 March,Disease,23,100,Natural,Low,9
+15 March,Earthquake,45,538,Natural,High,4
+15 March,Lightning,13,226,Natural,Low,1
+15 March,Poaching,43,679,Human Made,High,5
+15 March,Deforestation,3,322,Human Made,Low,4
+15 March,Drought,31,18,Natural,Low,10
+15 March,Landslide,28,54,Natural,Medium,10
+15 March,Pollution,15,284,Human Made,Low,4
+15 March,Lightning,43,670,Natural,Low,6
+15 March,Deforestation,25,550,Human Made,Medium,8
+15 March,Fire,47,399,Natural,Medium,9
+15 March,Storm,40,94,Natural,Low,8
+15 March,Fire,34,660,Natural,Medium,6
+15 March,Pollution,45,567,Human Made,Medium,2
+15 March,Earthquake,43,273,Natural,Medium,3
+15 March,Flood,38,423,Natural,Low,4
+15 March,Storm,13,312,Natural,Low,2
+15 March,Earthquake,50,115,Natural,Medium,2
+15 March,Pollution,18,300,Human Made,Medium,3
+15 March,Overgrazing,27,590,Human Made,Low,6
+15 March,Storm,18,47,Natural,High,7
+15 March,Lightning,33,104,Natural,Medium,2
+15 March,Flood,47,141,Natural,High,8
+15 March,Lightning,7,27,Natural,High,9
+15 March,Overgrazing,43,364,Human Made,High,6
+15 March,Overgrazing,47,362,Human Made,Low,9
+15 March,Earthquake,24,352,Natural,Low,4
+15 March,Disease,33,110,Natural,High,7
+15 March,Lightning,36,635,Natural,Medium,3
+15 March,Drought,29,694,Natural,Medium,5
+15 March,Earthquake,25,367,Natural,Low,2
+15 March,Lightning,21,598,Natural,Medium,6
+15 March,Drought,23,225,Natural,Medium,9
+15 March,Storm,9,423,Natural,Low,6
+15 March,Deforestation,46,37,Human Made,High,8
+15 March,Fire,37,9,Natural,Medium,6
+15 March,Fire,7,471,Natural,High,2
+15 March,Landslide,49,293,Natural,Medium,5
+15 March,Landslide,23,68,Natural,Low,7
+15 March,Disease,30,30,Natural,Low,2
+15 March,Earthquake,50,433,Natural,High,1
+15 March,Landslide,40,563,Natural,High,2
+15 March,Disease,8,624,Natural,High,7
+15 March,Landslide,35,411,Natural,Low,5
+15 March,Earthquake,24,277,Natural,Medium,3
+15 March,Poaching,1,501,Human Made,Medium,6
+15 March,Lightning,12,166,Natural,Medium,6
+15 March,Fire,21,210,Natural,High,9
+15 March,Lightning,21,514,Natural,High,8
+15 March,Pollution,25,440,Human Made,High,9
+15 March,Pollution,4,299,Human Made,High,4
+15 March,Pollution,11,665,Human Made,Low,4
+15 March,Fire,8,52,Natural,Low,7
+15 March,Storm,25,544,Natural,Low,8
+15 March,Flood,30,649,Natural,Medium,3
+15 March,Overgrazing,23,225,Human Made,High,2
+15 March,Disease,16,110,Natural,Medium,5
+15 March,Landslide,38,166,Natural,Low,9
+15 March,Earthquake,14,77,Natural,Medium,10
+15 March,Poaching,35,245,Human Made,Medium,8
+15 March,Flood,29,82,Natural,Medium,6
+15 March,Poaching,2,129,Human Made,Medium,1
+15 March,Poaching,9,231,Human Made,High,4
+15 March,Fire,29,658,Natural,Low,3
+15 March,Flood,44,303,Natural,Medium,1
+15 March,Lightning,11,101,Natural,Low,7
+15 March,Lightning,1,25,Natural,Medium,3
+15 March,Earthquake,45,654,Natural,Low,9
+15 March,Storm,8,679,Natural,Medium,10
+15 March,Disease,46,15,Natural,High,5
+15 March,Flood,11,410,Natural,High,2
+15 March,Storm,45,372,Natural,Medium,5
+15 March,Drought,38,215,Natural,Medium,7
+15 March,Drought,43,289,Natural,Medium,3
+15 March,Landslide,41,47,Natural,High,5
+16 March,Fire,38,303,Natural,High,8
+16 March,Flood,41,500,Natural,Low,6
+16 March,Drought,32,316,Natural,Medium,1
+16 March,Storm,37,381,Natural,Low,6
+16 March,Overgrazing,43,224,Human Made,High,4
+16 March,Landslide,2,603,Natural,Medium,1
+16 March,Poaching,8,290,Human Made,Low,9
+16 March,Storm,30,171,Natural,High,2
+16 March,Deforestation,24,65,Human Made,High,5
+16 March,Drought,13,221,Natural,High,7
+16 March,Fire,43,295,Natural,High,8
+16 March,Disease,15,642,Natural,Medium,3
+16 March,Lightning,41,9,Natural,High,2
+16 March,Poaching,27,444,Human Made,Medium,7
+16 March,Overgrazing,49,294,Human Made,Low,10
+16 March,Pollution,14,292,Human Made,Medium,9
+16 March,Disease,16,113,Natural,Medium,3
+16 March,Pollution,17,652,Human Made,Medium,4
+16 March,Fire,10,376,Natural,High,8
+16 March,Drought,38,689,Natural,Low,5
+16 March,Fire,32,511,Natural,High,8
+16 March,Overgrazing,2,39,Human Made,High,3
+16 March,Fire,43,700,Natural,Low,4
+16 March,Overgrazing,41,691,Human Made,Medium,4
+16 March,Lightning,44,158,Natural,High,1
+16 March,Flood,19,502,Natural,Medium,9
+16 March,Overgrazing,17,165,Human Made,Medium,4
+16 March,Earthquake,5,545,Natural,Medium,2
+16 March,Deforestation,8,186,Human Made,Medium,6
+16 March,Pollution,45,94,Human Made,High,5
+16 March,Disease,17,517,Natural,Low,3
+16 March,Fire,14,606,Natural,High,3
+16 March,Lightning,30,451,Natural,Low,6
+16 March,Deforestation,28,325,Human Made,High,3
+16 March,Deforestation,28,555,Human Made,Low,8
+16 March,Overgrazing,37,681,Human Made,Medium,1
+16 March,Poaching,29,566,Human Made,Medium,2
+16 March,Pollution,9,223,Human Made,Low,1
+16 March,Storm,26,314,Natural,Medium,5
+16 March,Overgrazing,1,233,Human Made,Medium,2
+16 March,Disease,40,194,Natural,High,8
+16 March,Deforestation,2,665,Human Made,Medium,4
+16 March,Disease,30,41,Natural,High,7
+16 March,Earthquake,9,295,Natural,Medium,8
+16 March,Flood,36,621,Natural,Low,2
+16 March,Disease,5,573,Natural,High,8
+16 March,Earthquake,1,282,Natural,Medium,10
+16 March,Overgrazing,27,429,Human Made,High,2
+16 March,Earthquake,10,599,Natural,Medium,1
+16 March,Storm,17,689,Natural,Medium,9
+16 March,Earthquake,39,426,Natural,Medium,2
+16 March,Drought,2,592,Natural,High,8
+16 March,Pollution,13,304,Human Made,Medium,9
+16 March,Storm,41,46,Natural,Medium,4
+16 March,Poaching,5,89,Human Made,High,6
+16 March,Storm,31,208,Natural,Medium,9
+16 March,Earthquake,22,130,Natural,Low,5
+16 March,Disease,1,342,Natural,High,2
+16 March,Drought,40,574,Natural,High,8
+16 March,Poaching,48,532,Human Made,Medium,4
+16 March,Drought,5,416,Natural,Low,6
+16 March,Flood,12,388,Natural,Medium,4
+16 March,Flood,15,77,Natural,Medium,10
+16 March,Poaching,26,167,Human Made,Medium,9
+16 March,Earthquake,39,152,Natural,Low,7
+16 March,Lightning,36,230,Natural,Medium,5
+16 March,Pollution,27,67,Human Made,Low,6
+16 March,Drought,4,1,Natural,Low,5
+16 March,Flood,1,522,Natural,High,6
+16 March,Disease,29,203,Natural,High,9
+16 March,Landslide,12,589,Natural,High,5
+16 March,Flood,32,2,Natural,Medium,4
+16 March,Landslide,38,49,Natural,Low,10
+16 March,Poaching,3,679,Human Made,High,6
+16 March,Storm,26,474,Natural,Low,9
+16 March,Storm,1,403,Natural,Medium,2
+16 March,Disease,49,690,Natural,Medium,6
+16 March,Deforestation,28,319,Human Made,High,10
+16 March,Fire,22,668,Natural,High,8
+16 March,Overgrazing,48,578,Human Made,Medium,1
+16 March,Poaching,24,700,Human Made,High,7
+16 March,Lightning,33,190,Natural,Low,6
+17 March,Storm,43,211,Natural,High,2
+17 March,Fire,4,463,Natural,Low,1
+17 March,Poaching,33,455,Human Made,Low,1
+17 March,Flood,6,290,Natural,Low,3
+17 March,Poaching,12,501,Human Made,Low,4
+17 March,Storm,23,10,Natural,Medium,8
+17 March,Landslide,20,230,Natural,High,5
+17 March,Flood,13,629,Natural,Medium,8
+17 March,Pollution,1,630,Human Made,High,7
+17 March,Lightning,26,40,Natural,Medium,8
+17 March,Lightning,21,618,Natural,High,6
+17 March,Landslide,23,5,Natural,High,2
+17 March,Landslide,38,177,Natural,Medium,2
+17 March,Landslide,39,496,Natural,Medium,4
+17 March,Landslide,6,45,Natural,Medium,1
+17 March,Fire,14,100,Natural,High,5
+17 March,Flood,33,372,Natural,High,3
+17 March,Flood,27,600,Natural,Medium,8
+17 March,Fire,38,685,Natural,Low,5
+17 March,Pollution,30,134,Human Made,High,10
+17 March,Flood,43,543,Natural,High,9
+17 March,Disease,42,373,Natural,High,5
+17 March,Overgrazing,45,192,Human Made,Medium,5
+17 March,Drought,37,483,Natural,High,8
+17 March,Overgrazing,50,216,Human Made,High,9
+17 March,Pollution,39,23,Human Made,Low,3
+17 March,Landslide,21,142,Natural,Low,2
+17 March,Earthquake,9,7,Natural,High,8
+17 March,Earthquake,44,41,Natural,Low,2
+17 March,Lightning,32,249,Natural,Medium,10
+17 March,Disease,13,74,Natural,Medium,6
+17 March,Pollution,47,577,Human Made,Low,7
+17 March,Lightning,34,166,Natural,High,8
+17 March,Fire,48,387,Natural,High,2
+17 March,Poaching,17,100,Human Made,Low,8
+17 March,Deforestation,8,203,Human Made,Medium,8
+17 March,Disease,13,646,Natural,Medium,2
+17 March,Storm,22,504,Natural,High,8
+17 March,Landslide,9,310,Natural,Low,8
+17 March,Poaching,16,418,Human Made,Low,5
+17 March,Earthquake,44,367,Natural,High,1
+17 March,Flood,19,480,Natural,High,2
+17 March,Landslide,42,610,Natural,Low,9
+17 March,Pollution,25,491,Human Made,High,8
+17 March,Storm,48,412,Natural,Medium,1
+17 March,Earthquake,50,107,Natural,Medium,6
+17 March,Earthquake,23,515,Natural,Medium,2
+17 March,Storm,38,358,Natural,High,6
+17 March,Poaching,33,35,Human Made,High,9
+17 March,Landslide,33,354,Natural,High,4
+17 March,Overgrazing,5,687,Human Made,High,9
+17 March,Landslide,19,635,Natural,Medium,2
+17 March,Storm,35,243,Natural,Low,8
+17 March,Overgrazing,2,296,Human Made,High,3
+17 March,Storm,20,155,Natural,High,8
+17 March,Pollution,4,301,Human Made,Low,6
+17 March,Lightning,23,186,Natural,Low,9
+17 March,Disease,26,27,Natural,Low,9
+17 March,Disease,40,90,Natural,Medium,1
+17 March,Storm,49,476,Natural,High,5
+17 March,Deforestation,50,546,Human Made,Low,2
+17 March,Lightning,14,184,Natural,Low,2
+17 March,Earthquake,2,340,Natural,Low,1
+17 March,Pollution,11,488,Human Made,Medium,3
+17 March,Landslide,22,448,Natural,Medium,1
+17 March,Disease,32,446,Natural,High,8
+17 March,Deforestation,43,28,Human Made,Medium,3
+17 March,Poaching,41,620,Human Made,Low,8
+17 March,Lightning,11,358,Natural,Medium,7
+17 March,Storm,27,67,Natural,High,4
+17 March,Drought,39,480,Natural,Medium,9
+17 March,Earthquake,2,478,Natural,Low,3
+17 March,Storm,6,207,Natural,Medium,2
+17 March,Disease,27,73,Natural,Medium,7
+17 March,Deforestation,10,39,Human Made,Low,1
+17 March,Pollution,11,642,Human Made,Low,2
+17 March,Landslide,33,147,Natural,Low,9
+17 March,Overgrazing,4,575,Human Made,Low,2
+17 March,Poaching,41,620,Human Made,High,2
+17 March,Poaching,7,580,Human Made,Low,10
+17 March,Flood,50,228,Natural,High,1
+17 March,Lightning,18,632,Natural,High,7
+18 March,Pollution,4,622,Human Made,Low,3
+18 March,Poaching,19,548,Human Made,High,6
+18 March,Pollution,5,541,Human Made,Low,9
+18 March,Fire,1,266,Natural,Medium,7
+18 March,Disease,25,341,Natural,Medium,6
+18 March,Disease,21,248,Natural,Low,5
+18 March,Landslide,19,541,Natural,Low,4
+18 March,Pollution,30,625,Human Made,High,3
+18 March,Drought,44,161,Natural,Low,8
+18 March,Landslide,8,606,Natural,Medium,6
+18 March,Drought,49,18,Natural,Medium,9
+18 March,Drought,39,486,Natural,Medium,8
+18 March,Drought,32,396,Natural,Low,8
+18 March,Disease,28,336,Natural,High,2
+18 March,Overgrazing,22,651,Human Made,Low,7
+18 March,Fire,6,632,Natural,Medium,3
+18 March,Deforestation,13,400,Human Made,Medium,2
+18 March,Landslide,46,368,Natural,Low,10
+18 March,Storm,27,96,Natural,Low,4
+18 March,Deforestation,26,598,Human Made,High,7
+18 March,Lightning,19,31,Natural,High,9
+18 March,Storm,47,663,Natural,High,4
+18 March,Deforestation,40,328,Human Made,Low,10
+18 March,Flood,19,59,Natural,Medium,3
+18 March,Storm,2,553,Natural,Low,7
+18 March,Fire,23,191,Natural,High,1
+18 March,Disease,3,96,Natural,Medium,6
+18 March,Lightning,26,371,Natural,Low,4
+18 March,Fire,3,417,Natural,High,4
+18 March,Landslide,21,693,Natural,Low,10
+18 March,Overgrazing,35,532,Human Made,Medium,1
+18 March,Poaching,45,524,Human Made,High,5
+18 March,Deforestation,48,130,Human Made,Medium,8
+18 March,Storm,7,437,Natural,Medium,9
+18 March,Pollution,44,345,Human Made,Medium,2
+18 March,Disease,13,12,Natural,Medium,7
+18 March,Flood,25,362,Natural,Medium,6
+18 March,Drought,42,370,Natural,Low,5
+18 March,Earthquake,8,135,Natural,Low,8
+18 March,Pollution,2,16,Human Made,High,6
+18 March,Pollution,16,621,Human Made,High,8
+18 March,Landslide,6,436,Natural,Medium,5
+18 March,Poaching,19,536,Human Made,High,10
+18 March,Disease,3,62,Natural,Medium,2
+18 March,Lightning,44,66,Natural,Low,1
+18 March,Poaching,42,309,Human Made,High,1
+18 March,Poaching,36,392,Human Made,Low,7
+18 March,Overgrazing,29,368,Human Made,High,2
+18 March,Landslide,46,136,Natural,High,2
+18 March,Overgrazing,36,578,Human Made,High,5
+18 March,Poaching,22,50,Human Made,Low,4
+18 March,Drought,5,685,Natural,High,4
+18 March,Lightning,8,428,Natural,High,10
+18 March,Deforestation,21,32,Human Made,Medium,7
+18 March,Fire,5,480,Natural,Medium,10
+18 March,Drought,36,268,Natural,Medium,5
+18 March,Disease,40,378,Natural,High,2
+18 March,Disease,28,242,Natural,High,1
+18 March,Flood,34,228,Natural,Medium,4
+18 March,Earthquake,48,330,Natural,Low,1
+18 March,Flood,4,199,Natural,High,3
+18 March,Flood,18,558,Natural,High,3
+18 March,Pollution,5,20,Human Made,High,4
+18 March,Landslide,49,207,Natural,Low,7
+18 March,Storm,21,527,Natural,Medium,5
+18 March,Landslide,43,209,Natural,Medium,7
+18 March,Lightning,35,677,Natural,Medium,3
+18 March,Landslide,35,309,Natural,Medium,4
+18 March,Storm,1,666,Natural,Low,2
+18 March,Landslide,7,449,Natural,Low,1
+18 March,Disease,33,100,Natural,High,1
+18 March,Disease,15,698,Natural,Low,1
+18 March,Deforestation,30,120,Human Made,Medium,3
+18 March,Storm,13,603,Natural,Low,4
+18 March,Poaching,46,436,Human Made,Low,3
+18 March,Earthquake,26,445,Natural,High,8
+18 March,Storm,46,574,Natural,Low,5
+18 March,Pollution,4,447,Human Made,High,6
+18 March,Pollution,13,699,Human Made,High,9
+18 March,Storm,46,493,Natural,Medium,6
+18 March,Poaching,34,353,Human Made,Low,7
+18 March,Pollution,21,572,Human Made,Medium,6
+19 March,Storm,24,481,Natural,Low,3
+19 March,Drought,1,303,Natural,Low,1
+19 March,Disease,18,486,Natural,Low,10
+19 March,Pollution,25,444,Human Made,High,10
+19 March,Fire,41,10,Natural,High,3
+19 March,Deforestation,42,427,Human Made,Medium,1
+19 March,Deforestation,30,432,Human Made,High,4
+19 March,Deforestation,17,69,Human Made,Medium,1
+19 March,Fire,37,647,Natural,Low,10
+19 March,Landslide,21,65,Natural,High,5
+19 March,Storm,19,93,Natural,Low,6
+19 March,Earthquake,41,676,Natural,High,1
+19 March,Fire,35,418,Natural,High,3
+19 March,Disease,13,484,Natural,Low,5
+19 March,Landslide,13,166,Natural,Medium,6
+19 March,Flood,9,516,Natural,High,5
+19 March,Disease,42,280,Natural,High,6
+19 March,Storm,38,310,Natural,Medium,5
+19 March,Fire,20,309,Natural,High,8
+19 March,Disease,47,384,Natural,Low,9
+19 March,Fire,25,92,Natural,Medium,9
+19 March,Earthquake,39,204,Natural,Low,9
+19 March,Earthquake,48,17,Natural,Medium,1
+19 March,Lightning,36,1,Natural,Low,2
+19 March,Overgrazing,5,108,Human Made,Medium,3
+19 March,Overgrazing,23,505,Human Made,High,1
+19 March,Landslide,49,449,Natural,High,9
+19 March,Deforestation,13,305,Human Made,High,3
+19 March,Drought,4,375,Natural,High,8
+19 March,Pollution,17,445,Human Made,Low,5
+19 March,Overgrazing,14,381,Human Made,Low,10
+19 March,Poaching,5,127,Human Made,Medium,3
+19 March,Deforestation,33,677,Human Made,Low,6
+19 March,Drought,47,548,Natural,High,5
+19 March,Pollution,22,237,Human Made,Low,1
+19 March,Disease,5,261,Natural,Medium,6
+19 March,Deforestation,4,324,Human Made,Medium,6
+19 March,Landslide,39,668,Natural,High,4
+19 March,Deforestation,3,274,Human Made,Low,2
+19 March,Disease,5,242,Natural,Medium,5
+19 March,Pollution,37,210,Human Made,High,1
+19 March,Drought,22,467,Natural,Medium,9
+19 March,Overgrazing,39,232,Human Made,High,2
+19 March,Disease,44,695,Natural,Medium,1
+19 March,Lightning,32,300,Natural,Medium,9
+19 March,Landslide,47,529,Natural,Low,6
+19 March,Flood,43,387,Natural,Medium,1
+19 March,Storm,29,529,Natural,Low,9
+19 March,Landslide,36,575,Natural,Medium,7
+19 March,Disease,32,380,Natural,Low,8
+19 March,Flood,2,651,Natural,Low,4
+19 March,Lightning,36,123,Natural,Medium,4
+19 March,Fire,38,459,Natural,High,10
+19 March,Poaching,1,670,Human Made,Low,9
+19 March,Overgrazing,13,84,Human Made,Medium,5
+19 March,Flood,30,419,Natural,Medium,10
+19 March,Storm,49,631,Natural,Medium,3
+19 March,Poaching,19,465,Human Made,High,7
+19 March,Earthquake,12,149,Natural,High,3
+19 March,Lightning,23,108,Natural,High,7
+19 March,Overgrazing,25,500,Human Made,High,8
+19 March,Poaching,12,454,Human Made,Low,2
+19 March,Poaching,21,277,Human Made,Low,8
+19 March,Flood,17,48,Natural,High,8
+19 March,Pollution,33,202,Human Made,Low,7
+19 March,Poaching,42,370,Human Made,High,3
+19 March,Fire,24,39,Natural,High,6
+19 March,Earthquake,46,10,Natural,Medium,4
+19 March,Flood,20,414,Natural,Low,4
+19 March,Flood,15,369,Natural,High,5
+19 March,Deforestation,18,120,Human Made,High,2
+19 March,Overgrazing,49,223,Human Made,Medium,4
+19 March,Overgrazing,42,306,Human Made,Low,5
+19 March,Poaching,31,4,Human Made,High,1
+19 March,Storm,26,525,Natural,High,5
+19 March,Disease,36,591,Natural,Low,8
+19 March,Flood,35,154,Natural,Low,1
+19 March,Disease,19,656,Natural,Medium,2
+19 March,Earthquake,6,536,Natural,High,7
+19 March,Flood,25,481,Natural,Low,9
+19 March,Deforestation,26,635,Human Made,Medium,1
+19 March,Drought,48,174,Natural,High,9
+20 March,Landslide,25,206,Natural,Low,4
+20 March,Poaching,12,471,Human Made,Medium,6
+20 March,Overgrazing,44,429,Human Made,High,9
+20 March,Flood,43,612,Natural,High,8
+20 March,Disease,32,155,Natural,Medium,10
+20 March,Poaching,13,503,Human Made,High,8
+20 March,Pollution,47,580,Human Made,Low,5
+20 March,Flood,23,417,Natural,High,4
+20 March,Poaching,9,252,Human Made,High,5
+20 March,Drought,1,196,Natural,Low,10
+20 March,Poaching,14,387,Human Made,Medium,5
+20 March,Earthquake,4,141,Natural,Low,6
+20 March,Fire,6,213,Natural,Medium,4
+20 March,Earthquake,18,670,Natural,Low,8
+20 March,Deforestation,10,331,Human Made,Low,1
+20 March,Poaching,6,205,Human Made,Low,4
+20 March,Drought,24,399,Natural,Low,1
+20 March,Poaching,42,663,Human Made,Low,2
+20 March,Landslide,28,172,Natural,Low,3
+20 March,Deforestation,44,652,Human Made,Medium,9
+20 March,Disease,32,296,Natural,Medium,1
+20 March,Lightning,10,649,Natural,Medium,7
+20 March,Landslide,33,437,Natural,Low,8
+20 March,Poaching,30,143,Human Made,Low,5
+20 March,Landslide,17,566,Natural,Low,9
+20 March,Landslide,27,38,Natural,Low,4
+20 March,Storm,46,438,Natural,Medium,5
+20 March,Deforestation,29,650,Human Made,High,4
+20 March,Disease,20,190,Natural,Medium,10
+20 March,Drought,5,13,Natural,High,9
+20 March,Poaching,2,62,Human Made,High,2
+20 March,Earthquake,8,698,Natural,Medium,5
+20 March,Overgrazing,3,359,Human Made,Medium,1
+20 March,Disease,16,596,Natural,Medium,1
+20 March,Fire,17,258,Natural,High,6
+20 March,Poaching,28,424,Human Made,Low,3
+20 March,Pollution,11,287,Human Made,High,6
+20 March,Poaching,46,295,Human Made,High,9
+20 March,Fire,47,354,Natural,Medium,3
+20 March,Storm,6,30,Natural,Medium,4
+20 March,Deforestation,29,42,Human Made,Low,4
+20 March,Flood,30,51,Natural,Low,4
+20 March,Deforestation,34,605,Human Made,Low,4
+20 March,Disease,31,268,Natural,Low,2
+20 March,Lightning,38,525,Natural,Low,9
+20 March,Pollution,27,203,Human Made,Medium,5
+20 March,Lightning,38,660,Natural,Low,8
+20 March,Disease,19,696,Natural,Medium,3
+20 March,Deforestation,46,541,Human Made,Medium,1
+20 March,Flood,48,343,Natural,High,9
+20 March,Flood,36,658,Natural,Low,6
+20 March,Lightning,19,140,Natural,Low,10
+20 March,Landslide,42,121,Natural,High,8
+20 March,Fire,22,492,Natural,Low,9
+20 March,Poaching,27,537,Human Made,High,5
+20 March,Lightning,18,455,Natural,Low,1
+20 March,Disease,20,243,Natural,Low,4
+20 March,Overgrazing,31,397,Human Made,High,5
+20 March,Drought,36,573,Natural,Medium,6
+20 March,Overgrazing,1,630,Human Made,Low,8
+20 March,Lightning,34,47,Natural,High,8
+20 March,Flood,32,259,Natural,High,2
+20 March,Lightning,44,132,Natural,High,5
+20 March,Storm,27,168,Natural,Low,10
+20 March,Disease,32,43,Natural,High,6
+20 March,Landslide,11,105,Natural,High,3
+20 March,Pollution,42,317,Human Made,Medium,5
+20 March,Earthquake,24,60,Natural,High,8
+20 March,Deforestation,20,53,Human Made,High,4
+20 March,Disease,44,21,Natural,Medium,6
+20 March,Fire,8,570,Natural,Medium,4
+20 March,Drought,27,285,Natural,Low,6
+20 March,Overgrazing,21,180,Human Made,Low,9
+20 March,Disease,7,550,Natural,High,7
+20 March,Lightning,21,413,Natural,Medium,9
+20 March,Lightning,19,81,Natural,Low,5
+20 March,Pollution,7,336,Human Made,Medium,8
+20 March,Storm,7,82,Natural,High,3
+20 March,Fire,46,416,Natural,High,3
+20 March,Disease,10,438,Natural,Medium,10
+20 March,Flood,18,279,Natural,High,6
+20 March,Flood,25,30,Natural,Medium,2
+21 March,Flood,18,543,Natural,Low,7
+21 March,Overgrazing,18,478,Human Made,Low,5
+21 March,Poaching,10,60,Human Made,Low,6
+21 March,Pollution,6,154,Human Made,Low,2
+21 March,Poaching,48,492,Human Made,High,5
+21 March,Disease,26,73,Natural,High,7
+21 March,Drought,28,137,Natural,Medium,5
+21 March,Overgrazing,34,161,Human Made,Low,4
+21 March,Drought,21,229,Natural,Low,5
+21 March,Drought,49,217,Natural,Medium,10
+21 March,Earthquake,15,481,Natural,High,3
+21 March,Lightning,1,81,Natural,Low,10
+21 March,Deforestation,2,154,Human Made,High,10
+21 March,Earthquake,21,47,Natural,Low,6
+21 March,Deforestation,45,613,Human Made,Low,5
+21 March,Fire,50,245,Natural,High,8
+21 March,Fire,7,653,Natural,Medium,5
+21 March,Deforestation,27,54,Human Made,High,1
+21 March,Lightning,50,666,Natural,High,3
+21 March,Storm,38,313,Natural,Low,7
+21 March,Lightning,46,42,Natural,Medium,3
+21 March,Overgrazing,5,279,Human Made,Low,2
+21 March,Fire,8,440,Natural,Low,9
+21 March,Storm,31,27,Natural,Medium,9
+21 March,Poaching,11,635,Human Made,Low,7
+21 March,Flood,39,48,Natural,Low,7
+21 March,Poaching,33,664,Human Made,High,5
+21 March,Disease,41,236,Natural,Low,1
+21 March,Lightning,13,53,Natural,High,9
+21 March,Storm,7,358,Natural,Low,3
+21 March,Pollution,30,53,Human Made,High,2
+21 March,Deforestation,12,494,Human Made,Low,1
+21 March,Storm,26,289,Natural,High,10
+21 March,Lightning,16,262,Natural,Medium,3
+21 March,Storm,46,108,Natural,High,4
+21 March,Flood,38,647,Natural,Medium,10
+21 March,Poaching,16,515,Human Made,High,7
+21 March,Landslide,20,73,Natural,Medium,1
+21 March,Flood,22,576,Natural,Low,5
+21 March,Flood,3,323,Natural,Medium,8
+21 March,Earthquake,17,182,Natural,Medium,5
+21 March,Overgrazing,5,503,Human Made,Medium,1
+21 March,Flood,13,335,Natural,Low,8
+21 March,Landslide,42,609,Natural,Medium,10
+21 March,Flood,37,460,Natural,High,8
+21 March,Overgrazing,22,689,Human Made,High,7
+21 March,Poaching,13,290,Human Made,Low,4
+21 March,Landslide,25,260,Natural,Medium,7
+21 March,Disease,15,577,Natural,Medium,8
+21 March,Landslide,17,181,Natural,High,4
+21 March,Landslide,46,628,Natural,Medium,2
+21 March,Deforestation,25,413,Human Made,High,4
+21 March,Storm,48,547,Natural,Medium,2
+21 March,Earthquake,36,450,Natural,Medium,8
+21 March,Storm,10,659,Natural,High,10
+21 March,Overgrazing,36,347,Human Made,Low,1
+21 March,Flood,18,101,Natural,High,3
+21 March,Overgrazing,37,331,Human Made,Medium,10
+21 March,Flood,2,229,Natural,High,6
+21 March,Poaching,2,194,Human Made,High,8
+21 March,Deforestation,15,558,Human Made,Low,8
+21 March,Fire,26,159,Natural,Medium,2
+21 March,Landslide,17,161,Natural,High,5
+21 March,Lightning,11,465,Natural,Medium,10
+21 March,Lightning,38,684,Natural,High,1
+21 March,Earthquake,41,397,Natural,Medium,7
+21 March,Storm,21,188,Natural,Low,1
+21 March,Earthquake,12,278,Natural,Medium,1
+21 March,Pollution,34,171,Human Made,High,4
+21 March,Landslide,42,182,Natural,Medium,6
+21 March,Lightning,9,336,Natural,Low,8
+21 March,Disease,4,374,Natural,High,3
+21 March,Lightning,19,68,Natural,High,5
+21 March,Poaching,22,358,Human Made,High,3
+21 March,Storm,2,420,Natural,Medium,2
+21 March,Drought,31,334,Natural,Medium,2
+21 March,Overgrazing,37,243,Human Made,Medium,5
+21 March,Disease,38,352,Natural,Low,10
+21 March,Drought,46,584,Natural,Medium,7
+21 March,Lightning,18,576,Natural,Low,2
+21 March,Disease,6,324,Natural,Low,2
+21 March,Lightning,9,351,Natural,High,4
+22 March,Pollution,31,584,Human Made,Medium,6
+22 March,Pollution,7,640,Human Made,Medium,8
+22 March,Drought,21,32,Natural,Medium,6
+22 March,Landslide,45,670,Natural,High,10
+22 March,Landslide,37,644,Natural,High,3
+22 March,Drought,30,492,Natural,High,7
+22 March,Drought,1,164,Natural,Medium,7
+22 March,Earthquake,37,151,Natural,Medium,2
+22 March,Deforestation,27,593,Human Made,Medium,6
+22 March,Pollution,36,647,Human Made,Low,6
+22 March,Poaching,50,362,Human Made,Low,7
+22 March,Overgrazing,24,272,Human Made,Medium,7
+22 March,Overgrazing,22,471,Human Made,Low,9
+22 March,Overgrazing,5,265,Human Made,High,6
+22 March,Deforestation,50,591,Human Made,Medium,5
+22 March,Deforestation,6,215,Human Made,Low,9
+22 March,Drought,38,414,Natural,Medium,8
+22 March,Deforestation,40,72,Human Made,Low,4
+22 March,Landslide,36,362,Natural,Low,8
+22 March,Drought,37,304,Natural,Medium,6
+22 March,Deforestation,10,123,Human Made,Low,9
+22 March,Landslide,27,630,Natural,Low,1
+22 March,Fire,6,525,Natural,Medium,4
+22 March,Drought,43,334,Natural,High,6
+22 March,Poaching,38,316,Human Made,Low,7
+22 March,Lightning,10,561,Natural,Medium,10
+22 March,Poaching,41,390,Human Made,Low,10
+22 March,Lightning,44,651,Natural,High,7
+22 March,Flood,33,470,Natural,Medium,4
+22 March,Flood,43,555,Natural,High,3
+22 March,Storm,29,254,Natural,Low,10
+22 March,Poaching,4,3,Human Made,Low,2
+22 March,Disease,22,461,Natural,Low,7
+22 March,Storm,46,360,Natural,Low,7
+22 March,Overgrazing,21,300,Human Made,Medium,2
+22 March,Poaching,9,331,Human Made,Medium,8
+22 March,Flood,22,307,Natural,High,6
+22 March,Pollution,46,623,Human Made,Low,2
+22 March,Disease,6,22,Natural,High,7
+22 March,Drought,31,114,Natural,Medium,7
+22 March,Overgrazing,26,270,Human Made,High,6
+22 March,Fire,50,645,Natural,Low,3
+22 March,Overgrazing,31,342,Human Made,Medium,8
+22 March,Drought,1,49,Natural,Low,9
+22 March,Pollution,4,440,Human Made,Low,7
+22 March,Disease,31,55,Natural,High,3
+22 March,Landslide,31,101,Natural,High,4
+22 March,Fire,6,218,Natural,High,1
+22 March,Disease,26,132,Natural,High,5
+22 March,Landslide,6,529,Natural,High,4
+22 March,Fire,9,289,Natural,High,10
+22 March,Pollution,23,646,Human Made,Medium,10
+22 March,Fire,7,477,Natural,High,8
+22 March,Overgrazing,14,275,Human Made,Low,2
+22 March,Earthquake,49,349,Natural,High,2
+22 March,Pollution,16,246,Human Made,High,2
+22 March,Drought,29,643,Natural,Medium,3
+22 March,Pollution,43,403,Human Made,High,5
+22 March,Drought,44,299,Natural,Medium,7
+22 March,Flood,47,618,Natural,Medium,6
+22 March,Pollution,40,119,Human Made,Low,9
+22 March,Storm,13,528,Natural,Medium,7
+22 March,Deforestation,31,51,Human Made,Low,3
+22 March,Deforestation,4,595,Human Made,High,9
+22 March,Drought,46,113,Natural,Medium,3
+22 March,Disease,1,288,Natural,Medium,8
+22 March,Landslide,19,391,Natural,Medium,4
+22 March,Lightning,44,325,Natural,Medium,7
+22 March,Earthquake,39,370,Natural,Medium,10
+22 March,Drought,22,624,Natural,Medium,5
+22 March,Deforestation,50,257,Human Made,Low,6
+22 March,Lightning,16,4,Natural,High,5
+22 March,Disease,11,194,Natural,Medium,7
+22 March,Overgrazing,5,384,Human Made,Medium,5
+22 March,Fire,14,688,Natural,High,9
+22 March,Pollution,8,696,Human Made,Low,1
+22 March,Disease,16,158,Natural,Medium,3
+22 March,Landslide,28,648,Natural,Medium,2
+22 March,Fire,21,447,Natural,Low,5
+22 March,Overgrazing,16,404,Human Made,Low,8
+22 March,Earthquake,16,241,Natural,High,10
+22 March,Overgrazing,22,434,Human Made,Low,4
+23 March,Earthquake,25,144,Natural,Medium,7
+23 March,Storm,10,288,Natural,Low,5
+23 March,Poaching,43,231,Human Made,Low,9
+23 March,Earthquake,3,691,Natural,High,5
+23 March,Lightning,16,633,Natural,High,6
+23 March,Lightning,5,483,Natural,High,9
+23 March,Disease,28,76,Natural,High,9
+23 March,Landslide,18,316,Natural,Low,1
+23 March,Flood,18,555,Natural,Medium,9
+23 March,Landslide,3,95,Natural,Medium,5
+23 March,Deforestation,5,582,Human Made,High,7
+23 March,Pollution,48,87,Human Made,Low,3
+23 March,Drought,45,241,Natural,Low,10
+23 March,Earthquake,2,79,Natural,High,4
+23 March,Storm,50,159,Natural,Medium,8
+23 March,Storm,15,552,Natural,Medium,9
+23 March,Drought,3,45,Natural,High,6
+23 March,Drought,34,526,Natural,High,7
+23 March,Earthquake,36,628,Natural,Medium,1
+23 March,Poaching,34,369,Human Made,Medium,2
+23 March,Drought,40,188,Natural,Low,8
+23 March,Deforestation,42,55,Human Made,Medium,8
+23 March,Storm,20,35,Natural,Medium,9
+23 March,Earthquake,42,407,Natural,High,5
+23 March,Fire,12,277,Natural,Low,10
+23 March,Landslide,33,35,Natural,Medium,9
+23 March,Fire,15,384,Natural,Low,7
+23 March,Pollution,15,683,Human Made,Low,4
+23 March,Pollution,17,46,Human Made,Medium,8
+23 March,Earthquake,44,376,Natural,Low,4
+23 March,Disease,34,656,Natural,Medium,8
+23 March,Pollution,50,69,Human Made,Medium,9
+23 March,Overgrazing,42,426,Human Made,Medium,9
+23 March,Pollution,16,371,Human Made,Medium,2
+23 March,Overgrazing,46,233,Human Made,High,1
+23 March,Fire,12,83,Natural,Medium,7
+23 March,Flood,30,85,Natural,Medium,8
+23 March,Landslide,8,411,Natural,Low,8
+23 March,Lightning,28,563,Natural,Low,3
+23 March,Disease,33,472,Natural,High,9
+23 March,Landslide,50,124,Natural,Low,4
+23 March,Lightning,27,269,Natural,Medium,7
+23 March,Storm,3,562,Natural,High,7
+23 March,Storm,50,259,Natural,Low,6
+23 March,Drought,2,489,Natural,Low,2
+23 March,Landslide,44,294,Natural,High,6
+23 March,Poaching,11,357,Human Made,Low,10
+23 March,Landslide,19,680,Natural,High,6
+23 March,Disease,33,483,Natural,High,8
+23 March,Drought,6,662,Natural,Medium,4
+23 March,Landslide,36,654,Natural,High,8
+23 March,Storm,26,202,Natural,High,1
+23 March,Overgrazing,49,426,Human Made,Medium,2
+23 March,Lightning,9,263,Natural,High,2
+23 March,Deforestation,45,627,Human Made,Medium,7
+23 March,Overgrazing,3,161,Human Made,High,10
+23 March,Landslide,35,59,Natural,High,6
+23 March,Deforestation,42,689,Human Made,Low,9
+23 March,Deforestation,27,376,Human Made,Medium,3
+23 March,Drought,27,559,Natural,Low,7
+23 March,Drought,9,110,Natural,High,8
+23 March,Disease,35,150,Natural,Medium,3
+23 March,Pollution,11,303,Human Made,Low,10
+23 March,Flood,46,568,Natural,Medium,6
+23 March,Poaching,13,65,Human Made,Medium,10
+23 March,Drought,18,592,Natural,Medium,10
+23 March,Storm,27,161,Natural,High,10
+23 March,Earthquake,19,53,Natural,Low,5
+23 March,Earthquake,38,699,Natural,High,1
+23 March,Lightning,2,447,Natural,Medium,8
+23 March,Poaching,24,674,Human Made,High,7
+23 March,Overgrazing,40,236,Human Made,Low,7
+23 March,Poaching,44,98,Human Made,Medium,9
+23 March,Poaching,23,344,Human Made,Medium,3
+23 March,Disease,14,400,Natural,High,6
+23 March,Earthquake,13,346,Natural,High,8
+23 March,Overgrazing,1,384,Human Made,Medium,1
+23 March,Landslide,50,619,Natural,Low,2
+23 March,Lightning,31,31,Natural,Medium,10
+23 March,Poaching,35,556,Human Made,High,10
+23 March,Lightning,31,503,Natural,High,5
+23 March,Landslide,31,537,Natural,High,7
+24 March,Earthquake,21,486,Natural,High,4
+24 March,Pollution,14,171,Human Made,High,5
+24 March,Overgrazing,21,175,Human Made,High,10
+24 March,Overgrazing,8,343,Human Made,Low,7
+24 March,Lightning,46,82,Natural,Low,9
+24 March,Poaching,37,90,Human Made,Medium,7
+24 March,Earthquake,17,585,Natural,Low,2
+24 March,Earthquake,5,376,Natural,Medium,2
+24 March,Flood,50,476,Natural,Medium,7
+24 March,Flood,3,140,Natural,Medium,9
+24 March,Disease,44,272,Natural,High,8
+24 March,Earthquake,22,131,Natural,Medium,5
+24 March,Pollution,16,543,Human Made,High,6
+24 March,Earthquake,47,381,Natural,High,6
+24 March,Drought,15,661,Natural,Low,5
+24 March,Pollution,42,587,Human Made,Low,9
+24 March,Drought,49,301,Natural,Medium,4
+24 March,Lightning,6,295,Natural,High,4
+24 March,Lightning,16,357,Natural,Low,7
+24 March,Lightning,35,64,Natural,Low,9
+24 March,Storm,12,502,Natural,Low,3
+24 March,Drought,5,590,Natural,Low,10
+24 March,Storm,31,116,Natural,Medium,5
+24 March,Fire,11,384,Natural,Low,2
+24 March,Storm,18,277,Natural,Medium,7
+24 March,Flood,49,684,Natural,Low,4
+24 March,Storm,6,483,Natural,Medium,3
+24 March,Landslide,27,651,Natural,Low,7
+24 March,Fire,21,85,Natural,Low,1
+24 March,Lightning,33,162,Natural,High,6
+24 March,Pollution,41,348,Human Made,Low,3
+24 March,Disease,24,101,Natural,High,8
+24 March,Landslide,5,243,Natural,High,9
+24 March,Storm,23,135,Natural,High,9
+24 March,Lightning,29,260,Natural,Low,8
+24 March,Poaching,29,201,Human Made,Low,4
+24 March,Fire,47,680,Natural,Low,6
+24 March,Storm,15,637,Natural,Medium,7
+24 March,Flood,18,253,Natural,High,5
+24 March,Poaching,11,384,Human Made,High,6
+24 March,Earthquake,4,347,Natural,High,8
+24 March,Pollution,3,593,Human Made,Low,6
+24 March,Earthquake,10,254,Natural,High,5
+24 March,Poaching,10,698,Human Made,Medium,7
+24 March,Fire,11,478,Natural,High,7
+24 March,Flood,18,587,Natural,High,6
+24 March,Flood,36,336,Natural,Low,5
+24 March,Drought,25,519,Natural,High,10
+24 March,Overgrazing,46,1,Human Made,High,8
+24 March,Disease,1,125,Natural,High,5
+24 March,Landslide,49,212,Natural,Low,2
+24 March,Deforestation,31,140,Human Made,Medium,2
+24 March,Overgrazing,20,332,Human Made,Medium,8
+24 March,Lightning,18,330,Natural,High,7
+24 March,Pollution,19,237,Human Made,Medium,6
+24 March,Storm,35,497,Natural,Low,8
+24 March,Poaching,35,497,Human Made,Low,10
+24 March,Storm,47,119,Natural,High,5
+24 March,Poaching,24,647,Human Made,Low,6
+24 March,Landslide,25,194,Natural,Medium,2
+24 March,Earthquake,23,564,Natural,High,6
+24 March,Lightning,36,405,Natural,Low,3
+24 March,Pollution,37,547,Human Made,Medium,2
+24 March,Flood,38,250,Natural,Medium,9
+24 March,Fire,33,369,Natural,Low,1
+24 March,Poaching,45,338,Human Made,Low,9
+24 March,Overgrazing,18,539,Human Made,Medium,4
+24 March,Overgrazing,34,570,Human Made,High,4
+24 March,Lightning,36,242,Natural,High,1
+24 March,Pollution,9,101,Human Made,Low,1
+24 March,Storm,10,482,Natural,High,4
+24 March,Pollution,15,266,Human Made,Medium,8
+24 March,Landslide,49,31,Natural,Low,4
+24 March,Overgrazing,43,580,Human Made,High,9
+24 March,Earthquake,28,325,Natural,High,1
+24 March,Fire,18,533,Natural,High,4
+24 March,Pollution,23,75,Human Made,Low,4
+24 March,Overgrazing,2,74,Human Made,Medium,8
+24 March,Storm,38,657,Natural,Low,1
+24 March,Fire,49,250,Natural,Medium,6
+24 March,Storm,14,346,Natural,Medium,1
+24 March,Earthquake,35,576,Natural,Medium,6
+24 March,Poaching,13,201,Human Made,High,8
+24 March,Fire,7,195,Natural,High,8
+24 March,Poaching,5,117,Human Made,Low,3
+24 March,Pollution,1,592,Human Made,Low,1
+24 March,Landslide,39,227,Natural,Low,10
+24 March,Fire,5,648,Natural,Medium,7
+24 March,Fire,44,519,Natural,Low,5
+24 March,Overgrazing,11,433,Human Made,High,10
+24 March,Storm,42,46,Natural,Medium,10
+24 March,Lightning,42,98,Natural,Medium,4
