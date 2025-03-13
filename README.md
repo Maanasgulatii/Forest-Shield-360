@@ -117,6 +117,7 @@ def send_threat_alert(prediction_result):
 ## Remember: 
 - Make an account on twilio and verify your phone number first.
 - It should contain '+' and the country code.
+- You can change and define the thresholds according to your requirements.
 
 ---
 ## Installation Guide
